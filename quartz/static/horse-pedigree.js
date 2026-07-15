@@ -71,7 +71,7 @@
 
   function fallbackHref(label) {
     const base = new URL("../../", location.href)
-    const path = `Hästar/${label}`
+    const path = `02. Register/02.1 Hästar/${label}`
     return new URL(path.split("/").map(encodeURIComponent).join("/"), base).href
   }
 
