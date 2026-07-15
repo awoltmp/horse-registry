@@ -1,3 +1,273 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+.page > #quartz-body .center { min-width: 0; }
+article { line-height: 1.65; }
+article table { width: 100%; }
+
+/* Neutrala Obsidian-liknande länkar och taggar. */
+article a,
+article a.internal,
+.sidebar a,
+.breadcrumb-container a {
+  background: transparent !important;
+  color: var(--secondary) !important;
+  text-decoration: none;
+}
+article a:hover,
+.sidebar a:hover,
+.breadcrumb-container a:hover {
+  color: var(--dark) !important;
+  text-decoration: underline;
+}
+article .tag-link,
+article a.tag-link,
+article [class*="tag"] a {
+  display: inline-block;
+  width: auto;
+  padding: 0;
+  border: 0;
+  background: transparent !important;
+  color: var(--secondary) !important;
+}
+article mark,
+article .text-highlight {
+  background: var(--highlight) !important;
+  color: inherit !important;
+  border-radius: 3px;
+  padding: 0 0.12em;
+}
+
+/* Högerpanelen: tydliga separata block i stället för hoptryckt inline-innehåll. */
+.sidebar.right {
+  gap: 0.9rem !important;
+  overflow-y: auto;
+  overflow-x: hidden;
+  align-items: stretch;
+}
+.sidebar.right > *,
+.sidebar.right > .right-panel-card {
+  display: block !important;
+  flex: 0 0 auto !important;
+  width: 100% !important;
+  min-width: 0;
+  box-sizing: border-box;
+  margin: 0 !important;
+  padding: 1rem !important;
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--light) 96%, var(--dark) 4%);
+}
+.sidebar.right h2,
+.sidebar.right h3,
+.sidebar.right button {
+  display: block;
+  width: 100%;
+  margin: 0 0 0.65rem !important;
+  text-align: left;
+}
+.sidebar.right ul,
+.sidebar.right ol {
+  display: block !important;
+  width: 100%;
+  margin: 0 !important;
+  padding-left: 0 !important;
+  list-style: none;
+}
+.sidebar.right li {
+  display: block !important;
+  width: 100%;
+  margin: 0.35rem 0 !important;
+  line-height: 1.35;
+}
+.sidebar.right .graph {
+  min-height: 17rem;
+}
+
+/* Stamtavlans Canvas-lika arbetsyta. */
+.pedigree-workspace {
+  width: 100%;
+  margin: 1.1rem 0 1.7rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  background: var(--light);
+  overflow: hidden;
+}
+.pedigree-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.55rem;
+  border-bottom: 1px solid var(--lightgray);
+}
+.pedigree-control {
+  appearance: none;
+  border: 1px solid var(--lightgray);
+  border-radius: 5px;
+  background: var(--light);
+  color: var(--darkgray);
+  font: inherit;
+  font-size: 0.85rem;
+  padding: 0.38rem 0.7rem;
+  cursor: pointer;
+}
+.pedigree-control:hover,
+.pedigree-control:focus-visible {
+  border-color: var(--gray);
+  color: var(--dark);
+  outline: none;
+}
+.pedigree-zoom-value {
+  margin-left: auto;
+  color: var(--gray);
+  font-size: 0.82rem;
+  font-variant-numeric: tabular-nums;
+}
+.pedigree-viewport {
+  position: relative;
+  height: clamp(28rem, 62vh, 48rem);
+  min-height: 28rem;
+  overflow: hidden;
+  cursor: grab;
+  touch-action: none;
+  user-select: none;
+  background: color-mix(in srgb, var(--light) 97%, var(--dark) 3%);
+}
+.pedigree-viewport.is-dragging { cursor: grabbing; }
+.pedigree-stage {
+  position: absolute;
+  inset: 0 auto auto 0;
+  transform-origin: 0 0;
+  will-change: transform;
+}
+.pedigree-svg { display: block; overflow: visible; }
+.pedigree-edge {
+  fill: none;
+  stroke: var(--gray);
+  stroke-width: 1.4;
+  vector-effect: non-scaling-stroke;
+}
+.pedigree-edge-label {
+  fill: var(--gray);
+  font-size: 11px;
+  text-anchor: middle;
+  paint-order: stroke;
+  stroke: var(--light);
+  stroke-width: 4px;
+  stroke-linejoin: round;
+}
+.pedigree-node rect {
+  fill: var(--light);
+  stroke: var(--gray);
+  stroke-width: 1.25;
+  rx: 7;
+  ry: 7;
+}
+.pedigree-node:hover rect,
+.pedigree-node:focus rect {
+  stroke: var(--secondary);
+  stroke-width: 2;
+}
+.pedigree-node text {
+  fill: var(--darkgray);
+  font-size: 13px;
+  font-family: var(--bodyFont);
+  font-weight: 600;
+  pointer-events: none;
+}
+.pedigree-node .pedigree-node-id {
+  font-size: 11px;
+  fill: var(--gray);
+  font-weight: 400;
+}
+.pedigree-node-link { cursor: pointer; outline: none; }
+.pedigree-hint,
+.pedigree-error {
+  padding: 0.55rem 0.7rem;
+  border-top: 1px solid var(--lightgray);
+  color: var(--gray);
+  font-size: 0.84rem;
+}
+.pedigree-workspace:fullscreen {
+  width: 100vw;
+  height: 100vh;
+  border: 0;
+  border-radius: 0;
+  background: var(--light);
+}
+.pedigree-workspace:fullscreen .pedigree-viewport { height: calc(100vh - 3.25rem); }
+body.pedigree-page article > .callout:last-child { display: none; }
+body.pedigree-page pre:has(> code.language-mermaid),
+body.pedigree-page .mermaid:not([data-pedigree-ready="true"]) { display: none; }
+
+@media (max-width: 1200px) {
+  .sidebar.right > *, .sidebar.right > .right-panel-card { padding: 0.8rem !important; }
+}
+@media (max-width: 800px) {
+  .pedigree-viewport { height: 60vh; min-height: 23rem; }
+  .pedigree-zoom-value { width: 100%; margin-left: 0; }
+  .sidebar.right { display: block !important; }
+  .sidebar.right > * { margin-bottom: 0.8rem !important; }
+}
+
+/* Korrigering v4: mer plats för huvudkolumnen. */
+@media (min-width: 1200px) {
+  .page > #quartz-body {
+    grid-template-columns: 250px minmax(0, 1fr) 270px !important;
+    column-gap: 1.25rem !important;
+  }
+  .page > #quartz-body .sidebar {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
+  .page > #quartz-body .center,
+  .page > #quartz-body .page-header,
+  .page > #quartz-body footer {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+/* Korrekta, klickbara stamtavletabeller. */
+article table.pedigree-data-table {
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+article table.pedigree-data-table th,
+article table.pedigree-data-table td {
+  overflow-wrap: anywhere;
+  vertical-align: middle;
+}
+article table.pedigree-data-table th:nth-child(1),
+article table.pedigree-data-table td:nth-child(1) { width: 32%; }
+article table.pedigree-data-table th:nth-child(2),
+article table.pedigree-data-table td:nth-child(2) { width: 26%; }
+article table.pedigree-data-table th:nth-child(3),
+article table.pedigree-data-table td:nth-child(3) { width: 26%; }
+article table.pedigree-data-table th:nth-child(4),
+article table.pedigree-data-table td:nth-child(4) {
+  width: 16%;
+  text-align: center;
+}
+article table.pedigree-data-table a.internal {
+  display: inline;
+  padding: 0;
+  border: 0;
+  background: transparent !important;
+  color: var(--secondary) !important;
+  white-space: normal;
+}
+
+/* Högerpanelens kort får mindre visuell tyngd. */
+@media (min-width: 1200px) {
+  .sidebar.right {
+    padding-top: 4.5rem !important;
+  }
+  .sidebar.right > *,
+  .sidebar.right > .right-panel-card {
+    padding: 0.85rem !important;
+  }
+  .sidebar.right .graph {
+    min-height: 14rem;
+  }
+}
