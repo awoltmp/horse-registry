@@ -16,13 +16,13 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-15 *23:43*
+**Senast uppdaterad:** 2026-07-16 *00:15*
 **Info in-game:** `/h paper H-0001`
 # H-0001 Test
 
 > [!abstract] Info
-> **Ägare:** [[Spelare/LOWAb|LOWAb]]
-> **Uppfödare:** [[Spelare/LOWAb|LOWAb]]
+> **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+> **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Status:** Förvarad
 > **Född:** 2026-07-15
 
@@ -32,9 +32,9 @@ tags:
 > **Snabbhet:** 8,7 b/s
 
 > [!info] Egenskaper
-> **Färg:** [[Färger/Grå|Grå]]
-> **Teckning:** [[Teckningar/Ingen teckning|Ingen teckning]]
-> **Kombinerad:** [[Kombinationer/Grå & Ingen teckning|Grå & Ingen teckning]]
+> **Färg:** [[03. Lexikon/03.1 Färger/Grå|Grå]]
+> **Teckning:** [[03. Lexikon/03.2 Teckningar/Ingen teckning|Ingen teckning]]
+> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Grå & Ingen teckning|Grå & Ingen teckning]]
 
 ## Genetik
 
@@ -42,8 +42,8 @@ tags:
 > **Far:** Okänd
 > **Mor:** Okänd
 > **Avkommor:** -
-> **Stamtavla:** [[Stamtavlor/Fristående hästar|Öppna släktens stamtavla]]
-> **Genetisk Rank:** [[Genetiska ranker/D|D]]
+> **Stamtavla:** [[02. Register/02.3 Stamtavlor/Fristående hästar|Öppna släktens stamtavla]]
+> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/D|D]]
 
 > [!warning] Varning
 > Relationen är 0/100, vilket är under 30.
@@ -57,16 +57,16 @@ tags:
 > **Relation:** 0/100
 
 > [!info] Vinster
-> **[[Tävlingar/Sommarhoppet|Sommarhoppet]]:** 0
-> **[[Tävlingar/Höstgaloppen|Höstgaloppen]]:** 0
-> **[[Tävlingar/Dressyrcupen|Dressyrcupen]]:** 0
+> **[[04. Tävlingar/Sommarhoppet|Sommarhoppet]]:** 0
+> **[[04. Tävlingar/Höstgaloppen|Höstgaloppen]]:** 0
+> **[[04. Tävlingar/Dressyrcupen|Dressyrcupen]]:** 0
 
 ## Historik
 
 ==**2026-07-15**==
-- Namn ändrat till Test av [[Spelare/LOWAb|LOWAb]]
+- Namn ändrat till Test av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
-- Registrerad av [[Spelare/LOWAb|LOWAb]]
+- Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 
 ---

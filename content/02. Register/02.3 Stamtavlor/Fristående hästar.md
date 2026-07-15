@@ -5,18 +5,18 @@ cssclasses:
 
 #stamtavla
 
-**Senast uppdaterad:** 2026-07-15 *23:43*
+**Senast uppdaterad:** 2026-07-16 *00:15*
 
 # Fristående hästar
 
 > [!abstract] Släktöversikt
 > **Antal hästar:** 1
-> **Genomsnittlig genetisk rank:** [[Genetiska ranker/D|D]] (42.2 %)
+> **Genomsnittlig genetisk rank:** [[03. Lexikon/03.4 Genetiska ranker/D|D]] (42.2 %)
 > **Genomsnittlig hälsa:** 20,0
 > **Genomsnittligt hopp:** 3,0 block
 > **Genomsnittlig snabbhet:** 8,7 b/s
-> **Ägare:** [[Spelare/LOWAb|LOWAb]]
-> **Uppfödare:** [[Spelare/LOWAb|LOWAb]]
+> **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+> **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 Hästarna på denna sida saknar registrerade släktband till andra hästar.
 
@@ -31,7 +31,4 @@ flowchart TB
 
 | Häst | Ägare | Uppfödare | Rank |
 |---|---|---|:---:|
-| [[Hästar/H-0001 Test|H-0001 Test]] | [[Spelare/LOWAb|LOWAb]] | [[Spelare/LOWAb|LOWAb]] | [[Genetiska ranker/D|D]] |
-
-> [!info] Storlek och zoom
-> Diagrammet växer automatiskt när fler hästar kopplas till släkten. På webben kan besökaren använda webbläsarens zoom (Ctrl/Cmd + och −). Diagrammets avstånd och textstorlek komprimeras automatiskt för större släkter.
+| [[02. Register/02.1 Hästar/H-0001 Test|H-0001 Test]] | [[02. Register/02.2 Spelare/LOWAb|LOWAb]] | [[02. Register/02.2 Spelare/LOWAb|LOWAb]] | [[03. Lexikon/03.4 Genetiska ranker/D|D]] |
