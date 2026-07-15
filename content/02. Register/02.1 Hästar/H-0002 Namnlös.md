@@ -1,14 +1,14 @@
 ---
-horse_id: "H-0001"
-name: "Test Test"
+horse_id: "H-0002"
+name: "Namnlös"
 owner: "LOWAb"
 breeder: "LOWAb"
 status: "stored"
-born: "2026-07-15T21:02:38.729255211Z"
+born: "2026-07-15T22:42:25.982296069Z"
 genetic_rank: D
-genetic_score: 0.422434
+genetic_score: 0.494585
 color: "Grå"
-marking: "Ingen teckning"
+marking: "Vitfält"
 inbreeding: 0.000000
 tags:
   - hästprofil
@@ -17,24 +17,24 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-16 *00:44*
-**Info in-game:** `/h paper H-0001`
-# H-0001 Test Test
+**Info in-game:** `/h paper H-0002`
+# H-0002 Namnlös
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Status:** Förvarad
-> **Född:** 2026-07-15
+> **Född:** 2026-07-16
 
 > [!info] Stats
-> **Hälsa:** 20,0
-> **Hopp:** 3,0 block
-> **Snabbhet:** 8,7 b/s
+> **Hälsa:** 21,0
+> **Hopp:** 3,5 block
+> **Snabbhet:** 8,9 b/s
 
 > [!info] Egenskaper
 > **Färg:** [[03. Lexikon/03.1 Färger/Grå|Grå]]
-> **Teckning:** [[03. Lexikon/03.2 Teckningar/Ingen teckning|Ingen teckning]]
-> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Grå & Ingen teckning|Grå & Ingen teckning]]
+> **Teckning:** [[03. Lexikon/03.2 Teckningar/Vitfält|Vitfält]]
+> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Grå & Vitfält|Grå & Vitfält]]
 
 ## Genetik
 
@@ -64,13 +64,11 @@ tags:
 ## Historik
 
 ==**2026-07-16**==
-- Namn ändrat till Test Test av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+- Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 ==**2026-07-15**==
-- Namn ändrat till Test av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-
-- Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+- Avliden
 
 
 ---
-Genetisk poäng: **42.2 %** · Hälsa 33.3 % · Hopp 51.5 % · Snabbhet 41.9 %
+Genetisk poäng: **49.5 %** · Hälsa 40.0 % · Hopp 64.8 % · Snabbhet 43.6 %
