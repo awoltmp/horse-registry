@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: example.pages.dev
+  baseUrl: horse-registry.lowa-brandstrom.workers.dev
   ignorePatterns:
     - private
     - templates
