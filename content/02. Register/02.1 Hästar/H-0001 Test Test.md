@@ -1,6 +1,6 @@
 ---
 horse_id: "H-0001"
-name: "Test"
+name: "Test Test"
 owner: "LOWAb"
 breeder: "LOWAb"
 status: "stored"
@@ -16,9 +16,9 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-16 *00:17*
+**Senast uppdaterad:** 2026-07-16 *00:22*
 **Info in-game:** `/h paper H-0001`
-# H-0001 Test
+# H-0001 Test Test
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
@@ -62,6 +62,9 @@ tags:
 > **[[04. Tävlingar/Dressyrcupen|Dressyrcupen]]:** 0
 
 ## Historik
+
+==**2026-07-16**==
+- Namn ändrat till Test Test av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 ==**2026-07-15**==
 - Namn ändrat till Test av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]

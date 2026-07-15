@@ -1,6 +1,6 @@
 #hästregister
 
-**Senast uppdaterad:** 2026-07-16 *00:17*
+**Senast uppdaterad:** 2026-07-16 *00:22*
 
 # Hästregistret
 
@@ -10,7 +10,7 @@
 
 ## Hästar
 
-- [[02. Register/02.1 Hästar/H-0001 Test|H-0001 Test]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · Förvarad
+- [[02. Register/02.1 Hästar/H-0001 Test Test|H-0001 Test Test]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · Förvarad
 
 ## Spelare
 
