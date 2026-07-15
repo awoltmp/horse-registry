@@ -16,7 +16,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-16 *01:40*
+**Senast uppdaterad:** 2026-07-16 *01:50*
 **Info in-game:** `/h paper H-0001`
 # H-0001 Test Test
 
@@ -64,6 +64,10 @@ tags:
 ## Historik
 
 ==**2026-07-16**==
+- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+
+- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+
 - Namn ändrat till Test Test av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 ==**2026-07-15**==

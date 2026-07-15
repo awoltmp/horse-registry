@@ -1,6 +1,6 @@
 ---
 horse_id: "H-0002"
-name: "Namnlös"
+name: "Test"
 owner: "LOWAb"
 breeder: "LOWAb"
 status: "stored"
@@ -16,9 +16,9 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-16 *01:40*
+**Senast uppdaterad:** 2026-07-16 *01:50*
 **Info in-game:** `/h paper H-0002`
-# H-0002 Namnlös
+# H-0002 Test
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
@@ -64,6 +64,10 @@ tags:
 ## Historik
 
 ==**2026-07-16**==
+- Namn ändrat till Test av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+
+- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+
 - Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 ==**2026-07-15**==
