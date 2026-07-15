@@ -1,19 +1,19 @@
 #spelarprofil
 
-**Senast uppdaterad:** 2026-07-15 *20:50*
+**Senast uppdaterad:** 2026-07-15 *21:00*
 **Info in-game:** `/h player LOWAb`
 
 ---
 # LOWAb
 
 > [!abstract] **Info**
-> **Antal ägda hästar:** 18
-> **Antal uppfödda hästar:** 19
+> **Antal ägda hästar:** 19
+> **Antal uppfödda hästar:** 20
 >
-> **Rank:** D (53.3 %)
+> **Rank:** D (52.8 %)
 > **Bästa häst:** [[Hästar/H-0018 Namnlös|H-0018 Namnlös]]
 > **Första häst:** [[Hästar/H-0002 Malin|H-0002 Malin]] (2026-07-15)
-> **Senaste häst:** [[Hästar/H-0020 KONTROLLHÄST|H-0020 KONTROLLHÄST]] (2026-07-15)
+> **Senaste häst:** [[Hästar/H-0021 Superduper kontrollhäst|H-0021 Superduper kontrollhäst]] (2026-07-15)
 
 ---
 ## Hästar
@@ -37,6 +37,7 @@
 [[Hästar/H-0018 Namnlös|H-0018 Namnlös]]
 [[Hästar/H-0019 Namnlös|H-0019 Namnlös]]
 [[Hästar/H-0020 KONTROLLHÄST|H-0020 KONTROLLHÄST]]
+[[Hästar/H-0021 Superduper kontrollhäst|H-0021 Superduper kontrollhäst]]
 
 #### Uppfödda hästar
 [[Hästar/H-0001 Bob|H-0001 Bob]]
@@ -58,6 +59,7 @@
 [[Hästar/H-0018 Namnlös|H-0018 Namnlös]]
 [[Hästar/H-0019 Namnlös|H-0019 Namnlös]]
 [[Hästar/H-0020 KONTROLLHÄST|H-0020 KONTROLLHÄST]]
+[[Hästar/H-0021 Superduper kontrollhäst|H-0021 Superduper kontrollhäst]]
 
 #### Medryttarhästar
 -
@@ -65,6 +67,10 @@
 ## Historik
 
 ==**2026-07-15**==
+- Namn ändrat till Superduper kontrollhäst av [[Spelare/LOWAb|LOWAb]] — [[Hästar/H-0021 Superduper kontrollhäst|H-0021 Superduper kontrollhäst]]
+
+- Registrerad av [[Spelare/LOWAb|LOWAb]] — [[Hästar/H-0021 Superduper kontrollhäst|H-0021 Superduper kontrollhäst]]
+
 - Namn ändrat till KONTROLLHÄST av [[Spelare/LOWAb|LOWAb]] — [[Hästar/H-0020 KONTROLLHÄST|H-0020 KONTROLLHÄST]]
 
 - Registrerad av [[Spelare/LOWAb|LOWAb]] — [[Hästar/H-0020 KONTROLLHÄST|H-0020 KONTROLLHÄST]]

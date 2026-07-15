@@ -1,14 +1,14 @@
 ---
-horse_id: "H-0014"
-name: "Namnlös"
+horse_id: "H-0021"
+name: "Superduper kontrollhäst"
 owner: "LOWAb"
 breeder: "LOWAb"
-status: "spawned"
-born: "2026-07-15T13:00:51.261717112Z"
+status: "stored"
+born: "2026-07-15T18:58:24.875586169Z"
 genetic_rank: D
-genetic_score: 0.472595
-color: "Brun"
-marking: "Ingen teckning"
+genetic_score: 0.446465
+color: "Fux"
+marking: "Svarta prickar"
 inbreeding: 0.000000
 tags:
   - hästprofil
@@ -17,24 +17,24 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-15 *21:00*
-**Info in-game:** `/h paper H-0014`
-# H-0014 Namnlös
+**Info in-game:** `/h paper H-0021`
+# H-0021 Superduper kontrollhäst
 
 > [!abstract] Info
 > **Ägare:** [[Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[Spelare/LOWAb|LOWAb]]
-> **Status:** I världen
+> **Status:** Förvarad
 > **Född:** 2026-07-15
 
 > [!info] Stats
 > **Hälsa:** 23,0
-> **Hopp:** 3,0 block
-> **Snabbhet:** 8,1 b/s
+> **Hopp:** 2,3 block
+> **Snabbhet:** 9,1 b/s
 
 > [!info] Egenskaper
-> **Färg:** [[Färger/Brun|Brun]]
-> **Teckning:** [[Teckningar/Ingen teckning|Ingen teckning]]
-> **Kombinerad:** [[Kombinationer/Brun & Ingen teckning|Brun & Ingen teckning]]
+> **Färg:** [[Färger/Fux|Fux]]
+> **Teckning:** [[Teckningar/Svarta prickar|Svarta prickar]]
+> **Kombinerad:** [[Kombinationer/Fux & Svarta prickar|Fux & Svarta prickar]]
 
 ## Genetik
 
@@ -46,15 +46,15 @@ tags:
 > **Genetisk Rank:** [[Genetiska ranker/D|D]]
 
 > [!warning] Varning
-> Relationen är 1/100, vilket är under 30.
+> Relationen är 0/100, vilket är under 30.
 
 ## Meriter
 
 > [!info] Träning
-> **Hälsa:** 1/100
+> **Hälsa:** 0/100
 > **Hopp:** 0/100
 > **Snabbhet:** 0/100
-> **Relation:** 1/100
+> **Relation:** 0/100
 
 > [!info] Vinster
 > **[[Tävlingar/Sommarhoppet|Sommarhoppet]]:** 0
@@ -64,8 +64,10 @@ tags:
 ## Historik
 
 ==**2026-07-15**==
+- Namn ändrat till Superduper kontrollhäst av [[Spelare/LOWAb|LOWAb]]
+
 - Registrerad av [[Spelare/LOWAb|LOWAb]]
 
 
 ---
-Genetisk poäng: **47.3 %** · Hälsa 53.3 % · Hopp 53.4 % · Snabbhet 35.1 %
+Genetisk poäng: **44.6 %** · Hälsa 53.3 % · Hopp 35.1 % · Snabbhet 45.5 %
