@@ -1,10 +1,10 @@
 #hästregister
 
-**Senast uppdaterad:** 2026-07-15 *17:31*
+**Senast uppdaterad:** 2026-07-15 *20:39*
 
 # Hästregistret
 
-**Antal hästar:** 19
+**Antal hästar:** 20
 
 [[Stamtavlor|Öppna stamtavlorna]]
 
@@ -29,6 +29,7 @@
 - [[Hästar/H-0017 Namnlös|H-0017 Namnlös]] · Ägare: [[Spelare/LOWAb|LOWAb]] · Rank: [[Genetiska ranker/C|C]] · I världen
 - [[Hästar/H-0018 Namnlös|H-0018 Namnlös]] · Ägare: [[Spelare/LOWAb|LOWAb]] · Rank: [[Genetiska ranker/B|B]] · I världen
 - [[Hästar/H-0019 Namnlös|H-0019 Namnlös]] · Ägare: [[Spelare/LOWAb|LOWAb]] · Rank: [[Genetiska ranker/C|C]] · I världen
+- [[Hästar/H-0020 KONTROLLHÄST|H-0020 KONTROLLHÄST]] · Ägare: [[Spelare/LOWAb|LOWAb]] · Rank: [[Genetiska ranker/E|E]] · Förvarad
 
 ## Spelare
 

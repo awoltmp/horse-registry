@@ -1,14 +1,14 @@
 ---
-horse_id: "H-0011"
-name: "Namnlös"
+horse_id: "H-0020"
+name: "KONTROLLHÄST"
 owner: "LOWAb"
 breeder: "LOWAb"
-status: "spawned"
-born: "2026-07-15T12:58:56.714334005Z"
-genetic_rank: D
-genetic_score: 0.458933
+status: "stored"
+born: "2026-07-15T18:02:21.428429657Z"
+genetic_rank: E
+genetic_score: 0.373263
 color: "Vit"
-marking: "Vita strumpor"
+marking: "Vita prickar"
 inbreeding: 0.000000
 tags:
   - hästprofil
@@ -17,33 +17,33 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-15 *20:39*
-**Info in-game:** `/h paper H-0011`
-# H-0011 Namnlös
+**Info in-game:** `/h paper H-0020`
+# H-0020 KONTROLLHÄST
 
 > [!abstract] Info
 > **Ägare:** [[Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[Spelare/LOWAb|LOWAb]]
-> **Status:** I världen
+> **Status:** Förvarad
 > **Född:** 2026-07-15
 
 > [!info] Stats
-> **Hälsa:** 24,0
-> **Hopp:** 1,8 block
-> **Snabbhet:** 10,0 b/s
+> **Hälsa:** 20,0
+> **Hopp:** 2,8 block
+> **Snabbhet:** 7,6 b/s
 
 > [!info] Egenskaper
 > **Färg:** [[Färger/Vit|Vit]]
-> **Teckning:** [[Teckningar/Vita strumpor|Vita strumpor]]
-> **Kombinerad:** [[Kombinationer/Vit & Vita strumpor|Vit & Vita strumpor]]
+> **Teckning:** [[Teckningar/Vita prickar|Vita prickar]]
+> **Kombinerad:** [[Kombinationer/Vit & Vita prickar|Vit & Vita prickar]]
 
 ## Genetik
 
 > [!info] Genetik
 > **Far:** Okänd
 > **Mor:** Okänd
-> **Avkommor:** [[Hästar/H-0015 Namnlös|H-0015 Namnlös]]
-> **Stamtavla:** [[Stamtavlor/Stamtavla H-0011|Öppna släktens stamtavla]]
-> **Genetisk Rank:** [[Genetiska ranker/D|D]]
+> **Avkommor:** -
+> **Stamtavla:** [[Stamtavlor/Fristående hästar|Öppna släktens stamtavla]]
+> **Genetisk Rank:** [[Genetiska ranker/E|E]]
 
 > [!warning] Varning
 > Relationen är 0/100, vilket är under 30.
@@ -64,10 +64,10 @@ tags:
 ## Historik
 
 ==**2026-07-15**==
-- Fick avkomman [[Hästar/H-0015 Namnlös|H-0015 Namnlös]]
+- Namn ändrat till KONTROLLHÄST av [[Spelare/LOWAb|LOWAb]]
 
 - Registrerad av [[Spelare/LOWAb|LOWAb]]
 
 
 ---
-Genetisk poäng: **45.9 %** · Hälsa 60.0 % · Hopp 21.9 % · Snabbhet 55.8 %
+Genetisk poäng: **37.3 %** · Hälsa 33.3 % · Hopp 48.7 % · Snabbhet 29.9 %

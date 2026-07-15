@@ -1,19 +1,19 @@
 #spelarprofil
 
-**Senast uppdaterad:** 2026-07-15 *17:31*
+**Senast uppdaterad:** 2026-07-15 *20:39*
 **Info in-game:** `/h player LOWAb`
 
 ---
 # LOWAb
 
 > [!abstract] **Info**
-> **Antal ägda hästar:** 17
-> **Antal uppfödda hästar:** 18
+> **Antal ägda hästar:** 18
+> **Antal uppfödda hästar:** 19
 >
-> **Rank:** D (54.2 %)
+> **Rank:** D (53.3 %)
 > **Bästa häst:** [[Hästar/H-0018 Namnlös|H-0018 Namnlös]]
 > **Första häst:** [[Hästar/H-0002 Malin|H-0002 Malin]] (2026-07-15)
-> **Senaste häst:** [[Hästar/H-0019 Namnlös|H-0019 Namnlös]] (2026-07-15)
+> **Senaste häst:** [[Hästar/H-0020 KONTROLLHÄST|H-0020 KONTROLLHÄST]] (2026-07-15)
 
 ---
 ## Hästar
@@ -36,6 +36,7 @@
 [[Hästar/H-0017 Namnlös|H-0017 Namnlös]]
 [[Hästar/H-0018 Namnlös|H-0018 Namnlös]]
 [[Hästar/H-0019 Namnlös|H-0019 Namnlös]]
+[[Hästar/H-0020 KONTROLLHÄST|H-0020 KONTROLLHÄST]]
 
 #### Uppfödda hästar
 [[Hästar/H-0001 Bob|H-0001 Bob]]
@@ -56,6 +57,7 @@
 [[Hästar/H-0017 Namnlös|H-0017 Namnlös]]
 [[Hästar/H-0018 Namnlös|H-0018 Namnlös]]
 [[Hästar/H-0019 Namnlös|H-0019 Namnlös]]
+[[Hästar/H-0020 KONTROLLHÄST|H-0020 KONTROLLHÄST]]
 
 #### Medryttarhästar
 -
@@ -63,6 +65,10 @@
 ## Historik
 
 ==**2026-07-15**==
+- Namn ändrat till KONTROLLHÄST av [[Spelare/LOWAb|LOWAb]] — [[Hästar/H-0020 KONTROLLHÄST|H-0020 KONTROLLHÄST]]
+
+- Registrerad av [[Spelare/LOWAb|LOWAb]] — [[Hästar/H-0020 KONTROLLHÄST|H-0020 KONTROLLHÄST]]
+
 - owner ändrades till [[Spelare/mmlx|mmlx]] av [[Spelare/LOWAb|LOWAb]] — [[Hästar/H-0007 Namnlös|H-0007 Namnlös]]
 
 - training-jump ändrades till 10 av [[Spelare/LOWAb|LOWAb]] — [[Hästar/H-0006 Lisa|H-0006 Lisa]]

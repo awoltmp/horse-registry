@@ -5,16 +5,16 @@ cssclasses:
 
 #stamtavla
 
-**Senast uppdaterad:** 2026-07-15 *17:31*
+**Senast uppdaterad:** 2026-07-15 *20:39*
 
 # Fristående hästar
 
 > [!abstract] Släktöversikt
-> **Antal hästar:** 3
-> **Genomsnittlig genetisk rank:** [[Genetiska ranker/D|D]] (47.8 %)
-> **Genomsnittlig hälsa:** 21,7
+> **Antal hästar:** 4
+> **Genomsnittlig genetisk rank:** [[Genetiska ranker/D|D]] (45.2 %)
+> **Genomsnittlig hälsa:** 21,2
 > **Genomsnittligt hopp:** 2,7 block
-> **Genomsnittlig snabbhet:** 10,0 b/s
+> **Genomsnittlig snabbhet:** 9,4 b/s
 > **Ägare:** [[Spelare/LOWAb|LOWAb]], [[Spelare/mmlx|mmlx]]
 > **Uppfödare:** [[Spelare/LOWAb|LOWAb]]
 
@@ -26,7 +26,8 @@ flowchart TB
     h0["H-0007 Namnlös"]
     h1["H-0013 Namnlös"]
     h2["H-0014 Namnlös"]
-    class h0,h1,h2 internal-link;
+    h3["H-0020 KONTROLLHÄST"]
+    class h0,h1,h2,h3 internal-link;
 ```
 
 ## Hästar i släkten
@@ -36,6 +37,7 @@ flowchart TB
 | [[Hästar/H-0007 Namnlös|H-0007 Namnlös]] | [[Spelare/mmlx|mmlx]] | [[Spelare/LOWAb|LOWAb]] | [[Genetiska ranker/C|C]] |
 | [[Hästar/H-0013 Namnlös|H-0013 Namnlös]] | [[Spelare/LOWAb|LOWAb]] | [[Spelare/LOWAb|LOWAb]] | [[Genetiska ranker/E|E]] |
 | [[Hästar/H-0014 Namnlös|H-0014 Namnlös]] | [[Spelare/LOWAb|LOWAb]] | [[Spelare/LOWAb|LOWAb]] | [[Genetiska ranker/D|D]] |
+| [[Hästar/H-0020 KONTROLLHÄST|H-0020 KONTROLLHÄST]] | [[Spelare/LOWAb|LOWAb]] | [[Spelare/LOWAb|LOWAb]] | [[Genetiska ranker/E|E]] |
 
 > [!info] Storlek och zoom
 > Diagrammet växer automatiskt när fler hästar kopplas till släkten. På webben kan besökaren använda webbläsarens zoom (Ctrl/Cmd + och −). Diagrammets avstånd och textstorlek komprimeras automatiskt för större släkter.

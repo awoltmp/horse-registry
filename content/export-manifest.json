@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-15T17:31:27.892611+02:00",
-  "horse_count": 19,
-  "database": "C:\\Users\\lowab\\Downloads\\horse_registry_obsidian_v5\\horse_registry_obsidian_v5\\horses.db",
-  "config": "C:\\Users\\lowab\\Downloads\\horse_registry_obsidian_v5\\horse_registry_obsidian_v5\\config.yml",
-  "competitions": "C:\\Users\\lowab\\Downloads\\horse_registry_obsidian_v5\\horse_registry_obsidian_v5\\competitions.yml"
+  "generated_at": "2026-07-15T20:39:59.173813+02:00",
+  "horse_count": 20,
+  "database": "/pro/minecraft-1/plugins/HorseRegistry/horses.db",
+  "config": "/pro/minecraft-1/plugins/HorseRegistry/config.yml",
+  "competitions": "/pro/minecraft-1/plugins/HorseRegistry/competitions.yml"
 }
