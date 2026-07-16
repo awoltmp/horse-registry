@@ -3,7 +3,7 @@ horse_id: "H-0005"
 name: "Namnlös"
 owner: "LOWAb"
 breeder: "LOWAb"
-status: "spawned"
+status: "stored"
 born: "2026-07-16T21:01:34.725019642Z"
 genetic_rank: C
 genetic_score: 0.617926
@@ -16,14 +16,14 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *00:20*
+**Senast uppdaterad:** 2026-07-17 *00:30*
 **Info in-game:** `/h paper H-0005`
 # H-0005 Namnlös
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-> **Status:** I världen
+> **Status:** Förvarad
 > **Född:** 2026-07-16
 
 > [!info] Stats

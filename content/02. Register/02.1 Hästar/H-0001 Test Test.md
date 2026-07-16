@@ -3,7 +3,7 @@ horse_id: "H-0001"
 name: "Test Test"
 owner: "LOWAb"
 breeder: "LOWAb"
-status: "spawned"
+status: "stored"
 born: "2026-07-15T21:02:38.729255211Z"
 genetic_rank: D
 genetic_score: 0.422434
@@ -16,14 +16,14 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *00:20*
+**Senast uppdaterad:** 2026-07-17 *00:30*
 **Info in-game:** `/h paper H-0001`
 # H-0001 Test Test
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-> **Status:** I världen
+> **Status:** Förvarad
 > **Född:** 2026-07-15
 
 > [!info] Stats
