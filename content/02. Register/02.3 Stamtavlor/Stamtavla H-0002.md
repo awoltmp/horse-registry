@@ -5,7 +5,7 @@ cssclasses:
 
 #stamtavla
 
-**Senast uppdaterad:** 2026-07-16 *22:40*
+**Senast uppdaterad:** 2026-07-16 *22:50*
 
 # Stamtavla H-0002
 
@@ -35,6 +35,6 @@ flowchart TB
 
 | Häst | Ägare | Uppfödare | Rank |
 |---|---|---|:---:|
-| [[02. Register/02.1 Hästar/H-0002 Test|H-0002 Test]] | [[02. Register/02.2 Spelare/LOWAb|LOWAb]] | [[02. Register/02.2 Spelare/LOWAb|LOWAb]] | [[03. Lexikon/03.4 Genetiska ranker/D|D]] |
-| [[02. Register/02.1 Hästar/H-0003 Robert|H-0003 Robert]] | [[02. Register/02.2 Spelare/LOWAb|LOWAb]] | [[02. Register/02.2 Spelare/LOWAb|LOWAb]] | [[03. Lexikon/03.4 Genetiska ranker/E|E]] |
-| [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]] | [[02. Register/02.2 Spelare/LOWAb|LOWAb]] | [[02. Register/02.2 Spelare/LOWAb|LOWAb]] | [[03. Lexikon/03.4 Genetiska ranker/C|C]] |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0002%20Test">H-0002 Test</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/D">D</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0003%20Robert">H-0003 Robert</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/E">E</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0004%20Bob">H-0004 Bob</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/C">C</a> |

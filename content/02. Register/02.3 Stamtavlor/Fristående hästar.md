@@ -5,7 +5,7 @@ cssclasses:
 
 #stamtavla
 
-**Senast uppdaterad:** 2026-07-16 *22:40*
+**Senast uppdaterad:** 2026-07-16 *22:50*
 
 # Fristående hästar
 
@@ -31,4 +31,4 @@ flowchart TB
 
 | Häst | Ägare | Uppfödare | Rank |
 |---|---|---|:---:|
-| [[02. Register/02.1 Hästar/H-0001 Test Test|H-0001 Test Test]] | [[02. Register/02.2 Spelare/LOWAb|LOWAb]] | [[02. Register/02.2 Spelare/LOWAb|LOWAb]] | [[03. Lexikon/03.4 Genetiska ranker/D|D]] |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0001%20Test%20Test">H-0001 Test Test</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/D">D</a> |
