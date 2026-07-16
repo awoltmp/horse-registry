@@ -1,9 +1,9 @@
 ---
 horse_id: "H-0003"
-name: "Namnlös"
+name: "Robert"
 owner: "LOWAb"
 breeder: "LOWAb"
-status: "spawned"
+status: "stored"
 born: "2026-07-16T20:29:58.401659204Z"
 genetic_rank: E
 genetic_score: 0.405820
@@ -16,14 +16,14 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-16 *22:30*
+**Senast uppdaterad:** 2026-07-16 *22:33*
 **Info in-game:** `/h paper H-0003`
-# H-0003 Namnlös
+# H-0003 Robert
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-> **Status:** I världen
+> **Status:** Förvarad
 > **Född:** 2026-07-16
 
 > [!info] Stats
@@ -41,8 +41,8 @@ tags:
 > [!info] Genetik
 > **Far:** Okänd
 > **Mor:** Okänd
-> **Avkommor:** -
-> **Stamtavla:** [[02. Register/02.3 Stamtavlor/Fristående hästar|Öppna släktens stamtavla]]
+> **Avkommor:** [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]]
+> **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0002|Öppna släktens stamtavla]]
 > **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/E|E]]
 
 > [!warning] Varning
@@ -64,6 +64,10 @@ tags:
 ## Historik
 
 ==**2026-07-16**==
+- Namn ändrat till Robert av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+
+- Fick avkomman [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]]
+
 - Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 ==**2026-07-15**==
