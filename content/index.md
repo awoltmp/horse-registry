@@ -1,10 +1,10 @@
 #hästregister
 
-**Senast uppdaterad:** 2026-07-17 *01:20*
+**Senast uppdaterad:** 2026-07-17 *01:22*
 
 # Hästregistret
 
-**Antal hästar:** 11
+**Antal hästar:** 13
 
 [[02. Register/02.3 Stamtavlor|Öppna stamtavlorna]]
 
@@ -15,12 +15,14 @@
 - [[02. Register/02.1 Hästar/H-0003 Robert|H-0003 Robert]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/E|E]] · Förvarad
 - [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/C|C]] · Förvarad
 - [[02. Register/02.1 Hästar/H-0005 Namnlös|H-0005 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/C|C]] · Förvarad
-- [[02. Register/02.1 Hästar/H-0006 Mimimimimi|H-0006 Mimimimimi]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/C|C]] · Förvarad
+- [[02. Register/02.1 Hästar/H-0006 Mimimimimi|H-0006 Mimimimimi]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/C|C]] · I världen
 - [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]] · Ägare: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/E|E]] · Förvarad
 - [[02. Register/02.1 Hästar/H-0008 judesson|H-0008 judesson]] · Ägare: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · Förvarad
 - [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]] · Ägare: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · Förvarad
-- [[02. Register/02.1 Hästar/H-0010 Judessonsonson|H-0010 Judessonsonson]] · Ägare: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/E|E]] · I världen
-- [[02. Register/02.1 Hästar/H-0011 Judesson4|H-0011 Judesson4]] · Ägare: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/C|C]] · I världen
+- [[02. Register/02.1 Hästar/H-0010 Judessonsonson|H-0010 Judessonsonson]] · Ägare: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/E|E]] · Förvarad
+- [[02. Register/02.1 Hästar/H-0011 Judesson4|H-0011 Judesson4]] · Ägare: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/C|C]] · Förvarad
+- [[02. Register/02.1 Hästar/H-0012 Namnlös|H-0012 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · Förvarad
+- [[02. Register/02.1 Hästar/H-0013 Namnlös|H-0013 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/B|B]] · Förvarad
 
 ## Spelare
 

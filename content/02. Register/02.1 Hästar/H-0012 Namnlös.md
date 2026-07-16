@@ -1,15 +1,15 @@
 ---
-horse_id: "H-0011"
-name: "Judesson4"
+horse_id: "H-0012"
+name: "Namnlös"
 owner: "Satm4ra"
 breeder: "Satm4ra"
 status: "stored"
-born: "2026-07-16T23:05:44.969351343Z"
-genetic_rank: C
-genetic_score: 0.609605
+born: "2026-07-16T23:20:39.36977007Z"
+genetic_rank: D
+genetic_score: 0.472663
 color: "Grå"
 marking: "Ingen teckning"
-inbreeding: 0.093750
+inbreeding: 0.125000
 tags:
   - hästprofil
 ---
@@ -17,8 +17,8 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-17 *01:22*
-**Info in-game:** `/h paper H-0011`
-# H-0011 Judesson4
+**Info in-game:** `/h paper H-0012`
+# H-0012 Namnlös
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
@@ -27,27 +27,28 @@ tags:
 > **Född:** 2026-07-17
 
 > [!info] Stats
-> **Hälsa:** 22,1
-> **Hopp:** 4,0 block
-> **Snabbhet:** 10,5 b/s
+> **Hälsa:** 17,8
+> **Hopp:** 3,5 block
+> **Snabbhet:** 10,3 b/s
 
 > [!info] Egenskaper
 > **Färg:** [[03. Lexikon/03.1 Färger/Grå|Grå]]
 > **Teckning:** [[03. Lexikon/03.2 Teckningar/Ingen teckning|Ingen teckning]]
 > **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Grå & Ingen teckning|Grå & Ingen teckning]]
+> **Favoritmat:** Golden Carrot
 
 ## Genetik
 
 > [!info] Genetik
 > **Far:** [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]]
-> **Mor:** [[02. Register/02.1 Hästar/H-0006 Mimimimimi|H-0006 Mimimimimi]]
-> **Avkommor:** [[02. Register/02.1 Hästar/H-0013 Namnlös|H-0013 Namnlös]]
+> **Mor:** [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]]
+> **Avkommor:** -
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0002|Öppna släktens stamtavla]]
-> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]]
+> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/D|D]]
 
-> [!warning] Varning
-> Inavelskoefficienten är 9,38 %.
-> Relationen är 1/100, vilket är under 30.
+> [!fail] Icke godkänd
+> Inavelskoefficienten är 12,50 %.
+> Relationen är 10/100, vilket är under 30.
 
 ## Meriter
 
@@ -55,7 +56,7 @@ tags:
 > **Hälsa:** 1/100
 > **Hopp:** 0/100
 > **Snabbhet:** 0/100
-> **Relation:** 1/100
+> **Relation:** 10/100
 
 > [!info] Vinster
 > **[[04. Tävlingar/Sommarhoppet|Sommarhoppet]]:** 0
@@ -65,13 +66,11 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
-- Fick avkomman [[02. Register/02.1 Hästar/H-0013 Namnlös|H-0013 Namnlös]]
+- Favoritmat upptäckt: gyllene morötter
 
-- Namn ändrat till Judesson4 av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
+- Far: [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]], Mor: [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]]
 
-- Far: [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]], Mor: [[02. Register/02.1 Hästar/H-0006 Mimimimimi|H-0006 Mimimimimi]]
-
-- Inavelsgrad: 9,4%
+- Inavelsgrad: 12,5%
 
 - Född och registrerad av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 
@@ -80,4 +79,4 @@ tags:
 
 
 ---
-Genetisk poäng: **61.0 %** · Hälsa 47.4 % · Hopp 74.5 % · Snabbhet 61.0 %
+Genetisk poäng: **47.3 %** · Hälsa 18.8 % · Hopp 64.3 % · Snabbhet 58.8 %
