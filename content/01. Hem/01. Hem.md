@@ -1,6 +1,6 @@
 #hästregister
 
-**Senast uppdaterad:** 2026-07-17 *00:40*
+**Senast uppdaterad:** 2026-07-17 *00:50*
 
 # Hästregistret
 
@@ -17,7 +17,7 @@
 - [[02. Register/02.1 Hästar/H-0005 Namnlös|H-0005 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/C|C]] · Förvarad
 - [[02. Register/02.1 Hästar/H-0006 Namnlös|H-0006 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/C|C]] · Förvarad
 - [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]] · Ägare: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/E|E]] · Förvarad
-- [[02. Register/02.1 Hästar/H-0008 Judesson|H-0008 Judesson]] · Ägare: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · I världen
+- [[02. Register/02.1 Hästar/H-0008 judesson|H-0008 judesson]] · Ägare: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · I världen
 
 ## Spelare
 

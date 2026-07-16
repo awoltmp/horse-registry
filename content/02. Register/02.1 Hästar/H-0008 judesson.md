@@ -1,6 +1,6 @@
 ---
 horse_id: "H-0008"
-name: "Judesson"
+name: "judesson"
 owner: "Satm4ra"
 breeder: "Satm4ra"
 status: "spawned"
@@ -16,9 +16,9 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *00:40*
+**Senast uppdaterad:** 2026-07-17 *00:50*
 **Info in-game:** `/h paper H-0008`
-# H-0008 Judesson
+# H-0008 judesson
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
@@ -64,6 +64,8 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
+- Namn ändrat till judesson av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
+
 - Namn ändrat till Judesson av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 
 - Far: [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]], Mor: [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]]

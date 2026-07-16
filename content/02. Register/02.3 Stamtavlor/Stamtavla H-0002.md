@@ -5,7 +5,7 @@ cssclasses:
 
 #stamtavla
 
-**Senast uppdaterad:** 2026-07-17 *00:40*
+**Senast uppdaterad:** 2026-07-17 *00:50*
 
 # Stamtavla H-0002
 
@@ -29,7 +29,7 @@ flowchart TB
     h3["H-0005 Namnlös"]
     h4["H-0006 Namnlös"]
     h5["H-0007 Jude"]
-    h6["H-0008 Judesson"]
+    h6["H-0008 judesson"]
     h0 -->|Far| h2
     h1 -->|Mor| h2
     h2 -->|Far| h4
@@ -49,4 +49,4 @@ flowchart TB
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0005%20Namnl%C3%B6s">H-0005 Namnlös</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/C">C</a> |
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0006%20Namnl%C3%B6s">H-0006 Namnlös</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/C">C</a> |
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0007%20Jude">H-0007 Jude</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/E">E</a> |
-| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0008%20Judesson">H-0008 Judesson</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/D">D</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0008%20judesson">H-0008 judesson</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/D">D</a> |
