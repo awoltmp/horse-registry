@@ -1,6 +1,6 @@
 #spelarprofil
 
-**Senast uppdaterad:** 2026-07-17 *00:55*
+**Senast uppdaterad:** 2026-07-17 *01:00*
 **Info in-game:** `/h player Satm4ra`
 
 ---
@@ -13,7 +13,7 @@
 > **Rank:** D (43.0 %)
 > **Bästa häst:** [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]]
 > **Första häst:** [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]] (2026-07-17)
-> **Senaste häst:** [[02. Register/02.1 Hästar/H-0010 Namnlös|H-0010 Namnlös]] (2026-07-17)
+> **Senaste häst:** [[02. Register/02.1 Hästar/H-0010 Judessonsonson|H-0010 Judessonsonson]] (2026-07-17)
 
 ---
 ## Hästar
@@ -22,13 +22,13 @@
 [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]]
 [[02. Register/02.1 Hästar/H-0008 judesson|H-0008 judesson]]
 [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]]
-[[02. Register/02.1 Hästar/H-0010 Namnlös|H-0010 Namnlös]]
+[[02. Register/02.1 Hästar/H-0010 Judessonsonson|H-0010 Judessonsonson]]
 
 #### Uppfödda hästar
 [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]]
 [[02. Register/02.1 Hästar/H-0008 judesson|H-0008 judesson]]
 [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]]
-[[02. Register/02.1 Hästar/H-0010 Namnlös|H-0010 Namnlös]]
+[[02. Register/02.1 Hästar/H-0010 Judessonsonson|H-0010 Judessonsonson]]
 
 #### Medryttarhästar
 [[02. Register/02.1 Hästar/H-0002 Test|H-0002 Test]]
@@ -37,7 +37,9 @@
 ## Historik
 
 ==**2026-07-17**==
-- Född och registrerad av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0010 Namnlös|H-0010 Namnlös]]
+- Namn ändrat till Judessonsonson av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0010 Judessonsonson|H-0010 Judessonsonson]]
+
+- Född och registrerad av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0010 Judessonsonson|H-0010 Judessonsonson]]
 
 - Namn ändrat till Judessonson av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]]
 

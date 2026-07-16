@@ -1,9 +1,9 @@
 ---
 horse_id: "H-0010"
-name: "Namnlös"
+name: "Judessonsonson"
 owner: "Satm4ra"
 breeder: "Satm4ra"
-status: "spawned"
+status: "stored"
 born: "2026-07-16T22:54:03.220125092Z"
 genetic_rank: E
 genetic_score: 0.388408
@@ -16,14 +16,14 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *00:55*
+**Senast uppdaterad:** 2026-07-17 *01:00*
 **Info in-game:** `/h paper H-0010`
-# H-0010 Namnlös
+# H-0010 Judessonsonson
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
-> **Status:** I världen
+> **Status:** Förvarad
 > **Född:** 2026-07-17
 
 > [!info] Stats
@@ -65,6 +65,8 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
+- Namn ändrat till Judessonsonson av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
+
 - Far: [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]], Mor: [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]]
 
 - Inavelsgrad: 12,5%

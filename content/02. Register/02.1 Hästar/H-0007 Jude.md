@@ -16,7 +16,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *00:55*
+**Senast uppdaterad:** 2026-07-17 *01:00*
 **Info in-game:** `/h paper H-0007`
 # H-0007 Jude
 
@@ -41,7 +41,7 @@ tags:
 > [!info] Genetik
 > **Far:** Okänd
 > **Mor:** Okänd
-> **Avkommor:** [[02. Register/02.1 Hästar/H-0008 judesson|H-0008 judesson]], [[02. Register/02.1 Hästar/H-0010 Namnlös|H-0010 Namnlös]]
+> **Avkommor:** [[02. Register/02.1 Hästar/H-0008 judesson|H-0008 judesson]], [[02. Register/02.1 Hästar/H-0010 Judessonsonson|H-0010 Judessonsonson]]
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0002|Öppna släktens stamtavla]]
 > **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/E|E]]
 
@@ -64,7 +64,7 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
-- Fick avkomman [[02. Register/02.1 Hästar/H-0010 Namnlös|H-0010 Namnlös]]
+- Fick avkomman [[02. Register/02.1 Hästar/H-0010 Judessonsonson|H-0010 Judessonsonson]]
 
 - Fick avkomman [[02. Register/02.1 Hästar/H-0008 judesson|H-0008 judesson]]
 
