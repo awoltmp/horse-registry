@@ -1,5 +1,5 @@
 # D
 
-**Senast uppdaterad:** 2026-07-16 *20:50*
+**Senast uppdaterad:** 2026-07-16 *21:00*
 
 Minsta genetiska poäng: **42 %**.
