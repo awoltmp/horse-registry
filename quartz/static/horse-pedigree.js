@@ -17,7 +17,7 @@
 
   function isPedigreePage() {
     const path = decodeURIComponent(location.pathname).replace(/\/$/, "").toLowerCase()
-    return path.includes("/stamtavlor/")
+    return /(?:^|\/)0?2\.3(?:%20|\s)+stamtavlor(?:\/|$)|(?:^|\/)stamtavlor(?:\/|$)/i.test(path)
   }
 
   function findMermaidSource(article) {
