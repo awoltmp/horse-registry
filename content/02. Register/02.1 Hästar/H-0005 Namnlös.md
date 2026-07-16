@@ -1,14 +1,14 @@
 ---
-horse_id: "H-0002"
-name: "Test"
+horse_id: "H-0005"
+name: "Namnlös"
 owner: "LOWAb"
 breeder: "LOWAb"
-status: "stored"
-born: "2026-07-15T22:42:25.982296069Z"
-genetic_rank: D
-genetic_score: 0.494585
+status: "spawned"
+born: "2026-07-16T21:01:34.725019642Z"
+genetic_rank: C
+genetic_score: 0.617926
 color: "Grå"
-marking: "Vitfält"
+marking: "Vita strumpor"
 inbreeding: 0.000000
 tags:
   - hästprofil
@@ -17,33 +17,33 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-16 *23:02*
-**Info in-game:** `/h paper H-0002`
-# H-0002 Test
+**Info in-game:** `/h paper H-0005`
+# H-0005 Namnlös
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-> **Status:** Förvarad
+> **Status:** I världen
 > **Född:** 2026-07-16
 
 > [!info] Stats
-> **Hälsa:** 21,0
+> **Hälsa:** 22,0
 > **Hopp:** 3,5 block
-> **Snabbhet:** 8,9 b/s
+> **Snabbhet:** 11,8 b/s
 
 > [!info] Egenskaper
 > **Färg:** [[03. Lexikon/03.1 Färger/Grå|Grå]]
-> **Teckning:** [[03. Lexikon/03.2 Teckningar/Vitfält|Vitfält]]
-> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Grå & Vitfält|Grå & Vitfält]]
+> **Teckning:** [[03. Lexikon/03.2 Teckningar/Vita strumpor|Vita strumpor]]
+> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Grå & Vita strumpor|Grå & Vita strumpor]]
 
 ## Genetik
 
 > [!info] Genetik
 > **Far:** Okänd
 > **Mor:** Okänd
-> **Avkommor:** [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]]
+> **Avkommor:** [[02. Register/02.1 Hästar/H-0006 Namnlös|H-0006 Namnlös]]
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0002|Öppna släktens stamtavla]]
-> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/D|D]]
+> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]]
 
 > [!warning] Varning
 > Relationen är 0/100, vilket är under 30.
@@ -64,13 +64,9 @@ tags:
 ## Historik
 
 ==**2026-07-16**==
-- Fick avkomman [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]]
+- Fick avkomman [[02. Register/02.1 Hästar/H-0006 Namnlös|H-0006 Namnlös]]
 
-- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-
-- Namn ändrat till Test av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-
-- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+- gender ändrades till Sto av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 - Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
@@ -79,4 +75,4 @@ tags:
 
 
 ---
-Genetisk poäng: **49.5 %** · Hälsa 40.0 % · Hopp 64.8 % · Snabbhet 43.6 %
+Genetisk poäng: **61.8 %** · Hälsa 46.7 % · Hopp 64.1 % · Snabbhet 74.6 %

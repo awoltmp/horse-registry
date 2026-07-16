@@ -1,12 +1,12 @@
 ---
-horse_id: "H-0002"
-name: "Test"
+horse_id: "H-0006"
+name: "Namnlös"
 owner: "LOWAb"
 breeder: "LOWAb"
-status: "stored"
-born: "2026-07-15T22:42:25.982296069Z"
-genetic_rank: D
-genetic_score: 0.494585
+status: "spawned"
+born: "2026-07-16T21:02:03.543502448Z"
+genetic_rank: C
+genetic_score: 0.613767
 color: "Grå"
 marking: "Vitfält"
 inbreeding: 0.000000
@@ -17,19 +17,19 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-16 *23:02*
-**Info in-game:** `/h paper H-0002`
-# H-0002 Test
+**Info in-game:** `/h paper H-0006`
+# H-0006 Namnlös
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-> **Status:** Förvarad
+> **Status:** I världen
 > **Född:** 2026-07-16
 
 > [!info] Stats
-> **Hälsa:** 21,0
-> **Hopp:** 3,5 block
-> **Snabbhet:** 8,9 b/s
+> **Hälsa:** 22,9
+> **Hopp:** 3,8 block
+> **Snabbhet:** 10,5 b/s
 
 > [!info] Egenskaper
 > **Färg:** [[03. Lexikon/03.1 Färger/Grå|Grå]]
@@ -39,11 +39,11 @@ tags:
 ## Genetik
 
 > [!info] Genetik
-> **Far:** Okänd
-> **Mor:** Okänd
-> **Avkommor:** [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]]
+> **Far:** [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]]
+> **Mor:** [[02. Register/02.1 Hästar/H-0005 Namnlös|H-0005 Namnlös]]
+> **Avkommor:** -
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0002|Öppna släktens stamtavla]]
-> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/D|D]]
+> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]]
 
 > [!warning] Varning
 > Relationen är 0/100, vilket är under 30.
@@ -64,19 +64,13 @@ tags:
 ## Historik
 
 ==**2026-07-16**==
-- Fick avkomman [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]]
+- Far: [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]], Mor: [[02. Register/02.1 Hästar/H-0005 Namnlös|H-0005 Namnlös]]
 
-- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-
-- Namn ändrat till Test av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-
-- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-
-- Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+- Född och registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 ==**2026-07-15**==
 - Avliden
 
 
 ---
-Genetisk poäng: **49.5 %** · Hälsa 40.0 % · Hopp 64.8 % · Snabbhet 43.6 %
+Genetisk poäng: **61.4 %** · Hälsa 52.8 % · Hopp 71.1 % · Snabbhet 60.2 %
