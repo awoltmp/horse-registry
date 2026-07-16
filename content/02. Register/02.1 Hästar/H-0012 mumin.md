@@ -1,6 +1,6 @@
 ---
 horse_id: "H-0012"
-name: "Namnlös"
+name: "mumin"
 owner: "Satm4ra"
 breeder: "Satm4ra"
 status: "stored"
@@ -16,9 +16,9 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *01:22*
+**Senast uppdaterad:** 2026-07-17 *01:30*
 **Info in-game:** `/h paper H-0012`
-# H-0012 Namnlös
+# H-0012 mumin
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
@@ -66,6 +66,8 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
+- Namn ändrat till mumin av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
+
 - Favoritmat upptäckt: gyllene morötter
 
 - Far: [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]], Mor: [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]]

@@ -1,6 +1,6 @@
 ---
 horse_id: "H-0013"
-name: "Namnlös"
+name: "Lundgrens"
 owner: "Satm4ra"
 breeder: "Satm4ra"
 status: "stored"
@@ -16,9 +16,9 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *01:22*
+**Senast uppdaterad:** 2026-07-17 *01:30*
 **Info in-game:** `/h paper H-0013`
-# H-0013 Namnlös
+# H-0013 Lundgrens
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
@@ -65,6 +65,8 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
+- Namn ändrat till Lundgrens av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
+
 - Far: [[02. Register/02.1 Hästar/H-0011 Judesson4|H-0011 Judesson4]], Mor: [[02. Register/02.1 Hästar/H-0006 Mimimimimi|H-0006 Mimimimimi]]
 
 - Inavelsgrad: 14,1%

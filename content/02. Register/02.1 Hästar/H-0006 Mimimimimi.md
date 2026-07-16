@@ -3,7 +3,7 @@ horse_id: "H-0006"
 name: "Mimimimimi"
 owner: "LOWAb"
 breeder: "LOWAb"
-status: "spawned"
+status: "stored"
 born: "2026-07-16T21:02:03.543502448Z"
 genetic_rank: C
 genetic_score: 0.613767
@@ -16,7 +16,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *01:22*
+**Senast uppdaterad:** 2026-07-17 *01:30*
 **Info in-game:** `/h paper H-0006`
 # H-0006 Mimimimimi
 
@@ -24,7 +24,7 @@ tags:
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Medryttare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
-> **Status:** I världen
+> **Status:** Förvarad
 > **Född:** 2026-07-16
 
 > [!info] Stats
@@ -42,7 +42,7 @@ tags:
 > [!info] Genetik
 > **Far:** [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]]
 > **Mor:** [[02. Register/02.1 Hästar/H-0005 Namnlös|H-0005 Namnlös]]
-> **Avkommor:** [[02. Register/02.1 Hästar/H-0011 Judesson4|H-0011 Judesson4]], [[02. Register/02.1 Hästar/H-0013 Namnlös|H-0013 Namnlös]]
+> **Avkommor:** [[02. Register/02.1 Hästar/H-0011 Judesson4|H-0011 Judesson4]], [[02. Register/02.1 Hästar/H-0013 Lundgrens|H-0013 Lundgrens]]
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0002|Öppna släktens stamtavla]]
 > **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]]
 
@@ -65,7 +65,7 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
-- Fick avkomman [[02. Register/02.1 Hästar/H-0013 Namnlös|H-0013 Namnlös]]
+- Fick avkomman [[02. Register/02.1 Hästar/H-0013 Lundgrens|H-0013 Lundgrens]]
 
 - Fick avkomman [[02. Register/02.1 Hästar/H-0011 Judesson4|H-0011 Judesson4]]
 

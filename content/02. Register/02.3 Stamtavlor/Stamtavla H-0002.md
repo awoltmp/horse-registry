@@ -5,7 +5,7 @@ cssclasses:
 
 #stamtavla
 
-**Senast uppdaterad:** 2026-07-17 *01:22*
+**Senast uppdaterad:** 2026-07-17 *01:30*
 
 # Stamtavla H-0002
 
@@ -33,8 +33,8 @@ flowchart TB
     h7["H-0009 Judessonson"]
     h8["H-0010 Judessonsonson"]
     h9["H-0011 Judesson4"]
-    h10["H-0012 Namnlös"]
-    h11["H-0013 Namnlös"]
+    h10["H-0012 mumin"]
+    h11["H-0013 Lundgrens"]
     h0 -->|Far| h2
     h1 -->|Mor| h2
     h2 -->|Far| h4
@@ -68,5 +68,5 @@ flowchart TB
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0009%20Judessonson">H-0009 Judessonson</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/D">D</a> |
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0010%20Judessonsonson">H-0010 Judessonsonson</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/E">E</a> |
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0011%20Judesson4">H-0011 Judesson4</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/C">C</a> |
-| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0012%20Namnl%C3%B6s">H-0012 Namnlös</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/D">D</a> |
-| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0013%20Namnl%C3%B6s">H-0013 Namnlös</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/B">B</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0012%20mumin">H-0012 mumin</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/D">D</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0013%20Lundgrens">H-0013 Lundgrens</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/B">B</a> |
