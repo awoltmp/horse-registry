@@ -1,6 +1,6 @@
 #spelarprofil
 
-**Senast uppdaterad:** 2026-07-17 *00:30*
+**Senast uppdaterad:** 2026-07-17 *00:40*
 **Info in-game:** `/h player LOWAb`
 
 ---
@@ -38,6 +38,13 @@
 -
 
 ## Historik
+
+==**2026-07-17**==
+- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]]
+
+- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0001 Test Test|H-0001 Test Test]]
+
+- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0003 Robert|H-0003 Robert]]
 
 ==**2026-07-16**==
 - Född och registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0006 Namnlös|H-0006 Namnlös]]

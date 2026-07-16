@@ -5,18 +5,18 @@ cssclasses:
 
 #stamtavla
 
-**Senast uppdaterad:** 2026-07-17 *00:30*
+**Senast uppdaterad:** 2026-07-17 *00:40*
 
 # Stamtavla H-0002
 
 > [!abstract] Släktöversikt
-> **Antal hästar:** 5
-> **Genomsnittlig genetisk rank:** [[03. Lexikon/03.4 Genetiska ranker/D|D]] (54.4 %)
-> **Genomsnittlig hälsa:** 21,3
-> **Genomsnittligt hopp:** 3,8 block
-> **Genomsnittlig snabbhet:** 9,6 b/s
-> **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-> **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+> **Antal hästar:** 7
+> **Genomsnittlig genetisk rank:** [[03. Lexikon/03.4 Genetiska ranker/D|D]] (50.1 %)
+> **Genomsnittlig hälsa:** 20,0
+> **Genomsnittligt hopp:** 3,7 block
+> **Genomsnittlig snabbhet:** 9,4 b/s
+> **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]], [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
+> **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]], [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 
 Klicka på en häst i diagrammet för att öppna profilen.
 
@@ -28,11 +28,15 @@ flowchart TB
     h2["H-0004 Bob"]
     h3["H-0005 Namnlös"]
     h4["H-0006 Namnlös"]
+    h5["H-0007 Jude"]
+    h6["H-0008 Judesson"]
     h0 -->|Far| h2
     h1 -->|Mor| h2
     h2 -->|Far| h4
     h3 -->|Mor| h4
-    class h0,h1,h2,h3,h4 internal-link;
+    h2 -->|Far| h6
+    h5 -->|Mor| h6
+    class h0,h1,h2,h3,h4,h5,h6 internal-link;
 ```
 
 ## Hästar i släkten
@@ -44,3 +48,5 @@ flowchart TB
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0004%20Bob">H-0004 Bob</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/C">C</a> |
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0005%20Namnl%C3%B6s">H-0005 Namnlös</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/C">C</a> |
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0006%20Namnl%C3%B6s">H-0006 Namnlös</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/C">C</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0007%20Jude">H-0007 Jude</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/E">E</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0008%20Judesson">H-0008 Judesson</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/D">D</a> |
