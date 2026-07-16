@@ -3,7 +3,7 @@ horse_id: "H-0008"
 name: "judesson"
 owner: "Satm4ra"
 breeder: "Satm4ra"
-status: "spawned"
+status: "stored"
 born: "2026-07-16T22:38:54.770285854Z"
 genetic_rank: D
 genetic_score: 0.454386
@@ -16,14 +16,14 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *00:50*
+**Senast uppdaterad:** 2026-07-17 *00:55*
 **Info in-game:** `/h paper H-0008`
 # H-0008 judesson
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
-> **Status:** I världen
+> **Status:** Förvarad
 > **Född:** 2026-07-17
 
 > [!info] Stats
@@ -41,20 +41,20 @@ tags:
 > [!info] Genetik
 > **Far:** [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]]
 > **Mor:** [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]]
-> **Avkommor:** -
+> **Avkommor:** [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]]
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0002|Öppna släktens stamtavla]]
 > **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/D|D]]
 
 > [!warning] Varning
-> Relationen är 0/100, vilket är under 30.
+> Relationen är 2/100, vilket är under 30.
 
 ## Meriter
 
 > [!info] Träning
-> **Hälsa:** 0/100
+> **Hälsa:** 2/100
 > **Hopp:** 0/100
 > **Snabbhet:** 0/100
-> **Relation:** 0/100
+> **Relation:** 2/100
 
 > [!info] Vinster
 > **[[04. Tävlingar/Sommarhoppet|Sommarhoppet]]:** 0
@@ -64,6 +64,10 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
+- Fick avkomman [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]]
+
+- Ny handling utskriven av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
+
 - Namn ändrat till judesson av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 
 - Namn ändrat till Judesson av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]

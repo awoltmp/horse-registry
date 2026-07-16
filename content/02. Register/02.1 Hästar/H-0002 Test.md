@@ -3,7 +3,7 @@ horse_id: "H-0002"
 name: "Test"
 owner: "LOWAb"
 breeder: "LOWAb"
-status: "stored"
+status: "spawned"
 born: "2026-07-15T22:42:25.982296069Z"
 genetic_rank: D
 genetic_score: 0.494585
@@ -16,14 +16,15 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *00:50*
+**Senast uppdaterad:** 2026-07-17 *00:55*
 **Info in-game:** `/h paper H-0002`
 # H-0002 Test
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-> **Status:** Förvarad
+> **Medryttare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
+> **Status:** I världen
 > **Född:** 2026-07-16
 
 > [!info] Stats
@@ -41,7 +42,7 @@ tags:
 > [!info] Genetik
 > **Far:** Okänd
 > **Mor:** Okänd
-> **Avkommor:** [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]]
+> **Avkommor:** [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]], [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]]
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0002|Öppna släktens stamtavla]]
 > **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/D|D]]
 
@@ -62,6 +63,13 @@ tags:
 > **[[04. Tävlingar/Dressyrcupen|Dressyrcupen]]:** 0
 
 ## Historik
+
+==**2026-07-17**==
+- Fick avkomman [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]]
+
+- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+
+- Medryttare tillagd: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 
 ==**2026-07-16**==
 - Fick avkomman [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]]

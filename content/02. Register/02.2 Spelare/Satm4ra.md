@@ -1,19 +1,19 @@
 #spelarprofil
 
-**Senast uppdaterad:** 2026-07-17 *00:50*
+**Senast uppdaterad:** 2026-07-17 *00:55*
 **Info in-game:** `/h player Satm4ra`
 
 ---
 # Satm4ra
 
 > [!abstract] **Info**
-> **Antal ägda hästar:** 2
-> **Antal uppfödda hästar:** 2
+> **Antal ägda hästar:** 4
+> **Antal uppfödda hästar:** 4
 >
-> **Rank:** E (39.3 %)
-> **Bästa häst:** [[02. Register/02.1 Hästar/H-0008 judesson|H-0008 judesson]]
+> **Rank:** D (43.0 %)
+> **Bästa häst:** [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]]
 > **Första häst:** [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]] (2026-07-17)
-> **Senaste häst:** [[02. Register/02.1 Hästar/H-0008 judesson|H-0008 judesson]] (2026-07-17)
+> **Senaste häst:** [[02. Register/02.1 Hästar/H-0010 Namnlös|H-0010 Namnlös]] (2026-07-17)
 
 ---
 ## Hästar
@@ -21,17 +21,32 @@
 #### Ägda hästar
 [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]]
 [[02. Register/02.1 Hästar/H-0008 judesson|H-0008 judesson]]
+[[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]]
+[[02. Register/02.1 Hästar/H-0010 Namnlös|H-0010 Namnlös]]
 
 #### Uppfödda hästar
 [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]]
 [[02. Register/02.1 Hästar/H-0008 judesson|H-0008 judesson]]
+[[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]]
+[[02. Register/02.1 Hästar/H-0010 Namnlös|H-0010 Namnlös]]
 
 #### Medryttarhästar
+[[02. Register/02.1 Hästar/H-0002 Test|H-0002 Test]]
 [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]]
 
 ## Historik
 
 ==**2026-07-17**==
+- Född och registrerad av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0010 Namnlös|H-0010 Namnlös]]
+
+- Namn ändrat till Judessonson av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]]
+
+- Född och registrerad av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]]
+
+- Medryttare tillagd: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0002 Test|H-0002 Test]]
+
+- Ny handling utskriven av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0008 judesson|H-0008 judesson]]
+
 - Namn ändrat till judesson av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0008 judesson|H-0008 judesson]]
 
 - Namn ändrat till Judesson av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0008 judesson|H-0008 judesson]]

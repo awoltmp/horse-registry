@@ -1,15 +1,15 @@
 ---
-horse_id: "H-0007"
-name: "Jude"
+horse_id: "H-0010"
+name: "Namnlös"
 owner: "Satm4ra"
 breeder: "Satm4ra"
-status: "stored"
-born: "2026-07-16T22:33:37.181782476Z"
+status: "spawned"
+born: "2026-07-16T22:54:03.220125092Z"
 genetic_rank: E
-genetic_score: 0.330929
+genetic_score: 0.388408
 color: "Krämvit"
 marking: "Ingen teckning"
-inbreeding: 0.000000
+inbreeding: 0.125000
 tags:
   - hästprofil
 ---
@@ -17,19 +17,19 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-17 *00:55*
-**Info in-game:** `/h paper H-0007`
-# H-0007 Jude
+**Info in-game:** `/h paper H-0010`
+# H-0010 Namnlös
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
-> **Status:** Förvarad
+> **Status:** I världen
 > **Född:** 2026-07-17
 
 > [!info] Stats
-> **Hälsa:** 17,0
-> **Hopp:** 2,8 block
-> **Snabbhet:** 8,5 b/s
+> **Hälsa:** 18,6
+> **Hopp:** 2,6 block
+> **Snabbhet:** 9,4 b/s
 
 > [!info] Egenskaper
 > **Färg:** [[03. Lexikon/03.1 Färger/Krämvit|Krämvit]]
@@ -39,22 +39,23 @@ tags:
 ## Genetik
 
 > [!info] Genetik
-> **Far:** Okänd
-> **Mor:** Okänd
-> **Avkommor:** [[02. Register/02.1 Hästar/H-0008 judesson|H-0008 judesson]], [[02. Register/02.1 Hästar/H-0010 Namnlös|H-0010 Namnlös]]
+> **Far:** [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]]
+> **Mor:** [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]]
+> **Avkommor:** -
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0002|Öppna släktens stamtavla]]
 > **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/E|E]]
 
-> [!warning] Varning
-> Relationen är 0/100, vilket är under 30.
+> [!fail] Icke godkänd
+> Inavelskoefficienten är 12,50 %.
+> Relationen är 1/100, vilket är under 30.
 
 ## Meriter
 
 > [!info] Träning
-> **Hälsa:** 0/100
+> **Hälsa:** 1/100
 > **Hopp:** 0/100
 > **Snabbhet:** 0/100
-> **Relation:** 0/100
+> **Relation:** 1/100
 
 > [!info] Vinster
 > **[[04. Tävlingar/Sommarhoppet|Sommarhoppet]]:** 0
@@ -64,17 +65,15 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
-- Fick avkomman [[02. Register/02.1 Hästar/H-0010 Namnlös|H-0010 Namnlös]]
+- Far: [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]], Mor: [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]]
 
-- Fick avkomman [[02. Register/02.1 Hästar/H-0008 judesson|H-0008 judesson]]
+- Inavelsgrad: 12,5%
 
-- Namn ändrat till Jude av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
-
-- Registrerad av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
+- Född och registrerad av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 
 ==**2026-07-15**==
 - Avliden
 
 
 ---
-Genetisk poäng: **33.1 %** · Hälsa 13.3 % · Hopp 46.8 % · Snabbhet 39.2 %
+Genetisk poäng: **38.8 %** · Hälsa 24.2 % · Hopp 43.7 % · Snabbhet 48.6 %
