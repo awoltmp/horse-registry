@@ -5,23 +5,23 @@ cssclasses:
 
 #stamtavla
 
-**Senast uppdaterad:** 2026-07-17 *01:30*
+**Senast uppdaterad:** 2026-07-17 *01:40*
 
 # Stamtavla H-0002
 
 > [!abstract] Släktöversikt
-> **Antal hästar:** 12
-> **Genomsnittlig genetisk rank:** [[03. Lexikon/03.4 Genetiska ranker/D|D]] (51.7 %)
-> **Genomsnittlig hälsa:** 20,1
-> **Genomsnittligt hopp:** 3,7 block
-> **Genomsnittlig snabbhet:** 9,8 b/s
+> **Antal hästar:** 15
+> **Genomsnittlig genetisk rank:** [[03. Lexikon/03.4 Genetiska ranker/D|D]] (53.5 %)
+> **Genomsnittlig hälsa:** 20,9
+> **Genomsnittligt hopp:** 3,6 block
+> **Genomsnittlig snabbhet:** 10,0 b/s
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]], [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]], [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 
 Klicka på en häst i diagrammet för att öppna profilen.
 
 ```mermaid
-%%{init: {"flowchart": {"nodeSpacing": 10, "rankSpacing": 18, "curve": "basis", "htmlLabels": true}, "themeVariables": {"fontSize": "10px"}}}%%
+%%{init: {"flowchart": {"nodeSpacing": 7, "rankSpacing": 14, "curve": "basis", "htmlLabels": true}, "themeVariables": {"fontSize": "9px"}}}%%
 flowchart TB
     h0["H-0002 Test"]
     h1["H-0003 Robert"]
@@ -35,6 +35,9 @@ flowchart TB
     h9["H-0011 Judesson4"]
     h10["H-0012 mumin"]
     h11["H-0013 Lundgrens"]
+    h12["H-0014 Zombie"]
+    h13["H-0015 Sailor mercury"]
+    h14["H-0016 Namnlös"]
     h0 -->|Far| h2
     h1 -->|Mor| h2
     h2 -->|Far| h4
@@ -51,7 +54,11 @@ flowchart TB
     h5 -->|Mor| h10
     h9 -->|Far| h11
     h4 -->|Mor| h11
-    class h0,h1,h2,h3,h4,h5,h6,h7,h8,h9,h10,h11 internal-link;
+    h11 -->|Far| h13
+    h12 -->|Mor| h13
+    h9 -->|Far| h14
+    h5 -->|Mor| h14
+    class h0,h1,h2,h3,h4,h5,h6,h7,h8,h9,h10,h11,h12,h13,h14 internal-link;
 ```
 
 ## Hästar i släkten
@@ -70,3 +77,6 @@ flowchart TB
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0011%20Judesson4">H-0011 Judesson4</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/C">C</a> |
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0012%20mumin">H-0012 mumin</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/D">D</a> |
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0013%20Lundgrens">H-0013 Lundgrens</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/B">B</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0014%20Zombie">H-0014 Zombie</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/C">C</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0015%20Sailor%20mercury">H-0015 Sailor mercury</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/B">B</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0016%20Namnl%C3%B6s">H-0016 Namnlös</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/D">D</a> |

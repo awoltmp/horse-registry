@@ -16,7 +16,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *01:30*
+**Senast uppdaterad:** 2026-07-17 *01:40*
 **Info in-game:** `/h paper H-0011`
 # H-0011 Judesson4
 
@@ -41,7 +41,7 @@ tags:
 > [!info] Genetik
 > **Far:** [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]]
 > **Mor:** [[02. Register/02.1 Hästar/H-0006 Mimimimimi|H-0006 Mimimimimi]]
-> **Avkommor:** [[02. Register/02.1 Hästar/H-0013 Lundgrens|H-0013 Lundgrens]]
+> **Avkommor:** [[02. Register/02.1 Hästar/H-0013 Lundgrens|H-0013 Lundgrens]], [[02. Register/02.1 Hästar/H-0016 Namnlös|H-0016 Namnlös]]
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0002|Öppna släktens stamtavla]]
 > **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]]
 
@@ -65,6 +65,8 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
+- Fick avkomman [[02. Register/02.1 Hästar/H-0016 Namnlös|H-0016 Namnlös]]
+
 - Fick avkomman [[02. Register/02.1 Hästar/H-0013 Lundgrens|H-0013 Lundgrens]]
 
 - Namn ändrat till Judesson4 av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]

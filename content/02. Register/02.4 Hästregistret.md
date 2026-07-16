@@ -1,10 +1,10 @@
 #hästregister
 
-**Senast uppdaterad:** 2026-07-17 *01:30*
+**Senast uppdaterad:** 2026-07-17 *01:40*
 
 # Hästregistret
 
-**Antal hästar:** 13
+**Antal hästar:** 16
 
 [[02. Register/02.3 Stamtavlor|Öppna stamtavlorna]]
 
@@ -23,6 +23,9 @@
 - [[02. Register/02.1 Hästar/H-0011 Judesson4|H-0011 Judesson4]] · Ägare: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/C|C]] · Förvarad
 - [[02. Register/02.1 Hästar/H-0012 mumin|H-0012 mumin]] · Ägare: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · Förvarad
 - [[02. Register/02.1 Hästar/H-0013 Lundgrens|H-0013 Lundgrens]] · Ägare: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/B|B]] · Förvarad
+- [[02. Register/02.1 Hästar/H-0014 Zombie|H-0014 Zombie]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/C|C]] · I världen
+- [[02. Register/02.1 Hästar/H-0015 Sailor mercury|H-0015 Sailor mercury]] · Ägare: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/B|B]] · Förvarad
+- [[02. Register/02.1 Hästar/H-0016 Namnlös|H-0016 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · I världen
 
 ## Spelare
 

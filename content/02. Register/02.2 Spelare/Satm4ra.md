@@ -1,19 +1,19 @@
 #spelarprofil
 
-**Senast uppdaterad:** 2026-07-17 *01:30*
+**Senast uppdaterad:** 2026-07-17 *01:40*
 **Info in-game:** `/h player Satm4ra`
 
 ---
 # Satm4ra
 
 > [!abstract] **Info**
-> **Antal ägda hästar:** 7
-> **Antal uppfödda hästar:** 7
+> **Antal ägda hästar:** 9
+> **Antal uppfödda hästar:** 9
 >
-> **Rank:** D (49.8 %)
-> **Bästa häst:** [[02. Register/02.1 Hästar/H-0013 Lundgrens|H-0013 Lundgrens]]
+> **Rank:** D (52.7 %)
+> **Bästa häst:** [[02. Register/02.1 Hästar/H-0015 Sailor mercury|H-0015 Sailor mercury]]
 > **Första häst:** [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]] (2026-07-17)
-> **Senaste häst:** [[02. Register/02.1 Hästar/H-0013 Lundgrens|H-0013 Lundgrens]] (2026-07-17)
+> **Senaste häst:** [[02. Register/02.1 Hästar/H-0016 Namnlös|H-0016 Namnlös]] (2026-07-17)
 
 ---
 ## Hästar
@@ -26,6 +26,8 @@
 [[02. Register/02.1 Hästar/H-0011 Judesson4|H-0011 Judesson4]]
 [[02. Register/02.1 Hästar/H-0012 mumin|H-0012 mumin]]
 [[02. Register/02.1 Hästar/H-0013 Lundgrens|H-0013 Lundgrens]]
+[[02. Register/02.1 Hästar/H-0015 Sailor mercury|H-0015 Sailor mercury]]
+[[02. Register/02.1 Hästar/H-0016 Namnlös|H-0016 Namnlös]]
 
 #### Uppfödda hästar
 [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]]
@@ -35,15 +37,35 @@
 [[02. Register/02.1 Hästar/H-0011 Judesson4|H-0011 Judesson4]]
 [[02. Register/02.1 Hästar/H-0012 mumin|H-0012 mumin]]
 [[02. Register/02.1 Hästar/H-0013 Lundgrens|H-0013 Lundgrens]]
+[[02. Register/02.1 Hästar/H-0015 Sailor mercury|H-0015 Sailor mercury]]
+[[02. Register/02.1 Hästar/H-0016 Namnlös|H-0016 Namnlös]]
 
 #### Medryttarhästar
+[[02. Register/02.1 Hästar/H-0001 Test Test|H-0001 Test Test]]
 [[02. Register/02.1 Hästar/H-0002 Test|H-0002 Test]]
 [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]]
 [[02. Register/02.1 Hästar/H-0006 Mimimimimi|H-0006 Mimimimimi]]
+[[02. Register/02.1 Hästar/H-0014 Zombie|H-0014 Zombie]]
 
 ## Historik
 
 ==**2026-07-17**==
+- Född och registrerad av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0016 Namnlös|H-0016 Namnlös]]
+
+- Namn ändrat till Sailor mercury av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0015 Sailor mercury|H-0015 Sailor mercury]]
+
+- Född och registrerad av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0015 Sailor mercury|H-0015 Sailor mercury]]
+
+- Medryttare tillagd: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0014 Zombie|H-0014 Zombie]]
+
+- Medryttare tillagd: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0001 Test Test|H-0001 Test Test]]
+
+- Medryttare tillagd: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0001 Test Test|H-0001 Test Test]]
+
+- Medryttare tillagd: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0001 Test Test|H-0001 Test Test]]
+
+- Medryttare tillagd: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0001 Test Test|H-0001 Test Test]]
+
 - Namn ändrat till mumin av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0012 mumin|H-0012 mumin]]
 
 - Namn ändrat till Lundgrens av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0013 Lundgrens|H-0013 Lundgrens]]

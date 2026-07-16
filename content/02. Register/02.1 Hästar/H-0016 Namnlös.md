@@ -1,15 +1,15 @@
 ---
-horse_id: "H-0012"
-name: "mumin"
+horse_id: "H-0016"
+name: "Namnlös"
 owner: "Satm4ra"
 breeder: "Satm4ra"
-status: "stored"
-born: "2026-07-16T23:20:39.36977007Z"
+status: "spawned"
+born: "2026-07-16T23:39:01.719617982Z"
 genetic_rank: D
-genetic_score: 0.472663
+genetic_score: 0.514175
 color: "Grå"
 marking: "Ingen teckning"
-inbreeding: 0.125000
+inbreeding: 0.062500
 tags:
   - hästprofil
 ---
@@ -17,46 +17,45 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-17 *01:40*
-**Info in-game:** `/h paper H-0012`
-# H-0012 mumin
+**Info in-game:** `/h paper H-0016`
+# H-0016 Namnlös
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
-> **Status:** Förvarad
+> **Status:** I världen
 > **Född:** 2026-07-17
 
 > [!info] Stats
-> **Hälsa:** 17,8
-> **Hopp:** 3,5 block
-> **Snabbhet:** 10,3 b/s
+> **Hälsa:** 19,7
+> **Hopp:** 3,6 block
+> **Snabbhet:** 10,1 b/s
 
 > [!info] Egenskaper
 > **Färg:** [[03. Lexikon/03.1 Färger/Grå|Grå]]
 > **Teckning:** [[03. Lexikon/03.2 Teckningar/Ingen teckning|Ingen teckning]]
 > **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Grå & Ingen teckning|Grå & Ingen teckning]]
-> **Favoritmat:** Golden Carrot
 
 ## Genetik
 
 > [!info] Genetik
-> **Far:** [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]]
+> **Far:** [[02. Register/02.1 Hästar/H-0011 Judesson4|H-0011 Judesson4]]
 > **Mor:** [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]]
 > **Avkommor:** -
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0002|Öppna släktens stamtavla]]
 > **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/D|D]]
 
-> [!fail] Icke godkänd
-> Inavelskoefficienten är 12,50 %.
-> Relationen är 10/100, vilket är under 30.
+> [!warning] Varning
+> Inavelskoefficienten är 6,25 %.
+> Relationen är 0/100, vilket är under 30.
 
 ## Meriter
 
 > [!info] Träning
-> **Hälsa:** 1/100
+> **Hälsa:** 0/100
 > **Hopp:** 0/100
 > **Snabbhet:** 0/100
-> **Relation:** 10/100
+> **Relation:** 0/100
 
 > [!info] Vinster
 > **[[04. Tävlingar/Sommarhoppet|Sommarhoppet]]:** 0
@@ -66,13 +65,9 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
-- Namn ändrat till mumin av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
+- Far: [[02. Register/02.1 Hästar/H-0011 Judesson4|H-0011 Judesson4]], Mor: [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]]
 
-- Favoritmat upptäckt: gyllene morötter
-
-- Far: [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]], Mor: [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]]
-
-- Inavelsgrad: 12,5%
+- Inavelsgrad: 6,3%
 
 - Född och registrerad av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 
@@ -81,4 +76,4 @@ tags:
 
 
 ---
-Genetisk poäng: **47.3 %** · Hälsa 18.8 % · Hopp 64.3 % · Snabbhet 58.8 %
+Genetisk poäng: **51.4 %** · Hälsa 31.3 % · Hopp 66.8 % · Snabbhet 56.1 %

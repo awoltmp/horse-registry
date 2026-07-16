@@ -16,13 +16,14 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *01:30*
+**Senast uppdaterad:** 2026-07-17 *01:40*
 **Info in-game:** `/h paper H-0001`
 # H-0001 Test Test
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+> **Medryttare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 > **Status:** Förvarad
 > **Född:** 2026-07-15
 
@@ -64,6 +65,14 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
+- Medryttare tillagd: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
+
+- Medryttare tillagd: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
+
+- Medryttare tillagd: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
+
+- Medryttare tillagd: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
+
 - Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 ==**2026-07-16**==
