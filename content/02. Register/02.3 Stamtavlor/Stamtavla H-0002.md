@@ -5,7 +5,7 @@ cssclasses:
 
 #stamtavla
 
-**Senast uppdaterad:** 2026-07-17 *01:10*
+**Senast uppdaterad:** 2026-07-17 *01:20*
 
 # Stamtavla H-0002
 
@@ -32,7 +32,7 @@ flowchart TB
     h6["H-0008 judesson"]
     h7["H-0009 Judessonson"]
     h8["H-0010 Judessonsonson"]
-    h9["H-0011 Namnlös"]
+    h9["H-0011 Judesson4"]
     h0 -->|Far| h2
     h1 -->|Mor| h2
     h2 -->|Far| h4
@@ -61,4 +61,4 @@ flowchart TB
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0008%20judesson">H-0008 judesson</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/D">D</a> |
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0009%20Judessonson">H-0009 Judessonson</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/D">D</a> |
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0010%20Judessonsonson">H-0010 Judessonsonson</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/E">E</a> |
-| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0011%20Namnl%C3%B6s">H-0011 Namnlös</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/C">C</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0011%20Judesson4">H-0011 Judesson4</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/C">C</a> |

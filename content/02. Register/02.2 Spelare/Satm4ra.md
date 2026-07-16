@@ -1,6 +1,6 @@
 #spelarprofil
 
-**Senast uppdaterad:** 2026-07-17 *01:10*
+**Senast uppdaterad:** 2026-07-17 *01:20*
 **Info in-game:** `/h player Satm4ra`
 
 ---
@@ -11,9 +11,9 @@
 > **Antal uppfödda hästar:** 5
 >
 > **Rank:** D (46.6 %)
-> **Bästa häst:** [[02. Register/02.1 Hästar/H-0011 Namnlös|H-0011 Namnlös]]
+> **Bästa häst:** [[02. Register/02.1 Hästar/H-0011 Judesson4|H-0011 Judesson4]]
 > **Första häst:** [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]] (2026-07-17)
-> **Senaste häst:** [[02. Register/02.1 Hästar/H-0011 Namnlös|H-0011 Namnlös]] (2026-07-17)
+> **Senaste häst:** [[02. Register/02.1 Hästar/H-0011 Judesson4|H-0011 Judesson4]] (2026-07-17)
 
 ---
 ## Hästar
@@ -23,14 +23,14 @@
 [[02. Register/02.1 Hästar/H-0008 judesson|H-0008 judesson]]
 [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]]
 [[02. Register/02.1 Hästar/H-0010 Judessonsonson|H-0010 Judessonsonson]]
-[[02. Register/02.1 Hästar/H-0011 Namnlös|H-0011 Namnlös]]
+[[02. Register/02.1 Hästar/H-0011 Judesson4|H-0011 Judesson4]]
 
 #### Uppfödda hästar
 [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]]
 [[02. Register/02.1 Hästar/H-0008 judesson|H-0008 judesson]]
 [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]]
 [[02. Register/02.1 Hästar/H-0010 Judessonsonson|H-0010 Judessonsonson]]
-[[02. Register/02.1 Hästar/H-0011 Namnlös|H-0011 Namnlös]]
+[[02. Register/02.1 Hästar/H-0011 Judesson4|H-0011 Judesson4]]
 
 #### Medryttarhästar
 [[02. Register/02.1 Hästar/H-0002 Test|H-0002 Test]]
@@ -40,7 +40,9 @@
 ## Historik
 
 ==**2026-07-17**==
-- Född och registrerad av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0011 Namnlös|H-0011 Namnlös]]
+- Namn ändrat till Judesson4 av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0011 Judesson4|H-0011 Judesson4]]
+
+- Född och registrerad av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0011 Judesson4|H-0011 Judesson4]]
 
 - Medryttare tillagd: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0006 Mimimimimi|H-0006 Mimimimimi]]
 

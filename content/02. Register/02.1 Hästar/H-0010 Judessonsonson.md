@@ -3,7 +3,7 @@ horse_id: "H-0010"
 name: "Judessonsonson"
 owner: "Satm4ra"
 breeder: "Satm4ra"
-status: "stored"
+status: "spawned"
 born: "2026-07-16T22:54:03.220125092Z"
 genetic_rank: E
 genetic_score: 0.388408
@@ -16,14 +16,14 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *01:10*
+**Senast uppdaterad:** 2026-07-17 *01:20*
 **Info in-game:** `/h paper H-0010`
 # H-0010 Judessonsonson
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
-> **Status:** Förvarad
+> **Status:** I världen
 > **Född:** 2026-07-17
 
 > [!info] Stats

@@ -3,7 +3,7 @@ horse_id: "H-0002"
 name: "Test"
 owner: "LOWAb"
 breeder: "LOWAb"
-status: "spawned"
+status: "stored"
 born: "2026-07-15T22:42:25.982296069Z"
 genetic_rank: D
 genetic_score: 0.494585
@@ -16,7 +16,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *01:10*
+**Senast uppdaterad:** 2026-07-17 *01:20*
 **Info in-game:** `/h paper H-0002`
 # H-0002 Test
 
@@ -24,7 +24,7 @@ tags:
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Medryttare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
-> **Status:** I världen
+> **Status:** Förvarad
 > **Född:** 2026-07-16
 
 > [!info] Stats

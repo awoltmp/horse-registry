@@ -16,7 +16,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *01:10*
+**Senast uppdaterad:** 2026-07-17 *01:20*
 **Info in-game:** `/h paper H-0006`
 # H-0006 Mimimimimi
 
@@ -42,7 +42,7 @@ tags:
 > [!info] Genetik
 > **Far:** [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]]
 > **Mor:** [[02. Register/02.1 Hästar/H-0005 Namnlös|H-0005 Namnlös]]
-> **Avkommor:** [[02. Register/02.1 Hästar/H-0011 Namnlös|H-0011 Namnlös]]
+> **Avkommor:** [[02. Register/02.1 Hästar/H-0011 Judesson4|H-0011 Judesson4]]
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0002|Öppna släktens stamtavla]]
 > **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]]
 
@@ -65,7 +65,7 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
-- Fick avkomman [[02. Register/02.1 Hästar/H-0011 Namnlös|H-0011 Namnlös]]
+- Fick avkomman [[02. Register/02.1 Hästar/H-0011 Judesson4|H-0011 Judesson4]]
 
 - Namn ändrat till Mimimimimi av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 

@@ -1,6 +1,6 @@
 ---
 horse_id: "H-0011"
-name: "Namnlös"
+name: "Judesson4"
 owner: "Satm4ra"
 breeder: "Satm4ra"
 status: "spawned"
@@ -16,9 +16,9 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *01:10*
+**Senast uppdaterad:** 2026-07-17 *01:20*
 **Info in-game:** `/h paper H-0011`
-# H-0011 Namnlös
+# H-0011 Judesson4
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
@@ -65,6 +65,8 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
+- Namn ändrat till Judesson4 av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
+
 - Far: [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]], Mor: [[02. Register/02.1 Hästar/H-0006 Mimimimimi|H-0006 Mimimimimi]]
 
 - Inavelsgrad: 9,4%
