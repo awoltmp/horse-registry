@@ -3,7 +3,7 @@ horse_id: "H-0006"
 name: "Mimimimimi"
 owner: "LOWAb"
 breeder: "LOWAb"
-status: "spawned"
+status: "stored"
 born: "2026-07-16T21:02:03.543502448Z"
 genetic_rank: C
 genetic_score: 0.613767
@@ -16,7 +16,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *01:06*
+**Senast uppdaterad:** 2026-07-17 *01:10*
 **Info in-game:** `/h paper H-0006`
 # H-0006 Mimimimimi
 
@@ -24,7 +24,7 @@ tags:
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Medryttare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
-> **Status:** I världen
+> **Status:** Förvarad
 > **Född:** 2026-07-16
 
 > [!info] Stats

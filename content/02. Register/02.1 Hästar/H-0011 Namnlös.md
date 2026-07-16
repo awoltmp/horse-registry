@@ -16,7 +16,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *01:06*
+**Senast uppdaterad:** 2026-07-17 *01:10*
 **Info in-game:** `/h paper H-0011`
 # H-0011 Namnlös
 
@@ -47,15 +47,15 @@ tags:
 
 > [!warning] Varning
 > Inavelskoefficienten är 9,38 %.
-> Relationen är 0/100, vilket är under 30.
+> Relationen är 1/100, vilket är under 30.
 
 ## Meriter
 
 > [!info] Träning
-> **Hälsa:** 0/100
+> **Hälsa:** 1/100
 > **Hopp:** 0/100
 > **Snabbhet:** 0/100
-> **Relation:** 0/100
+> **Relation:** 1/100
 
 > [!info] Vinster
 > **[[04. Tävlingar/Sommarhoppet|Sommarhoppet]]:** 0
