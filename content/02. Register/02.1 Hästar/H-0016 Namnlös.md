@@ -3,7 +3,7 @@ horse_id: "H-0016"
 name: "Namnlös"
 owner: "Satm4ra"
 breeder: "Satm4ra"
-status: "spawned"
+status: "stored"
 born: "2026-07-16T23:39:01.719617982Z"
 genetic_rank: D
 genetic_score: 0.514175
@@ -16,14 +16,14 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *01:40*
+**Senast uppdaterad:** 2026-07-17 *01:50*
 **Info in-game:** `/h paper H-0016`
 # H-0016 Namnlös
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
-> **Status:** I världen
+> **Status:** Förvarad
 > **Född:** 2026-07-17
 
 > [!info] Stats
@@ -47,15 +47,15 @@ tags:
 
 > [!warning] Varning
 > Inavelskoefficienten är 6,25 %.
-> Relationen är 0/100, vilket är under 30.
+> Relationen är 2/100, vilket är under 30.
 
 ## Meriter
 
 > [!info] Träning
-> **Hälsa:** 0/100
+> **Hälsa:** 2/100
 > **Hopp:** 0/100
 > **Snabbhet:** 0/100
-> **Relation:** 0/100
+> **Relation:** 2/100
 
 > [!info] Vinster
 > **[[04. Tävlingar/Sommarhoppet|Sommarhoppet]]:** 0

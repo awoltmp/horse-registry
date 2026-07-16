@@ -3,7 +3,7 @@ horse_id: "H-0014"
 name: "Zombie"
 owner: "LOWAb"
 breeder: "LOWAb"
-status: "spawned"
+status: "stored"
 born: "2026-07-16T23:31:54.14468279Z"
 genetic_rank: C
 genetic_score: 0.567733
@@ -16,7 +16,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *01:40*
+**Senast uppdaterad:** 2026-07-17 *01:50*
 **Info in-game:** `/h paper H-0014`
 # H-0014 Zombie
 
@@ -24,7 +24,7 @@ tags:
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Medryttare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
-> **Status:** I världen
+> **Status:** Förvarad
 > **Född:** 2026-07-17
 
 > [!info] Stats
