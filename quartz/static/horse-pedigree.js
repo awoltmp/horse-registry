@@ -17,7 +17,15 @@
 
   function isPedigreePage() {
     const path = decodeURIComponent(location.pathname).replace(/\/$/, "").toLowerCase()
-    return /(?:^|\/)0?2\.3(?:%20|\s)+stamtavlor(?:\/|$)|(?:^|\/)stamtavlor(?:\/|$)/i.test(path)
+    const slug = String(document.body?.dataset?.slug || "").toLowerCase()
+    const value = `${path} ${slug}`
+
+    return (
+      value.includes("02.3-stamtavlor") ||
+      value.includes("02.3 stamtavlor") ||
+      /(?:^|[\/\s])stamtavlor(?:[\/\s]|$)/i.test(value) ||
+      /(?:^|[\/\s])stamtavla(?:-|\s|$)/i.test(value)
+    )
   }
 
   function findMermaidSource(article) {
@@ -318,13 +326,14 @@
   }
 
   function initialize() {
-    const active = isPedigreePage()
-    document.body.classList.toggle("pedigree-page", active)
-    if (!active) return
     const article = document.querySelector("article")
     if (!article || article.dataset.pedigreeInitialized === "true") return
+
     const source = findMermaidSource(article)
-    if (!source) return
+    const active = isPedigreePage() || Boolean(source)
+    document.body.classList.toggle("pedigree-page", active)
+
+    if (!active || !source) return
 
     const data = parseSource(source.text)
     if (!data.nodes.length) return
