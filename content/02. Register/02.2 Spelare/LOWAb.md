@@ -1,6 +1,6 @@
 #spelarprofil
 
-**Senast uppdaterad:** 2026-07-17 *01:00*
+**Senast uppdaterad:** 2026-07-17 *01:06*
 **Info in-game:** `/h player LOWAb`
 
 ---
@@ -13,7 +13,7 @@
 > **Rank:** D (52.4 %)
 > **Bästa häst:** [[02. Register/02.1 Hästar/H-0005 Namnlös|H-0005 Namnlös]]
 > **Första häst:** [[02. Register/02.1 Hästar/H-0001 Test Test|H-0001 Test Test]] (2026-07-15)
-> **Senaste häst:** [[02. Register/02.1 Hästar/H-0006 Namnlös|H-0006 Namnlös]] (2026-07-16)
+> **Senaste häst:** [[02. Register/02.1 Hästar/H-0006 Mimimimimi|H-0006 Mimimimimi]] (2026-07-16)
 
 ---
 ## Hästar
@@ -24,7 +24,7 @@
 [[02. Register/02.1 Hästar/H-0003 Robert|H-0003 Robert]]
 [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]]
 [[02. Register/02.1 Hästar/H-0005 Namnlös|H-0005 Namnlös]]
-[[02. Register/02.1 Hästar/H-0006 Namnlös|H-0006 Namnlös]]
+[[02. Register/02.1 Hästar/H-0006 Mimimimimi|H-0006 Mimimimimi]]
 
 #### Uppfödda hästar
 [[02. Register/02.1 Hästar/H-0001 Test Test|H-0001 Test Test]]
@@ -32,7 +32,7 @@
 [[02. Register/02.1 Hästar/H-0003 Robert|H-0003 Robert]]
 [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]]
 [[02. Register/02.1 Hästar/H-0005 Namnlös|H-0005 Namnlös]]
-[[02. Register/02.1 Hästar/H-0006 Namnlös|H-0006 Namnlös]]
+[[02. Register/02.1 Hästar/H-0006 Mimimimimi|H-0006 Mimimimimi]]
 
 #### Medryttarhästar
 -
@@ -40,6 +40,10 @@
 ## Historik
 
 ==**2026-07-17**==
+- Namn ändrat till Mimimimimi av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0006 Mimimimimi|H-0006 Mimimimimi]]
+
+- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0006 Mimimimimi|H-0006 Mimimimimi]]
+
 - Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0002 Test|H-0002 Test]]
 
 - Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]]
@@ -49,7 +53,7 @@
 - Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0003 Robert|H-0003 Robert]]
 
 ==**2026-07-16**==
-- Född och registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0006 Namnlös|H-0006 Namnlös]]
+- Född och registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0006 Mimimimimi|H-0006 Mimimimimi]]
 
 - gender ändrades till Sto av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0005 Namnlös|H-0005 Namnlös]]
 

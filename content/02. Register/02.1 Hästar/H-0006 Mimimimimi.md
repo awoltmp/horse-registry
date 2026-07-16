@@ -1,9 +1,9 @@
 ---
 horse_id: "H-0006"
-name: "Namnlös"
+name: "Mimimimimi"
 owner: "LOWAb"
 breeder: "LOWAb"
-status: "stored"
+status: "spawned"
 born: "2026-07-16T21:02:03.543502448Z"
 genetic_rank: C
 genetic_score: 0.613767
@@ -16,14 +16,15 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *01:00*
+**Senast uppdaterad:** 2026-07-17 *01:06*
 **Info in-game:** `/h paper H-0006`
-# H-0006 Namnlös
+# H-0006 Mimimimimi
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-> **Status:** Förvarad
+> **Medryttare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
+> **Status:** I världen
 > **Född:** 2026-07-16
 
 > [!info] Stats
@@ -41,7 +42,7 @@ tags:
 > [!info] Genetik
 > **Far:** [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]]
 > **Mor:** [[02. Register/02.1 Hästar/H-0005 Namnlös|H-0005 Namnlös]]
-> **Avkommor:** -
+> **Avkommor:** [[02. Register/02.1 Hästar/H-0011 Namnlös|H-0011 Namnlös]]
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0002|Öppna släktens stamtavla]]
 > **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]]
 
@@ -62,6 +63,15 @@ tags:
 > **[[04. Tävlingar/Dressyrcupen|Dressyrcupen]]:** 0
 
 ## Historik
+
+==**2026-07-17**==
+- Fick avkomman [[02. Register/02.1 Hästar/H-0011 Namnlös|H-0011 Namnlös]]
+
+- Namn ändrat till Mimimimimi av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+
+- Medryttare tillagd: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
+
+- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 ==**2026-07-16**==
 - Far: [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]], Mor: [[02. Register/02.1 Hästar/H-0005 Namnlös|H-0005 Namnlös]]

@@ -16,7 +16,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *01:00*
+**Senast uppdaterad:** 2026-07-17 *01:06*
 **Info in-game:** `/h paper H-0010`
 # H-0010 Judessonsonson
 

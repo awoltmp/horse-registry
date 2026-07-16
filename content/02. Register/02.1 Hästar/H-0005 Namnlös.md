@@ -16,7 +16,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *01:00*
+**Senast uppdaterad:** 2026-07-17 *01:06*
 **Info in-game:** `/h paper H-0005`
 # H-0005 Namnlös
 
@@ -41,7 +41,7 @@ tags:
 > [!info] Genetik
 > **Far:** Okänd
 > **Mor:** Okänd
-> **Avkommor:** [[02. Register/02.1 Hästar/H-0006 Namnlös|H-0006 Namnlös]]
+> **Avkommor:** [[02. Register/02.1 Hästar/H-0006 Mimimimimi|H-0006 Mimimimimi]]
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0002|Öppna släktens stamtavla]]
 > **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]]
 
@@ -64,7 +64,7 @@ tags:
 ## Historik
 
 ==**2026-07-16**==
-- Fick avkomman [[02. Register/02.1 Hästar/H-0006 Namnlös|H-0006 Namnlös]]
+- Fick avkomman [[02. Register/02.1 Hästar/H-0006 Mimimimimi|H-0006 Mimimimimi]]
 
 - gender ändrades till Sto av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
