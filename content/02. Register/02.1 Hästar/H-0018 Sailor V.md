@@ -3,7 +3,7 @@ horse_id: "H-0018"
 name: "Sailor V"
 owner: "Satm4ra"
 breeder: "Satm4ra"
-status: "spawned"
+status: "stored"
 born: "2026-07-17T00:02:43.267666973Z"
 genetic_rank: C
 genetic_score: 0.637293
@@ -16,14 +16,14 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *02:10*
+**Senast uppdaterad:** 2026-07-17 *02:20*
 **Info in-game:** `/h paper H-0018`
 # H-0018 Sailor V
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
-> **Status:** I världen
+> **Status:** Förvarad
 > **Född:** 2026-07-17
 
 > [!info] Stats

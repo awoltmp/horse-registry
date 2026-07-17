@@ -16,7 +16,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *02:10*
+**Senast uppdaterad:** 2026-07-17 *02:20*
 **Info in-game:** `/h paper H-0006`
 # H-0006 Mimimimimi
 
@@ -47,7 +47,7 @@ tags:
 > **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]]
 
 > [!warning] Varning
-> Relationen är 0/100, vilket är under 30.
+> Relationen är 1/100, vilket är under 30.
 
 ## Meriter
 
@@ -55,7 +55,7 @@ tags:
 > **Hälsa:** 0/100
 > **Hopp:** 0/100
 > **Snabbhet:** 0/100
-> **Relation:** 0/100
+> **Relation:** 1/100
 
 > [!info] Vinster
 > **[[04. Tävlingar/Sommarhoppet|Sommarhoppet]]:** 0

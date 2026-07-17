@@ -16,7 +16,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *02:10*
+**Senast uppdaterad:** 2026-07-17 *02:20*
 **Info in-game:** `/h paper H-0013`
 # H-0013 Lundgrens
 
@@ -47,7 +47,7 @@ tags:
 
 > [!fail] Icke godkänd
 > Inavelskoefficienten är 14,06 %.
-> Relationen är 1/100, vilket är under 30.
+> Relationen är 2/100, vilket är under 30.
 
 ## Meriter
 
@@ -55,7 +55,7 @@ tags:
 > **Hälsa:** 1/100
 > **Hopp:** 0/100
 > **Snabbhet:** 0/100
-> **Relation:** 1/100
+> **Relation:** 2/100
 
 > [!info] Vinster
 > **[[04. Tävlingar/Sommarhoppet|Sommarhoppet]]:** 0
