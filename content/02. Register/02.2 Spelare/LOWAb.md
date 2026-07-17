@@ -1,6 +1,6 @@
 #spelarprofil
 
-**Senast uppdaterad:** 2026-07-17 *18:20*
+**Senast uppdaterad:** 2026-07-17 *18:30*
 **Info in-game:** `/h player LOWAb`
 
 ---
@@ -36,6 +36,10 @@
 ## Historik
 
 ==**2026-07-17**==
+- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0002 Namnlös|H-0002 Namnlös]]
+
+- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0004 Hästägg · Rank A|H-0004 Hästägg · Rank A]]
+
 - Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0004 Hästägg · Rank A|H-0004 Hästägg · Rank A]]
 
 - Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0003 Namnlös|H-0003 Namnlös]]

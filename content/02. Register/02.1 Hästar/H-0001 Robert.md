@@ -3,7 +3,7 @@ horse_id: "H-0001"
 name: "Robert"
 owner: "LOWAb"
 breeder: "LOWAb"
-status: "spawned"
+status: "dead"
 born: "2026-07-17T06:42:45.592428468Z"
 genetic_rank: E
 genetic_score: 0.405820
@@ -16,14 +16,14 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *18:20*
+**Senast uppdaterad:** 2026-07-17 *18:30*
 **Info in-game:** `/h paper H-0001`
 # H-0001 Robert
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-> **Status:** I världen
+> **Status:** Avliden
 > **Född:** 2026-07-17
 
 > [!info] Stats
@@ -64,6 +64,8 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
+- Avliden
+
 - Kastrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 - Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
