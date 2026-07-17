@@ -1,19 +1,19 @@
 #spelarprofil
 
-**Senast uppdaterad:** 2026-07-17 *20:50*
+**Senast uppdaterad:** 2026-07-17 *21:00*
 **Info in-game:** `/h player LOWAb`
 
 ---
 # LOWAb
 
 > [!abstract] **Info**
-> **Antal ägda hästar:** 11
-> **Antal uppfödda hästar:** 11
+> **Antal ägda hästar:** 12
+> **Antal uppfödda hästar:** 12
 >
-> **Rank:** C (58.1 %)
+> **Rank:** C (56.5 %)
 > **Bästa häst:** [[02. Register/02.1 Hästar/H-0004 Hästägg · Rank A|H-0004 Hästägg · Rank A]]
 > **Första häst:** [[02. Register/02.1 Hästar/H-0001 Robert|H-0001 Robert]] (2026-07-17)
-> **Senaste häst:** [[02. Register/02.1 Hästar/H-0011 Barnbarn 1|H-0011 Barnbarn 1]] (2026-07-17)
+> **Senaste häst:** [[02. Register/02.1 Hästar/H-0012 Namnlös|H-0012 Namnlös]] (2026-07-17)
 
 ---
 ## Hästar
@@ -30,6 +30,7 @@
 [[02. Register/02.1 Hästar/H-0009 Mor 2|H-0009 Mor 2]]
 [[02. Register/02.1 Hästar/H-0010 Föl 2|H-0010 Föl 2]]
 [[02. Register/02.1 Hästar/H-0011 Barnbarn 1|H-0011 Barnbarn 1]]
+[[02. Register/02.1 Hästar/H-0012 Namnlös|H-0012 Namnlös]]
 
 #### Uppfödda hästar
 [[02. Register/02.1 Hästar/H-0001 Robert|H-0001 Robert]]
@@ -43,6 +44,7 @@
 [[02. Register/02.1 Hästar/H-0009 Mor 2|H-0009 Mor 2]]
 [[02. Register/02.1 Hästar/H-0010 Föl 2|H-0010 Föl 2]]
 [[02. Register/02.1 Hästar/H-0011 Barnbarn 1|H-0011 Barnbarn 1]]
+[[02. Register/02.1 Hästar/H-0012 Namnlös|H-0012 Namnlös]]
 
 #### Medryttarhästar
 -
@@ -50,6 +52,10 @@
 ## Historik
 
 ==**2026-07-17**==
+- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0004 Hästägg · Rank A|H-0004 Hästägg · Rank A]]
+
+- Född och registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0012 Namnlös|H-0012 Namnlös]]
+
 - Namn ändrat till Barnbarn 1 av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0011 Barnbarn 1|H-0011 Barnbarn 1]]
 
 - Född och registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0011 Barnbarn 1|H-0011 Barnbarn 1]]

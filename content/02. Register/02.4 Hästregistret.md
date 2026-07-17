@@ -1,10 +1,10 @@
 #hästregister
 
-**Senast uppdaterad:** 2026-07-17 *20:50*
+**Senast uppdaterad:** 2026-07-17 *21:00*
 
 # Hästregistret
 
-**Antal hästar:** 11
+**Antal hästar:** 12
 
 [[02. Register/02.3 Stamtavlor|Öppna stamtavlorna]]
 
@@ -21,6 +21,7 @@
 - [[02. Register/02.1 Hästar/H-0009 Mor 2|H-0009 Mor 2]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/E|E]] · I världen
 - [[02. Register/02.1 Hästar/H-0010 Föl 2|H-0010 Föl 2]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · I världen
 - [[02. Register/02.1 Hästar/H-0011 Barnbarn 1|H-0011 Barnbarn 1]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/C|C]] · I världen
+- [[02. Register/02.1 Hästar/H-0012 Namnlös|H-0012 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/E|E]] · I världen
 
 ## Spelare
 

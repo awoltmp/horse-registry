@@ -17,7 +17,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *20:50*
+**Senast uppdaterad:** 2026-07-17 *21:00*
 **Info in-game:** `/h paper H-0004`
 # H-0004 Hästägg · Rank A
 
@@ -66,6 +66,8 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
+- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+
 - Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 - Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]

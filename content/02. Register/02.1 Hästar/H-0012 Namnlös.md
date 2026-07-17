@@ -1,15 +1,15 @@
 ---
-horse_id: "H-0005"
-name: "Mor 1"
+horse_id: "H-0012"
+name: "Namnlös"
 owner: "LOWAb"
 breeder: "LOWAb"
 gender: "Sto"
 status: "spawned"
-born: "2026-07-17T16:30:49.830632268Z"
-genetic_rank: D
-genetic_score: 0.510590
+born: "2026-07-17T18:55:02.727944616Z"
+genetic_rank: E
+genetic_score: 0.391686
 color: "Svart"
-marking: "Vita prickar"
+marking: "Vitfält"
 inbreeding: 0.000000
 tags:
   - hästprofil
@@ -18,8 +18,8 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-17 *21:00*
-**Info in-game:** `/h paper H-0005`
-# H-0005 Mor 1
+**Info in-game:** `/h paper H-0012`
+# H-0012 Namnlös
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
@@ -29,23 +29,23 @@ tags:
 > **Född:** 2026-07-17
 
 > [!info] Stats
-> **Hälsa:** 25,0
-> **Hopp:** 2,8 block
-> **Snabbhet:** 8,4 b/s
+> **Hälsa:** 22,8
+> **Hopp:** 2,5 block
+> **Snabbhet:** 7,1 b/s
 
 > [!info] Egenskaper
 > **Färg:** [[03. Lexikon/03.1 Färger/Svart|Svart]]
-> **Teckning:** [[03. Lexikon/03.2 Teckningar/Vita prickar|Vita prickar]]
-> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Svart & Vita prickar|Svart & Vita prickar]]
+> **Teckning:** [[03. Lexikon/03.2 Teckningar/Vitfält|Vitfält]]
+> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Svart & Vitfält|Svart & Vitfält]]
 
 ## Genetik
 
 > [!info] Genetik
-> **Far:** Okänd
-> **Mor:** Okänd
-> **Avkommor:** [[02. Register/02.1 Hästar/H-0007 Föl 1|H-0007 Föl 1]]
+> **Far:** [[02. Register/02.1 Hästar/H-0008 Far 2|H-0008 Far 2]]
+> **Mor:** [[02. Register/02.1 Hästar/H-0009 Mor 2|H-0009 Mor 2]]
+> **Avkommor:** -
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0005|Öppna släktens stamtavla]]
-> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/D|D]]
+> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/E|E]]
 
 > [!warning] Varning
 > Relationen är 0/100, vilket är under 30.
@@ -66,12 +66,10 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
-- Namn ändrat till Mor 1 av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+- Far: [[02. Register/02.1 Hästar/H-0008 Far 2|H-0008 Far 2]], Mor: [[02. Register/02.1 Hästar/H-0009 Mor 2|H-0009 Mor 2]]
 
-- Fick avkomman [[02. Register/02.1 Hästar/H-0007 Föl 1|H-0007 Föl 1]]
-
-- Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+- Född och registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 
 ---
-Genetisk poäng: **51.1 %** · Hälsa 66.7 % · Hopp 48.0 % · Snabbhet 38.5 %
+Genetisk poäng: **39.2 %** · Hälsa 52.3 % · Hopp 39.9 % · Snabbhet 25.3 %
