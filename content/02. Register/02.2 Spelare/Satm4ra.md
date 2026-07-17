@@ -1,6 +1,6 @@
 #spelarprofil
 
-**Senast uppdaterad:** 2026-07-17 *05:40*
+**Senast uppdaterad:** 2026-07-17 *05:50*
 **Info in-game:** `/h player Satm4ra`
 
 ---
