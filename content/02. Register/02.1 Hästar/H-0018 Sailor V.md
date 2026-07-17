@@ -16,7 +16,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *07:00*
+**Senast uppdaterad:** 2026-07-17 *07:10*
 **Info in-game:** `/h paper H-0018`
 # H-0018 Sailor V
 
