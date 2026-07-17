@@ -5,19 +5,19 @@ cssclasses:
 
 #stamtavla
 
-**Senast uppdaterad:** 2026-07-18 *00:40*
+**Senast uppdaterad:** 2026-07-18 *00:50*
 
 # Fristående hästar
 
 > [!abstract] Släktöversikt
 > **Placering bland stamtavlor:** Ej rangordnad
-> **Antal hästar:** 5
-> **Genomsnittlig genetisk rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]] (60.4 %)
+> **Antal hästar:** 7
+> **Genomsnittlig genetisk rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]] (59.5 %)
 > **Genomsnittlig inavelsgrad:** 0,00 %
-> **Stamtavlans genetiska anlag:** 0 förekomster · 0 typer · 0 av 5 hästar berörda
-> **Genomsnittlig hälsa:** 24,3
-> **Genomsnittligt hopp:** 3,5 block
-> **Genomsnittlig snabbhet:** 10,1 b/s
+> **Stamtavlans genetiska anlag:** 0 förekomster · 0 typer · 0 av 7 hästar berörda
+> **Genomsnittlig hälsa:** 23,9
+> **Genomsnittligt hopp:** 3,4 block
+> **Genomsnittlig snabbhet:** 10,3 b/s
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
@@ -31,7 +31,9 @@ flowchart TB
     h2["H-0003 Namnlös"]
     h3["H-0004 Hästägg · Rank A"]
     h4["H-0015 Namnlös"]
-    class h0,h1,h2,h3,h4 internal-link;
+    h5["H-0016 Havre"]
+    h6["H-0017 Namnlös"]
+    class h0,h1,h2,h3,h4,h5,h6 internal-link;
 ```
 
 ## Genetiska anlag i stamtavlan
@@ -47,3 +49,5 @@ Inga kända genetiska riskanlag finns registrerade i stamtavlan.
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0003%20Namnl%C3%B6s">H-0003 Namnlös</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/B">B</a> |
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0004%20H%C3%A4st%C3%A4gg%20%C2%B7%20Rank%20A">H-0004 Hästägg · Rank A</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/A">A</a> |
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0015%20Namnl%C3%B6s">H-0015 Namnlös</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/D">D</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0016%20Havre">H-0016 Havre</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/C">C</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0017%20Namnl%C3%B6s">H-0017 Namnlös</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/D">D</a> |

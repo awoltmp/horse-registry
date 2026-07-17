@@ -1,15 +1,15 @@
 ---
-horse_id: "H-0001"
-name: "Robert"
+horse_id: "H-0017"
+name: "Namnlös"
 owner: "LOWAb"
 breeder: "LOWAb"
-gender: "Valack"
-status: "dead"
-born: "2026-07-17T06:42:45.592428468Z"
-genetic_rank: E
-genetic_score: 0.405820
-color: "Krämvit"
-marking: "Vita prickar"
+gender: "Sto"
+status: "spawned"
+born: "2026-07-17T22:48:16.596554283Z"
+genetic_rank: D
+genetic_score: 0.508056
+color: "Fux"
+marking: "Vitfält"
 inbreeding: 0.000000
 tags:
   - hästprofil
@@ -18,25 +18,25 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-18 *00:50*
-**Info in-game:** `/h paper H-0001`
-# H-0001 Robert
+**Info in-game:** `/h paper H-0017`
+# H-0017 Namnlös
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-> **Kön:** Valack
-> **Status:** Avliden
-> **Född:** 2026-07-17
+> **Kön:** Sto
+> **Status:** I världen
+> **Född:** 2026-07-18
 
 > [!info] Stats
-> **Hälsa:** 18,0
-> **Hopp:** 3,9 block
-> **Snabbhet:** 7,6 b/s
+> **Hälsa:** 26,0
+> **Hopp:** 2,3 block
+> **Snabbhet:** 8,8 b/s
 
 > [!info] Egenskaper
-> **Färg:** [[03. Lexikon/03.1 Färger/Krämvit|Krämvit]]
-> **Teckning:** [[03. Lexikon/03.2 Teckningar/Vita prickar|Vita prickar]]
-> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Krämvit & Vita prickar|Krämvit & Vita prickar]]
+> **Färg:** [[03. Lexikon/03.1 Färger/Fux|Fux]]
+> **Teckning:** [[03. Lexikon/03.2 Teckningar/Vitfält|Vitfält]]
+> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Fux & Vitfält|Fux & Vitfält]]
 
 ## Genetik
 
@@ -45,7 +45,7 @@ tags:
 > **Mor:** Okänd
 > **Avkommor:** -
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Fristående hästar|Öppna släktens stamtavla]]
-> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/E|E]]
+> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/D|D]]
 
 > [!warning] Varning
 > Relationen är 0/100, vilket är under 30.
@@ -65,13 +65,9 @@ tags:
 
 ## Historik
 
-==**2026-07-17**==
-- Avliden
-
-- Kastrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-
+==**2026-07-18**==
 - Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 
 ---
-Genetisk poäng: **40.6 %** · Hälsa 20.0 % · Hopp 72.0 % · Snabbhet 29.7 %
+Genetisk poäng: **50.8 %** · Hälsa 73.3 % · Hopp 36.3 % · Snabbhet 42.8 %

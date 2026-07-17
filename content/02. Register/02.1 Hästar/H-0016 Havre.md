@@ -1,15 +1,15 @@
 ---
-horse_id: "H-0001"
-name: "Robert"
+horse_id: "H-0016"
+name: "Havre"
 owner: "LOWAb"
 breeder: "LOWAb"
-gender: "Valack"
-status: "dead"
-born: "2026-07-17T06:42:45.592428468Z"
-genetic_rank: E
-genetic_score: 0.405820
+gender: "Hingst"
+status: "spawned"
+born: "2026-07-17T22:46:22.941658297Z"
+genetic_rank: C
+genetic_score: 0.635410
 color: "Krämvit"
-marking: "Vita prickar"
+marking: "Vita strumpor"
 inbreeding: 0.000000
 tags:
   - hästprofil
@@ -18,25 +18,25 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-18 *00:50*
-**Info in-game:** `/h paper H-0001`
-# H-0001 Robert
+**Info in-game:** `/h paper H-0016`
+# H-0016 Havre
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-> **Kön:** Valack
-> **Status:** Avliden
-> **Född:** 2026-07-17
+> **Kön:** Hingst
+> **Status:** I världen
+> **Född:** 2026-07-18
 
 > [!info] Stats
-> **Hälsa:** 18,0
-> **Hopp:** 3,9 block
-> **Snabbhet:** 7,6 b/s
+> **Hälsa:** 20,0
+> **Hopp:** 4,0 block
+> **Snabbhet:** 12,7 b/s
 
 > [!info] Egenskaper
 > **Färg:** [[03. Lexikon/03.1 Färger/Krämvit|Krämvit]]
-> **Teckning:** [[03. Lexikon/03.2 Teckningar/Vita prickar|Vita prickar]]
-> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Krämvit & Vita prickar|Krämvit & Vita prickar]]
+> **Teckning:** [[03. Lexikon/03.2 Teckningar/Vita strumpor|Vita strumpor]]
+> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Krämvit & Vita strumpor|Krämvit & Vita strumpor]]
 
 ## Genetik
 
@@ -45,7 +45,7 @@ tags:
 > **Mor:** Okänd
 > **Avkommor:** -
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Fristående hästar|Öppna släktens stamtavla]]
-> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/E|E]]
+> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]]
 
 > [!warning] Varning
 > Relationen är 0/100, vilket är under 30.
@@ -65,13 +65,11 @@ tags:
 
 ## Historik
 
-==**2026-07-17**==
-- Avliden
-
-- Kastrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+==**2026-07-18**==
+- Namn ändrat till Havre av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 - Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 
 ---
-Genetisk poäng: **40.6 %** · Hälsa 20.0 % · Hopp 72.0 % · Snabbhet 29.7 %
+Genetisk poäng: **63.5 %** · Hälsa 33.3 % · Hopp 73.9 % · Snabbhet 83.4 %
