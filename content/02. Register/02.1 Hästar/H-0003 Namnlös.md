@@ -1,13 +1,13 @@
 ---
-horse_id: "H-0002"
+horse_id: "H-0003"
 name: "Namnlös"
 owner: "LOWAb"
 breeder: "LOWAb"
 status: "spawned"
-born: "2026-07-17T06:43:33.632280383Z"
-genetic_rank: C
-genetic_score: 0.563060
-color: "Mörkbrun"
+born: "2026-07-17T07:25:54.733713253Z"
+genetic_rank: B
+genetic_score: 0.777361
+color: "Vit"
 marking: "Vita strumpor"
 inbreeding: 0.000000
 tags:
@@ -17,8 +17,8 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-17 *09:30*
-**Info in-game:** `/h paper H-0002`
-# H-0002 Namnlös
+**Info in-game:** `/h paper H-0003`
+# H-0003 Namnlös
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
@@ -27,14 +27,14 @@ tags:
 > **Född:** 2026-07-17
 
 > [!info] Stats
-> **Hälsa:** 30,0
-> **Hopp:** 2,0 block
-> **Snabbhet:** 8,6 b/s
+> **Hälsa:** 26,0
+> **Hopp:** 4,9 block
+> **Snabbhet:** 11,2 b/s
 
 > [!info] Egenskaper
-> **Färg:** [[03. Lexikon/03.1 Färger/Mörkbrun|Mörkbrun]]
+> **Färg:** [[03. Lexikon/03.1 Färger/Vit|Vit]]
 > **Teckning:** [[03. Lexikon/03.2 Teckningar/Vita strumpor|Vita strumpor]]
-> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Mörkbrun & Vita strumpor|Mörkbrun & Vita strumpor]]
+> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Vit & Vita strumpor|Vit & Vita strumpor]]
 
 ## Genetik
 
@@ -43,7 +43,7 @@ tags:
 > **Mor:** Okänd
 > **Avkommor:** -
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Fristående hästar|Öppna släktens stamtavla]]
-> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]]
+> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/B|B]]
 
 > [!warning] Varning
 > Relationen är 0/100, vilket är under 30.
@@ -68,4 +68,4 @@ tags:
 
 
 ---
-Genetisk poäng: **56.3 %** · Hälsa 100.0 % · Hopp 28.3 % · Snabbhet 40.6 %
+Genetisk poäng: **77.7 %** · Hälsa 73.3 % · Hopp 91.9 % · Snabbhet 67.9 %
