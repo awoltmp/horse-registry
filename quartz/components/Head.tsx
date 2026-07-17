@@ -92,8 +92,8 @@ export default (() => {
         )}
 
         <link rel="icon" href={iconPath} />
-        <script src={joinSegments(baseDir, "static/horse-pedigree.js") + "?v=6"} defer></script>
-        <script src={joinSegments(baseDir, "static/horse-site-fixes.js") + "?v=6"} defer></script>
+        <script src={joinSegments(baseDir, "static/horse-pedigree.js") + "?v=7"} defer></script>
+        <script src={joinSegments(baseDir, "static/horse-site-fixes.js") + "?v=7"} defer></script>
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 

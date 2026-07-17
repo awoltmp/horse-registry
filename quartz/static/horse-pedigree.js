@@ -174,10 +174,13 @@
       const x2 = to.x
       const y2 = to.y + NODE_H / 2
       const midX = (x1 + x2) / 2
-      edgeGroup.append(svgElement("path", {
+      const path = svgElement("path", {
         class: "pedigree-edge",
         d: `M ${x1} ${y1} C ${midX} ${y1}, ${midX} ${y2}, ${x2} ${y2}`,
-      }))
+        "data-from": edge.from,
+        "data-to": edge.to,
+      })
+      edgeGroup.append(path)
       if (edge.label) {
         const label = svgElement("text", { class: "pedigree-edge-label", x: midX, y: (y1 + y2) / 2 - 5 })
         label.textContent = edge.label
@@ -192,8 +195,24 @@
       if (!pos) continue
       const parts = splitLabel(node.label)
       const href = links.get(normalize(node.label)) || fallbackHref(node.label)
-      const anchor = svgElement("a", { class: "pedigree-node-link", href, tabindex: "0" })
+      const anchor = svgElement("a", { class: "pedigree-node-link", href, tabindex: "0", "data-node-id": node.id })
       const group = svgElement("g", { class: "pedigree-node", transform: `translate(${pos.x} ${pos.y})` })
+      const relations = data.edges.flatMap((edge) => {
+        if (edge.from === node.id) {
+          const target = data.nodes.find((candidate) => candidate.id === edge.to)
+          return target ? [`Avkomma: ${target.label}`] : []
+        }
+        if (edge.to === node.id) {
+          const source = data.nodes.find((candidate) => candidate.id === edge.from)
+          return source ? [`${edge.label || "Förälder"}: ${source.label}`] : []
+        }
+        return []
+      })
+      const title = svgElement("title")
+      title.textContent = relations.length
+        ? `${node.label}\nNärmaste relationer:\n${relations.join("\n")}`
+        : `${node.label}\nInga närmaste registrerade relationer.`
+      group.append(title)
       group.append(svgElement("rect", { width: NODE_W, height: NODE_H }))
       const name = svgElement("text", { x: NODE_W / 2, y: parts.id ? 25 : 34, "text-anchor": "middle" })
       name.textContent = parts.name.length > 22 ? `${parts.name.slice(0, 21)}…` : parts.name
@@ -207,6 +226,40 @@
       nodeGroup.append(anchor)
     }
     svg.append(nodeGroup)
+
+    const neighbours = new Map(data.nodes.map((node) => [node.id, new Set()]))
+    for (const edge of data.edges) {
+      neighbours.get(edge.from)?.add(edge.to)
+      neighbours.get(edge.to)?.add(edge.from)
+    }
+
+    function highlight(nodeId) {
+      const related = neighbours.get(nodeId) || new Set()
+      for (const link of nodeGroup.querySelectorAll(".pedigree-node-link")) {
+        const id = link.dataset.nodeId
+        link.classList.toggle("is-selected", id === nodeId)
+        link.classList.toggle("is-related", related.has(id))
+        link.classList.toggle("is-dimmed", id !== nodeId && !related.has(id))
+      }
+      for (const edge of edgeGroup.querySelectorAll(".pedigree-edge")) {
+        const active = edge.dataset.from === nodeId || edge.dataset.to === nodeId
+        edge.classList.toggle("is-active", active)
+        edge.classList.toggle("is-dimmed", !active)
+      }
+    }
+
+    function clearHighlight() {
+      for (const element of svg.querySelectorAll(".is-selected, .is-related, .is-dimmed, .is-active")) {
+        element.classList.remove("is-selected", "is-related", "is-dimmed", "is-active")
+      }
+    }
+
+    for (const link of nodeGroup.querySelectorAll(".pedigree-node-link")) {
+      link.addEventListener("mouseenter", () => highlight(link.dataset.nodeId))
+      link.addEventListener("mouseleave", clearHighlight)
+      link.addEventListener("focus", () => highlight(link.dataset.nodeId))
+      link.addEventListener("blur", clearHighlight)
+    }
     return svg
   }
 

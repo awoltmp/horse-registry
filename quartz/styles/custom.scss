@@ -147,6 +147,11 @@ article .text-highlight {
   stroke-width: 1.4;
   vector-effect: non-scaling-stroke;
 }
+.pedigree-edge.is-active {
+  stroke: var(--secondary);
+  stroke-width: 3;
+}
+.pedigree-edge.is-dimmed { opacity: 0.16; }
 .pedigree-edge-label {
   fill: var(--gray);
   font-size: 11px;
@@ -168,6 +173,19 @@ article .text-highlight {
   stroke: var(--secondary);
   stroke-width: 2;
 }
+.pedigree-node-link.is-selected .pedigree-node rect {
+  fill: color-mix(in srgb, var(--secondary) 18%, var(--light));
+  stroke: var(--secondary);
+  stroke-width: 3;
+}
+.pedigree-node-link.is-related .pedigree-node rect {
+  fill: color-mix(in srgb, var(--tertiary) 16%, var(--light));
+  stroke: var(--tertiary);
+  stroke-width: 2.4;
+}
+.pedigree-node-link.is-dimmed { opacity: 0.22; }
+.pedigree-node-link,
+.pedigree-edge { transition: opacity 120ms ease, stroke 120ms ease, fill 120ms ease; }
 .pedigree-node text {
   fill: var(--darkgray);
   font-size: 13px;
