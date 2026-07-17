@@ -5,13 +5,16 @@ cssclasses:
 
 #stamtavla
 
-**Senast uppdaterad:** 2026-07-17 *12:30*
+**Senast uppdaterad:** 2026-07-17 *12:40*
 
 # Fristående hästar
 
 > [!abstract] Släktöversikt
+> **Placering bland stamtavlor:** Ej rangordnad
 > **Antal hästar:** 4
 > **Genomsnittlig genetisk rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]] (64.9 %)
+> **Genomsnittlig inavelsgrad:** 0,00 %
+> **Stamtavlans genetiska anlag:** 0 förekomster · 0 typer · 0 av 4 hästar berörda
 > **Genomsnittlig hälsa:** 25,4
 > **Genomsnittligt hopp:** 3,9 block
 > **Genomsnittlig snabbhet:** 10,0 b/s
@@ -29,6 +32,10 @@ flowchart TB
     h3["H-0004 Hästägg · Rank A"]
     class h0,h1,h2,h3 internal-link;
 ```
+
+## Genetiska anlag i stamtavlan
+
+Inga kända genetiska riskanlag finns registrerade i stamtavlan.
 
 ## Hästar i släkten
 
