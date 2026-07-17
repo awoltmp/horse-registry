@@ -1,13 +1,13 @@
 ---
-horse_id: "H-0005"
+horse_id: "H-0021"
 name: "Namnlös"
 owner: "LOWAb"
 breeder: "LOWAb"
 status: "stored"
-born: "2026-07-16T21:01:34.725019642Z"
+born: "2026-07-17T06:13:08.465072585Z"
 genetic_rank: C
-genetic_score: 0.617926
-color: "Grå"
+genetic_score: 0.563060
+color: "Mörkbrun"
 marking: "Vita strumpor"
 inbreeding: 0.000000
 tags:
@@ -17,32 +17,32 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-17 *08:20*
-**Info in-game:** `/h paper H-0005`
-# H-0005 Namnlös
+**Info in-game:** `/h paper H-0021`
+# H-0021 Namnlös
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Status:** Förvarad
-> **Född:** 2026-07-16
+> **Född:** 2026-07-17
 
 > [!info] Stats
-> **Hälsa:** 22,0
-> **Hopp:** 3,5 block
-> **Snabbhet:** 11,8 b/s
+> **Hälsa:** 30,0
+> **Hopp:** 2,0 block
+> **Snabbhet:** 8,6 b/s
 
 > [!info] Egenskaper
-> **Färg:** [[03. Lexikon/03.1 Färger/Grå|Grå]]
+> **Färg:** [[03. Lexikon/03.1 Färger/Mörkbrun|Mörkbrun]]
 > **Teckning:** [[03. Lexikon/03.2 Teckningar/Vita strumpor|Vita strumpor]]
-> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Grå & Vita strumpor|Grå & Vita strumpor]]
+> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Mörkbrun & Vita strumpor|Mörkbrun & Vita strumpor]]
 
 ## Genetik
 
 > [!info] Genetik
 > **Far:** Okänd
 > **Mor:** Okänd
-> **Avkommor:** [[02. Register/02.1 Hästar/H-0006 Mimimimimi|H-0006 Mimimimimi]]
-> **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0002|Öppna släktens stamtavla]]
+> **Avkommor:** -
+> **Stamtavla:** [[02. Register/02.3 Stamtavlor/Fristående hästar|Öppna släktens stamtavla]]
 > **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]]
 
 > [!warning] Varning
@@ -63,16 +63,9 @@ tags:
 
 ## Historik
 
-==**2026-07-16**==
-- Fick avkomman [[02. Register/02.1 Hästar/H-0006 Mimimimimi|H-0006 Mimimimimi]]
-
-- gender ändrades till Sto av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-
+==**2026-07-17**==
 - Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-
-==**2026-07-15**==
-- Avliden
 
 
 ---
-Genetisk poäng: **61.8 %** · Hälsa 46.7 % · Hopp 64.1 % · Snabbhet 74.6 %
+Genetisk poäng: **56.3 %** · Hälsa 100.0 % · Hopp 28.3 % · Snabbhet 40.6 %

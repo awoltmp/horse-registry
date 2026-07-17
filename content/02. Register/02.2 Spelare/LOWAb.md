@@ -1,19 +1,19 @@
 #spelarprofil
 
-**Senast uppdaterad:** 2026-07-17 *08:10*
+**Senast uppdaterad:** 2026-07-17 *08:20*
 **Info in-game:** `/h player LOWAb`
 
 ---
 # LOWAb
 
 > [!abstract] **Info**
-> **Antal ägda hästar:** 7
-> **Antal uppfödda hästar:** 7
+> **Antal ägda hästar:** 8
+> **Antal uppfödda hästar:** 8
 >
-> **Rank:** D (53.0 %)
+> **Rank:** D (53.4 %)
 > **Bästa häst:** [[02. Register/02.1 Hästar/H-0005 Namnlös|H-0005 Namnlös]]
 > **Första häst:** [[02. Register/02.1 Hästar/H-0001 Test Test|H-0001 Test Test]] (2026-07-15)
-> **Senaste häst:** [[02. Register/02.1 Hästar/H-0014 Zombie|H-0014 Zombie]] (2026-07-17)
+> **Senaste häst:** [[02. Register/02.1 Hästar/H-0021 Namnlös|H-0021 Namnlös]] (2026-07-17)
 
 ---
 ## Hästar
@@ -26,6 +26,7 @@
 [[02. Register/02.1 Hästar/H-0005 Namnlös|H-0005 Namnlös]]
 [[02. Register/02.1 Hästar/H-0006 Mimimimimi|H-0006 Mimimimimi]]
 [[02. Register/02.1 Hästar/H-0014 Zombie|H-0014 Zombie]]
+[[02. Register/02.1 Hästar/H-0021 Namnlös|H-0021 Namnlös]]
 
 #### Uppfödda hästar
 [[02. Register/02.1 Hästar/H-0001 Test Test|H-0001 Test Test]]
@@ -35,6 +36,7 @@
 [[02. Register/02.1 Hästar/H-0005 Namnlös|H-0005 Namnlös]]
 [[02. Register/02.1 Hästar/H-0006 Mimimimimi|H-0006 Mimimimimi]]
 [[02. Register/02.1 Hästar/H-0014 Zombie|H-0014 Zombie]]
+[[02. Register/02.1 Hästar/H-0021 Namnlös|H-0021 Namnlös]]
 
 #### Medryttarhästar
 -
@@ -42,6 +44,8 @@
 ## Historik
 
 ==**2026-07-17**==
+- Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0021 Namnlös|H-0021 Namnlös]]
+
 - Namn ändrat till Zombie av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0014 Zombie|H-0014 Zombie]]
 
 - Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0014 Zombie|H-0014 Zombie]]
