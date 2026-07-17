@@ -16,7 +16,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *07:30*
+**Senast uppdaterad:** 2026-07-17 *07:40*
 **Info in-game:** `/h paper H-0015`
 # H-0015 Sailor mercury
 
