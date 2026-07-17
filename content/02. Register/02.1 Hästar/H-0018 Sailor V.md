@@ -1,15 +1,15 @@
 ---
-horse_id: "H-0015"
-name: "Sailor mercury"
+horse_id: "H-0018"
+name: "Sailor V"
 owner: "Satm4ra"
 breeder: "Satm4ra"
-status: "stored"
-born: "2026-07-16T23:35:32.569680577Z"
-genetic_rank: B
-genetic_score: 0.742725
+status: "spawned"
+born: "2026-07-17T00:02:43.267666973Z"
+genetic_rank: C
+genetic_score: 0.637293
 color: "Brun"
 marking: "Vitfält"
-inbreeding: 0.000000
+inbreeding: 0.406250
 tags:
   - hästprofil
 ---
@@ -17,44 +17,47 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-17 *02:10*
-**Info in-game:** `/h paper H-0015`
-# H-0015 Sailor mercury
+**Info in-game:** `/h paper H-0018`
+# H-0018 Sailor V
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
-> **Status:** Förvarad
+> **Status:** I världen
 > **Född:** 2026-07-17
 
 > [!info] Stats
-> **Hälsa:** 26,5
-> **Hopp:** 3,9 block
-> **Snabbhet:** 11,8 b/s
+> **Hälsa:** 23,5
+> **Hopp:** 3,5 block
+> **Snabbhet:** 11,5 b/s
 
 > [!info] Egenskaper
 > **Färg:** [[03. Lexikon/03.1 Färger/Brun|Brun]]
 > **Teckning:** [[03. Lexikon/03.2 Teckningar/Vitfält|Vitfält]]
 > **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Brun & Vitfält|Brun & Vitfält]]
+> **Favoritmat:** Golden Carrot
 
 ## Genetik
 
 > [!info] Genetik
 > **Far:** [[02. Register/02.1 Hästar/H-0013 Lundgrens|H-0013 Lundgrens]]
-> **Mor:** [[02. Register/02.1 Hästar/H-0014 Zombie|H-0014 Zombie]]
-> **Avkommor:** [[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]]
+> **Mor:** [[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]]
+> **Avkommor:** -
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0002|Öppna släktens stamtavla]]
-> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/B|B]]
+> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]]
 
-> [!warning] Varning
-> Relationen är 1/100, vilket är under 30.
+> [!fail] Icke godkänd
+> Negativa mutationer: Ledsvaghet.
+> Inavelskoefficienten är 40,62 %.
+> Relationen är 10/100, vilket är under 30.
 
 ## Meriter
 
 > [!info] Träning
 > **Hälsa:** 1/100
 > **Hopp:** 0/100
-> **Snabbhet:** 0/100
-> **Relation:** 1/100
+> **Snabbhet:** 1/100
+> **Relation:** 10/100
 
 > [!info] Vinster
 > **[[04. Tävlingar/Sommarhoppet|Sommarhoppet]]:** 0
@@ -64,11 +67,15 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
-- Fick avkomman [[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]]
+- Namn ändrat till Sailor V av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 
-- Namn ändrat till Sailor mercury av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
+- Favoritmat upptäckt: gyllene morötter
 
-- Far: [[02. Register/02.1 Hästar/H-0013 Lundgrens|H-0013 Lundgrens]], Mor: [[02. Register/02.1 Hästar/H-0014 Zombie|H-0014 Zombie]]
+- Far: [[02. Register/02.1 Hästar/H-0013 Lundgrens|H-0013 Lundgrens]], Mor: [[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]]
+
+- Ärftliga anlag: LEDSVAGHET
+
+- Inavelsgrad: 40,6%
 
 - Född och registrerad av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 
@@ -77,4 +84,4 @@ tags:
 
 
 ---
-Genetisk poäng: **74.3 %** · Hälsa 77.0 % · Hopp 71.8 % · Snabbhet 74.0 %
+Genetisk poäng: **63.7 %** · Hälsa 56.6 % · Hopp 63.4 % · Snabbhet 71.3 %

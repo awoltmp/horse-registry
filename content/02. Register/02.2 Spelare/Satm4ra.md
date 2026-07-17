@@ -1,19 +1,19 @@
 #spelarprofil
 
-**Senast uppdaterad:** 2026-07-17 *02:00*
+**Senast uppdaterad:** 2026-07-17 *02:10*
 **Info in-game:** `/h player Satm4ra`
 
 ---
 # Satm4ra
 
 > [!abstract] **Info**
-> **Antal ägda hästar:** 9
-> **Antal uppfödda hästar:** 9
+> **Antal ägda hästar:** 11
+> **Antal uppfödda hästar:** 11
 >
-> **Rank:** D (52.7 %)
-> **Bästa häst:** [[02. Register/02.1 Hästar/H-0015 Sailor mercury|H-0015 Sailor mercury]]
+> **Rank:** C (55.7 %)
+> **Bästa häst:** [[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]]
 > **Första häst:** [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]] (2026-07-17)
-> **Senaste häst:** [[02. Register/02.1 Hästar/H-0016 Namnlös|H-0016 Namnlös]] (2026-07-17)
+> **Senaste häst:** [[02. Register/02.1 Hästar/H-0018 Sailor V|H-0018 Sailor V]] (2026-07-17)
 
 ---
 ## Hästar
@@ -28,6 +28,8 @@
 [[02. Register/02.1 Hästar/H-0013 Lundgrens|H-0013 Lundgrens]]
 [[02. Register/02.1 Hästar/H-0015 Sailor mercury|H-0015 Sailor mercury]]
 [[02. Register/02.1 Hästar/H-0016 Namnlös|H-0016 Namnlös]]
+[[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]]
+[[02. Register/02.1 Hästar/H-0018 Sailor V|H-0018 Sailor V]]
 
 #### Uppfödda hästar
 [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]]
@@ -39,6 +41,8 @@
 [[02. Register/02.1 Hästar/H-0013 Lundgrens|H-0013 Lundgrens]]
 [[02. Register/02.1 Hästar/H-0015 Sailor mercury|H-0015 Sailor mercury]]
 [[02. Register/02.1 Hästar/H-0016 Namnlös|H-0016 Namnlös]]
+[[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]]
+[[02. Register/02.1 Hästar/H-0018 Sailor V|H-0018 Sailor V]]
 
 #### Medryttarhästar
 [[02. Register/02.1 Hästar/H-0001 Test Test|H-0001 Test Test]]
@@ -50,6 +54,14 @@
 ## Historik
 
 ==**2026-07-17**==
+- Namn ändrat till Sailor V av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0018 Sailor V|H-0018 Sailor V]]
+
+- Född och registrerad av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0018 Sailor V|H-0018 Sailor V]]
+
+- Namn ändrat till Sailor moon av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]]
+
+- Född och registrerad av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]]
+
 - Född och registrerad av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0016 Namnlös|H-0016 Namnlös]]
 
 - Namn ändrat till Sailor mercury av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0015 Sailor mercury|H-0015 Sailor mercury]]

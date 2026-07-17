@@ -1,15 +1,15 @@
 ---
-horse_id: "H-0015"
-name: "Sailor mercury"
+horse_id: "H-0017"
+name: "Sailor moon"
 owner: "Satm4ra"
 breeder: "Satm4ra"
 status: "stored"
-born: "2026-07-16T23:35:32.569680577Z"
+born: "2026-07-17T00:00:42.468608886Z"
 genetic_rank: B
-genetic_score: 0.742725
+genetic_score: 0.750815
 color: "Brun"
 marking: "Vitfält"
-inbreeding: 0.000000
+inbreeding: 0.273438
 tags:
   - hästprofil
 ---
@@ -17,8 +17,8 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-17 *02:10*
-**Info in-game:** `/h paper H-0015`
-# H-0015 Sailor mercury
+**Info in-game:** `/h paper H-0017`
+# H-0017 Sailor moon
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
@@ -27,9 +27,9 @@ tags:
 > **Född:** 2026-07-17
 
 > [!info] Stats
-> **Hälsa:** 26,5
-> **Hopp:** 3,9 block
-> **Snabbhet:** 11,8 b/s
+> **Hälsa:** 26,4
+> **Hopp:** 3,6 block
+> **Snabbhet:** 12,7 b/s
 
 > [!info] Egenskaper
 > **Färg:** [[03. Lexikon/03.1 Färger/Brun|Brun]]
@@ -40,12 +40,14 @@ tags:
 
 > [!info] Genetik
 > **Far:** [[02. Register/02.1 Hästar/H-0013 Lundgrens|H-0013 Lundgrens]]
-> **Mor:** [[02. Register/02.1 Hästar/H-0014 Zombie|H-0014 Zombie]]
-> **Avkommor:** [[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]]
+> **Mor:** [[02. Register/02.1 Hästar/H-0015 Sailor mercury|H-0015 Sailor mercury]]
+> **Avkommor:** [[02. Register/02.1 Hästar/H-0018 Sailor V|H-0018 Sailor V]]
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0002|Öppna släktens stamtavla]]
 > **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/B|B]]
 
-> [!warning] Varning
+> [!fail] Icke godkänd
+> Negativa mutationer: Svaga Hovar.
+> Inavelskoefficienten är 27,34 %.
 > Relationen är 1/100, vilket är under 30.
 
 ## Meriter
@@ -64,11 +66,15 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
-- Fick avkomman [[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]]
+- Fick avkomman [[02. Register/02.1 Hästar/H-0018 Sailor V|H-0018 Sailor V]]
 
-- Namn ändrat till Sailor mercury av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
+- Namn ändrat till Sailor moon av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 
-- Far: [[02. Register/02.1 Hästar/H-0013 Lundgrens|H-0013 Lundgrens]], Mor: [[02. Register/02.1 Hästar/H-0014 Zombie|H-0014 Zombie]]
+- Far: [[02. Register/02.1 Hästar/H-0013 Lundgrens|H-0013 Lundgrens]], Mor: [[02. Register/02.1 Hästar/H-0015 Sailor mercury|H-0015 Sailor mercury]]
+
+- Ärftliga anlag: SVAGA_HOVAR
+
+- Inavelsgrad: 27,3%
 
 - Född och registrerad av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 
@@ -77,4 +83,4 @@ tags:
 
 
 ---
-Genetisk poäng: **74.3 %** · Hälsa 77.0 % · Hopp 71.8 % · Snabbhet 74.0 %
+Genetisk poäng: **75.1 %** · Hälsa 76.2 % · Hopp 65.3 % · Snabbhet 83.6 %

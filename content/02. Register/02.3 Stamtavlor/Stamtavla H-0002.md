@@ -5,16 +5,16 @@ cssclasses:
 
 #stamtavla
 
-**Senast uppdaterad:** 2026-07-17 *02:00*
+**Senast uppdaterad:** 2026-07-17 *02:10*
 
 # Stamtavla H-0002
 
 > [!abstract] Släktöversikt
-> **Antal hästar:** 15
-> **Genomsnittlig genetisk rank:** [[03. Lexikon/03.4 Genetiska ranker/D|D]] (53.5 %)
-> **Genomsnittlig hälsa:** 20,9
+> **Antal hästar:** 17
+> **Genomsnittlig genetisk rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]] (55.4 %)
+> **Genomsnittlig hälsa:** 21,3
 > **Genomsnittligt hopp:** 3,6 block
-> **Genomsnittlig snabbhet:** 10,0 b/s
+> **Genomsnittlig snabbhet:** 10,2 b/s
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]], [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]], [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 
@@ -38,6 +38,8 @@ flowchart TB
     h12["H-0014 Zombie"]
     h13["H-0015 Sailor mercury"]
     h14["H-0016 Namnlös"]
+    h15["H-0017 Sailor moon"]
+    h16["H-0018 Sailor V"]
     h0 -->|Far| h2
     h1 -->|Mor| h2
     h2 -->|Far| h4
@@ -58,7 +60,11 @@ flowchart TB
     h12 -->|Mor| h13
     h9 -->|Far| h14
     h5 -->|Mor| h14
-    class h0,h1,h2,h3,h4,h5,h6,h7,h8,h9,h10,h11,h12,h13,h14 internal-link;
+    h11 -->|Far| h15
+    h13 -->|Mor| h15
+    h11 -->|Far| h16
+    h15 -->|Mor| h16
+    class h0,h1,h2,h3,h4,h5,h6,h7,h8,h9,h10,h11,h12,h13,h14,h15,h16 internal-link;
 ```
 
 ## Hästar i släkten
@@ -80,3 +86,5 @@ flowchart TB
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0014%20Zombie">H-0014 Zombie</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/C">C</a> |
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0015%20Sailor%20mercury">H-0015 Sailor mercury</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/B">B</a> |
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0016%20Namnl%C3%B6s">H-0016 Namnlös</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/D">D</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0017%20Sailor%20moon">H-0017 Sailor moon</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/B">B</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0018%20Sailor%20V">H-0018 Sailor V</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/C">C</a> |
