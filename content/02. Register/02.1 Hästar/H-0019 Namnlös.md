@@ -3,7 +3,7 @@ horse_id: "H-0019"
 name: "Namnlös"
 owner: "Satm4ra"
 breeder: "Satm4ra"
-status: "spawned"
+status: "stored"
 born: "2026-07-17T00:48:48.016857613Z"
 genetic_rank: B
 genetic_score: 0.795892
@@ -16,14 +16,14 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *02:50*
+**Senast uppdaterad:** 2026-07-17 *03:00*
 **Info in-game:** `/h paper H-0019`
 # H-0019 Namnlös
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
-> **Status:** I världen
+> **Status:** Förvarad
 > **Född:** 2026-07-17
 
 > [!info] Stats
