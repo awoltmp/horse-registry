@@ -16,7 +16,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *08:50*
+**Senast uppdaterad:** 2026-07-17 *09:00*
 **Info in-game:** `/h paper H-0001`
 # H-0001 Robert
 
@@ -64,6 +64,8 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
+- Kastrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+
 - Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 
