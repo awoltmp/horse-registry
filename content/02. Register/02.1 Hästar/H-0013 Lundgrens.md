@@ -16,7 +16,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *03:30*
+**Senast uppdaterad:** 2026-07-17 *03:40*
 **Info in-game:** `/h paper H-0013`
 # H-0013 Lundgrens
 
