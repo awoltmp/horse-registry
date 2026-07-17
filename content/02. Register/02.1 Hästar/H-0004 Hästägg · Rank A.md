@@ -16,7 +16,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *13:40*
+**Senast uppdaterad:** 2026-07-17 *13:50*
 **Info in-game:** `/h paper H-0004`
 # H-0004 Hästägg · Rank A
 
