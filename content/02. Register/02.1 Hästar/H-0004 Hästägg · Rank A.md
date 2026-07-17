@@ -3,6 +3,7 @@ horse_id: "H-0004"
 name: "Hästägg · Rank A"
 owner: "LOWAb"
 breeder: "LOWAb"
+gender: "Hingst"
 status: "spawned"
 born: "2026-07-17T08:16:43.311409656Z"
 genetic_rank: A
@@ -16,13 +17,14 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *20:10*
+**Senast uppdaterad:** 2026-07-17 *20:19*
 **Info in-game:** `/h paper H-0004`
 # H-0004 Hästägg · Rank A
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+> **Kön:** Hingst
 > **Status:** I världen
 > **Född:** 2026-07-17
 

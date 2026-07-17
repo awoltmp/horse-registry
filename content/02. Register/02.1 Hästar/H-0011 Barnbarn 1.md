@@ -3,6 +3,7 @@ horse_id: "H-0011"
 name: "Barnbarn 1"
 owner: "LOWAb"
 breeder: "LOWAb"
+gender: "Sto"
 status: "spawned"
 born: "2026-07-17T16:35:41.259520522Z"
 genetic_rank: C
@@ -16,13 +17,14 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *20:10*
+**Senast uppdaterad:** 2026-07-17 *20:19*
 **Info in-game:** `/h paper H-0011`
 # H-0011 Barnbarn 1
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+> **Kön:** Sto
 > **Status:** I världen
 > **Född:** 2026-07-17
 

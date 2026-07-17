@@ -3,6 +3,7 @@ horse_id: "H-0001"
 name: "Robert"
 owner: "LOWAb"
 breeder: "LOWAb"
+gender: "Valack"
 status: "dead"
 born: "2026-07-17T06:42:45.592428468Z"
 genetic_rank: E
@@ -16,13 +17,14 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *20:10*
+**Senast uppdaterad:** 2026-07-17 *20:19*
 **Info in-game:** `/h paper H-0001`
 # H-0001 Robert
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+> **Kön:** Valack
 > **Status:** Avliden
 > **Född:** 2026-07-17
 

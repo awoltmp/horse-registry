@@ -3,6 +3,7 @@ horse_id: "H-0002"
 name: "Namnlös"
 owner: "LOWAb"
 breeder: "LOWAb"
+gender: "Sto"
 status: "dead"
 born: "2026-07-17T06:43:33.632280383Z"
 genetic_rank: C
@@ -16,13 +17,14 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *20:10*
+**Senast uppdaterad:** 2026-07-17 *20:19*
 **Info in-game:** `/h paper H-0002`
 # H-0002 Namnlös
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+> **Kön:** Sto
 > **Status:** Avliden
 > **Född:** 2026-07-17
 
