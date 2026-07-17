@@ -1,15 +1,15 @@
 ---
-horse_id: "H-0002"
+horse_id: "H-0015"
 name: "Namnlös"
 owner: "LOWAb"
 breeder: "LOWAb"
 gender: "Sto"
-status: "dead"
-born: "2026-07-17T06:43:33.632280383Z"
-genetic_rank: C
-genetic_score: 0.563060
-color: "Mörkbrun"
-marking: "Vita strumpor"
+status: "spawned"
+born: "2026-07-17T21:10:15.467932971Z"
+genetic_rank: D
+genetic_score: 0.423960
+color: "Vit"
+marking: "Ingen teckning"
 inbreeding: 0.000000
 tags:
   - hästprofil
@@ -18,25 +18,25 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-17 *23:20*
-**Info in-game:** `/h paper H-0002`
-# H-0002 Namnlös
+**Info in-game:** `/h paper H-0015`
+# H-0015 Namnlös
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Kön:** Sto
-> **Status:** Avliden
+> **Status:** I världen
 > **Född:** 2026-07-17
 
 > [!info] Stats
-> **Hälsa:** 30,0
-> **Hopp:** 2,0 block
-> **Snabbhet:** 8,6 b/s
+> **Hälsa:** 20,0
+> **Hopp:** 2,2 block
+> **Snabbhet:** 10,6 b/s
 
 > [!info] Egenskaper
-> **Färg:** [[03. Lexikon/03.1 Färger/Mörkbrun|Mörkbrun]]
-> **Teckning:** [[03. Lexikon/03.2 Teckningar/Vita strumpor|Vita strumpor]]
-> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Mörkbrun & Vita strumpor|Mörkbrun & Vita strumpor]]
+> **Färg:** [[03. Lexikon/03.1 Färger/Vit|Vit]]
+> **Teckning:** [[03. Lexikon/03.2 Teckningar/Ingen teckning|Ingen teckning]]
+> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Vit & Ingen teckning|Vit & Ingen teckning]]
 
 ## Genetik
 
@@ -45,7 +45,7 @@ tags:
 > **Mor:** Okänd
 > **Avkommor:** -
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Fristående hästar|Öppna släktens stamtavla]]
-> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]]
+> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/D|D]]
 
 > [!warning] Varning
 > Relationen är 0/100, vilket är under 30.
@@ -66,12 +66,8 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
-- Avliden
-
-- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-
 - Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 
 ---
-Genetisk poäng: **56.3 %** · Hälsa 100.0 % · Hopp 28.3 % · Snabbhet 40.6 %
+Genetisk poäng: **42.4 %** · Hälsa 33.3 % · Hopp 32.5 % · Snabbhet 61.3 %

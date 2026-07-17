@@ -1,10 +1,10 @@
 #hästregister
 
-**Senast uppdaterad:** 2026-07-17 *23:10*
+**Senast uppdaterad:** 2026-07-17 *23:20*
 
 # Hästregistret
 
-**Antal hästar:** 14
+**Antal hästar:** 15
 
 [[02. Register/02.3 Stamtavlor|Öppna stamtavlorna]]
 
@@ -16,7 +16,7 @@
 - [[02. Register/02.1 Hästar/H-0004 Hästägg · Rank A|H-0004 Hästägg · Rank A]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/A|A]] · I världen
 - [[02. Register/02.1 Hästar/H-0005 Mor 1|H-0005 Mor 1]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · I världen
 - [[02. Register/02.1 Hästar/H-0006 Far 1|H-0006 Far 1]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/C|C]] · I världen
-- [[02. Register/02.1 Hästar/H-0007 Föl 1|H-0007 Föl 1]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/C|C]] · I världen
+- [[02. Register/02.1 Hästar/H-0007 Föl 1|H-0007 Föl 1]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/C|C]] · Förvarad
 - [[02. Register/02.1 Hästar/H-0008 Far 2|H-0008 Far 2]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · I världen
 - [[02. Register/02.1 Hästar/H-0009 Mor 2|H-0009 Mor 2]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/E|E]] · I världen
 - [[02. Register/02.1 Hästar/H-0010 Föl 2|H-0010 Föl 2]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · I världen
@@ -24,6 +24,7 @@
 - [[02. Register/02.1 Hästar/H-0012 Namnlös|H-0012 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/E|E]] · I världen
 - [[02. Register/02.1 Hästar/H-0013 Namnlös|H-0013 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · I världen
 - [[02. Register/02.1 Hästar/H-0014 Namnlös|H-0014 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · I världen
+- [[02. Register/02.1 Hästar/H-0015 Namnlös|H-0015 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · I världen
 
 ## Spelare
 
