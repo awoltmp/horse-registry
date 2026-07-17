@@ -17,7 +17,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *22:20*
+**Senast uppdaterad:** 2026-07-17 *22:30*
 **Info in-game:** `/h paper H-0012`
 # H-0012 Namnlös
 
