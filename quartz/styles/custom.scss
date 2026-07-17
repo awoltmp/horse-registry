@@ -1,10 +1,220 @@
 @use "./variables.scss" as *;
 
-.page > #quartz-body .center { min-width: 0; }
-article { line-height: 1.65; }
-article table { width: 100%; }
+/*
+ * Local visual study: a calmer, Obsidian Publish-inspired reading layout.
+ * This file belongs to the isolated horse-registry-visual-preview copy.
+ */
 
-/* Neutrala Obsidian-liknande länkar och taggar. */
+:root {
+  --preview-sidebar-bg: color-mix(in srgb, var(--light) 96%, var(--dark) 4%);
+  --preview-hover: color-mix(in srgb, var(--secondary) 9%, transparent);
+  --preview-border: color-mix(in srgb, var(--lightgray) 82%, transparent);
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+
+*:hover {
+  scrollbar-color: color-mix(in srgb, var(--gray) 50%, transparent) transparent;
+}
+
+*::-webkit-scrollbar { width: 8px; height: 8px; }
+*::-webkit-scrollbar-track { background: transparent; }
+*::-webkit-scrollbar-thumb {
+  border: 2px solid transparent;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--gray) 46%, transparent);
+  background-clip: padding-box;
+}
+*::-webkit-scrollbar-thumb:hover {
+  background: color-mix(in srgb, var(--gray) 72%, transparent);
+  background-clip: padding-box;
+}
+
+html { background: var(--light); }
+body {
+  letter-spacing: -0.006em;
+  overflow-x: clip;
+}
+
+.page {
+  max-width: 1720px;
+}
+
+.page > #quartz-body {
+  min-width: 0;
+}
+
+.page > #quartz-body .center,
+.page > #quartz-body .page-header,
+.page > #quartz-body footer {
+  width: min(100%, 820px);
+  min-width: 0;
+  margin-inline: auto;
+}
+
+/* Left navigation: compact and quiet, like a Publish file tree. */
+.sidebar.left {
+  gap: 0.7rem !important;
+  background: var(--preview-sidebar-bg);
+  border-right: 1px solid var(--preview-border);
+}
+
+.sidebar.left .page-title {
+  margin: 0 0 0.25rem;
+  padding: 0 0.45rem;
+  font-family: var(--headerFont);
+  font-size: 1.02rem;
+  font-weight: 650;
+  letter-spacing: -0.02em;
+}
+
+.sidebar.left .page-title a {
+  color: var(--dark) !important;
+}
+
+.sidebar.left .flex-component {
+  gap: 0.35rem !important;
+  align-items: center;
+}
+
+.sidebar.left .search {
+  min-width: 0;
+}
+
+.sidebar.left .search-button {
+  min-height: 2.15rem;
+  border: 1px solid var(--preview-border);
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--light) 72%, transparent);
+  box-shadow: none;
+}
+
+.sidebar.left .search-button:hover,
+.sidebar.left .search-button:focus-visible {
+  border-color: color-mix(in srgb, var(--secondary) 40%, var(--lightgray));
+  background: var(--preview-hover);
+}
+
+.sidebar.left .darkmode,
+.sidebar.left .readermode {
+  width: 2.15rem;
+  height: 2.15rem;
+  border-radius: 6px;
+}
+
+.explorer {
+  min-height: 0;
+  margin-top: 0.1rem;
+}
+
+.explorer .explorer-toggle {
+  padding-inline: 0.45rem;
+  color: var(--darkgray);
+}
+
+.explorer .explorer-content {
+  padding: 0.15rem 0.2rem 2rem 0;
+}
+
+.explorer .tree-item-self,
+.explorer a {
+  border-radius: 5px;
+  background: transparent !important;
+  color: var(--darkgray) !important;
+  font-size: 0.91rem;
+  font-weight: 450;
+  line-height: 1.35;
+}
+
+.explorer .tree-item-self:hover,
+.explorer .tree-item-self:focus-within,
+.explorer a:hover {
+  color: var(--dark) !important;
+  background: var(--preview-hover) !important;
+  text-decoration: none !important;
+}
+
+.explorer .active > .tree-item-self,
+.explorer .active > .tree-item-self a,
+.explorer a.active {
+  color: var(--secondary) !important;
+  font-weight: 600;
+  background: var(--preview-hover) !important;
+}
+
+/* Reading surface. */
+.page-header {
+  margin-top: 4.7rem !important;
+}
+
+.breadcrumb-container {
+  margin-bottom: 1rem;
+  color: var(--gray);
+  font-size: 0.78rem;
+}
+
+.breadcrumb-container a,
+.breadcrumb-container span {
+  color: var(--gray) !important;
+  font-weight: 450;
+}
+
+.breadcrumb-container a:hover { color: var(--secondary) !important; }
+
+.article-title {
+  margin: 0 0 0.6rem;
+  color: var(--dark);
+  font-size: clamp(2rem, 4vw, 2.55rem);
+  font-weight: 700;
+  letter-spacing: -0.042em;
+  line-height: 1.08;
+}
+
+.content-meta {
+  margin-bottom: 2.2rem;
+  color: var(--gray);
+  font-size: 0.82rem;
+}
+
+article {
+  color: var(--darkgray);
+  font-size: 0.94rem;
+  line-height: 1.68;
+}
+
+/* A few exported horse notes expose their YAML header as ordinary Markdown.
+ * Keep the source data intact, but hide that implementation detail from the
+ * reading view so a profile starts like a normal published note. */
+article .markdown-preview-view > hr:first-child,
+article .markdown-preview-view > hr:first-child + p,
+article .markdown-preview-view > hr:first-child + p + ul,
+article .markdown-preview-view > hr:first-child + p + ul + hr {
+  display: none;
+}
+
+article h1,
+article h2,
+article h3,
+article h4 {
+  color: var(--dark);
+  font-family: var(--headerFont);
+  letter-spacing: -0.025em;
+  scroll-margin-top: 2rem;
+}
+
+article h2 {
+  margin-top: 2.5rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--preview-border);
+  font-size: 1.42rem;
+}
+
+article h3 { margin-top: 1.8rem; font-size: 1.16rem; }
+article p { margin-block: 0.85rem; }
+
 article a,
 article a.internal,
 .sidebar a,
@@ -13,84 +223,170 @@ article a.internal,
   color: var(--secondary) !important;
   text-decoration: none;
 }
+
 article a:hover,
-.sidebar a:hover,
 .breadcrumb-container a:hover {
-  color: var(--dark) !important;
+  color: var(--tertiary) !important;
   text-decoration: underline;
+  text-underline-offset: 0.18em;
 }
+
 article .tag-link,
 article a.tag-link,
 article [class*="tag"] a {
-  display: inline-block;
+  display: inline-flex;
   width: auto;
-  padding: 0;
+  padding: 0.08rem 0.4rem;
   border: 0;
-  background: transparent !important;
-  color: var(--secondary) !important;
+  border-radius: 999px;
+  background: var(--highlight) !important;
+  font-size: 0.82rem;
 }
+
 article mark,
 article .text-highlight {
-  background: var(--highlight) !important;
+  border-radius: 2px;
+  background: var(--textHighlight) !important;
   color: inherit !important;
-  border-radius: 3px;
-  padding: 0 0.12em;
+  padding: 0 0.1em;
 }
 
-/* Högerpanelen: tydliga separata block i stället för hoptryckt inline-innehåll. */
-.sidebar.right {
-  gap: 0.9rem !important;
-  overflow-y: auto;
-  overflow-x: hidden;
-  align-items: stretch;
+article blockquote {
+  margin-inline: 0;
+  padding: 0.1rem 0 0.1rem 1rem;
+  border-left: 3px solid color-mix(in srgb, var(--secondary) 55%, var(--lightgray));
+  color: var(--darkgray);
 }
-.sidebar.right > *,
-.sidebar.right > .right-panel-card {
-  display: block !important;
-  flex: 0 0 auto !important;
-  width: 100% !important;
-  min-width: 0;
-  box-sizing: border-box;
+
+article table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden;
+  border: 1px solid var(--preview-border);
+  border-radius: 7px;
+  font-size: 0.9rem;
+}
+
+article th {
+  background: var(--preview-sidebar-bg);
+  color: var(--dark);
+  font-weight: 600;
+}
+
+article th,
+article td {
+  padding: 0.58rem 0.72rem;
+  border-right: 0;
+  border-bottom-color: var(--preview-border);
+}
+
+article tr:last-child td { border-bottom: 0; }
+
+.callout {
+  margin: 1.15rem 0;
+  padding: 0 !important;
+  border: 1px solid var(--border) !important;
+  border-left: 4px solid var(--color) !important;
+  border-radius: 8px !important;
+  background: var(--bg) !important;
+  box-shadow: none !important;
+}
+
+.callout .callout-title {
+  align-items: center !important;
+  gap: 0.55rem !important;
+  min-height: 1.5rem;
+  padding: 0.72rem 0.9rem 0.62rem;
+  border-bottom: 1px solid color-mix(in srgb, var(--color) 16%, transparent);
+  font-size: 0.9rem;
+}
+
+.callout .callout-title-inner,
+.callout .callout-title-inner > p {
   margin: 0 !important;
-  padding: 1rem !important;
-  border: 1px solid var(--lightgray);
-  border-radius: 8px;
-  background: color-mix(in srgb, var(--light) 96%, var(--dark) 4%);
-}
-.sidebar.right h2,
-.sidebar.right h3,
-.sidebar.right button {
-  display: block;
-  width: 100%;
-  margin: 0 0 0.65rem !important;
-  text-align: left;
-}
-.sidebar.right ul,
-.sidebar.right ol {
-  display: block !important;
-  width: 100%;
-  margin: 0 !important;
-  padding-left: 0 !important;
-  list-style: none;
-}
-.sidebar.right li {
-  display: block !important;
-  width: 100%;
-  margin: 0.35rem 0 !important;
   line-height: 1.35;
 }
-.sidebar.right .graph {
-  min-height: 17rem;
+
+.callout .callout-icon,
+.callout .fold-callout-icon {
+  align-self: center;
+  padding: 0 !important;
 }
 
-/* Stamtavlans Canvas-lika arbetsyta. */
+.callout .callout-content {
+  padding: 0.25rem 0.95rem 0.8rem;
+}
+
+.callout .callout-content > :last-child { margin-bottom: 0; }
+
+/* Right side: only a restrained table of contents. */
+.sidebar.right {
+  gap: 0 !important;
+  padding-top: 5.8rem !important;
+  padding-left: 1.35rem !important;
+  border-left: 1px solid var(--preview-border);
+  overflow: hidden;
+}
+
+.sidebar.right > * {
+  width: 100%;
+  min-width: 0;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+.sidebar.right .toc-header {
+  margin-bottom: 0.65rem;
+  color: var(--dark);
+  font-size: 0.75rem;
+  font-weight: 650;
+  letter-spacing: 0.065em;
+  text-transform: uppercase;
+}
+
+.sidebar.right .toc-content {
+  max-height: calc(100vh - 9rem);
+  padding-right: 0.4rem;
+}
+
+.sidebar.right .toc-content a {
+  display: block;
+  padding: 0.23rem 0 0.23rem 0.7rem;
+  border-left: 1px solid var(--lightgray);
+  color: var(--gray) !important;
+  font-size: 0.8rem;
+  font-weight: 450;
+  line-height: 1.35;
+}
+
+.sidebar.right .toc-content a:hover,
+.sidebar.right .toc-content a.in-view {
+  border-left-color: var(--secondary);
+  color: var(--secondary) !important;
+  text-decoration: none;
+}
+
+footer {
+  margin-top: 4rem !important;
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--preview-border);
+  color: var(--gray);
+  font-size: 0.78rem;
+}
+
+/* Pedigree workspace remains wide and functional, but uses the calmer chrome. */
 .pedigree-workspace {
   width: 100%;
   margin: 1.1rem 0 1.7rem;
-  border: 1px solid var(--lightgray);
-  border-radius: 8px;
-  background: var(--light);
   overflow: hidden;
+  border: 1px solid var(--preview-border);
+  border-radius: 7px;
+  background: var(--light);
 }
 .pedigree-toolbar {
   display: flex;
@@ -98,29 +394,26 @@ article .text-highlight {
   align-items: center;
   gap: 0.4rem;
   padding: 0.55rem;
-  border-bottom: 1px solid var(--lightgray);
+  border-bottom: 1px solid var(--preview-border);
+  background: var(--preview-sidebar-bg);
 }
 .pedigree-control {
   appearance: none;
-  border: 1px solid var(--lightgray);
+  border: 1px solid var(--preview-border);
   border-radius: 5px;
   background: var(--light);
   color: var(--darkgray);
   font: inherit;
-  font-size: 0.85rem;
+  font-size: 0.82rem;
   padding: 0.38rem 0.7rem;
   cursor: pointer;
 }
 .pedigree-control:hover,
-.pedigree-control:focus-visible {
-  border-color: var(--gray);
-  color: var(--dark);
-  outline: none;
-}
+.pedigree-control:focus-visible { border-color: var(--secondary); outline: none; }
 .pedigree-zoom-value {
   margin-left: auto;
   color: var(--gray);
-  font-size: 0.82rem;
+  font-size: 0.78rem;
   font-variant-numeric: tabular-nums;
 }
 .pedigree-viewport {
@@ -134,23 +427,10 @@ article .text-highlight {
   background: color-mix(in srgb, var(--light) 97%, var(--dark) 3%);
 }
 .pedigree-viewport.is-dragging { cursor: grabbing; }
-.pedigree-stage {
-  position: absolute;
-  inset: 0 auto auto 0;
-  transform-origin: 0 0;
-  will-change: transform;
-}
+.pedigree-stage { position: absolute; inset: 0 auto auto 0; transform-origin: 0 0; will-change: transform; }
 .pedigree-svg { display: block; overflow: visible; }
-.pedigree-edge {
-  fill: none;
-  stroke: var(--gray);
-  stroke-width: 1.4;
-  vector-effect: non-scaling-stroke;
-}
-.pedigree-edge.is-active {
-  stroke: var(--secondary);
-  stroke-width: 3;
-}
+.pedigree-edge { fill: none; stroke: var(--gray); stroke-width: 1.4; vector-effect: non-scaling-stroke; }
+.pedigree-edge.is-active { stroke: var(--secondary); stroke-width: 3; }
 .pedigree-edge.is-dimmed { opacity: 0.16; }
 .pedigree-edge-label {
   fill: var(--gray);
@@ -161,18 +441,9 @@ article .text-highlight {
   stroke-width: 4px;
   stroke-linejoin: round;
 }
-.pedigree-node rect {
-  fill: var(--light);
-  stroke: var(--gray);
-  stroke-width: 1.25;
-  rx: 7;
-  ry: 7;
-}
+.pedigree-node rect { fill: var(--light); stroke: var(--gray); stroke-width: 1.25; rx: 7; ry: 7; }
 .pedigree-node:hover rect,
-.pedigree-node:focus rect {
-  stroke: var(--secondary);
-  stroke-width: 2;
-}
+.pedigree-node:focus rect { stroke: var(--secondary); stroke-width: 2; }
 .pedigree-node-link.is-selected .pedigree-node rect {
   fill: color-mix(in srgb, var(--secondary) 18%, var(--light));
   stroke: var(--secondary);
@@ -188,74 +459,29 @@ article .text-highlight {
 .pedigree-edge { transition: opacity 120ms ease, stroke 120ms ease, fill 120ms ease; }
 .pedigree-node text {
   fill: var(--darkgray);
-  font-size: 13px;
   font-family: var(--bodyFont);
+  font-size: 13px;
   font-weight: 600;
   pointer-events: none;
 }
-.pedigree-node .pedigree-node-id {
-  font-size: 11px;
-  fill: var(--gray);
-  font-weight: 400;
-}
+.pedigree-node .pedigree-node-id { fill: var(--gray); font-size: 11px; font-weight: 400; }
 .pedigree-node-link { cursor: pointer; outline: none; }
 .pedigree-hint,
 .pedigree-error {
   padding: 0.55rem 0.7rem;
-  border-top: 1px solid var(--lightgray);
+  border-top: 1px solid var(--preview-border);
   color: var(--gray);
-  font-size: 0.84rem;
+  font-size: 0.8rem;
 }
-.pedigree-workspace:fullscreen {
-  width: 100vw;
-  height: 100vh;
-  border: 0;
-  border-radius: 0;
-  background: var(--light);
-}
+.pedigree-workspace:fullscreen { width: 100vw; height: 100vh; border: 0; border-radius: 0; background: var(--light); }
 .pedigree-workspace:fullscreen .pedigree-viewport { height: calc(100vh - 3.25rem); }
 body.pedigree-page article > .callout:last-child { display: none; }
 body.pedigree-page pre:has(> code.language-mermaid),
 body.pedigree-page .mermaid:not([data-pedigree-ready="true"]) { display: none; }
 
-@media (max-width: 1200px) {
-  .sidebar.right > *, .sidebar.right > .right-panel-card { padding: 0.8rem !important; }
-}
-@media (max-width: 800px) {
-  .pedigree-viewport { height: 60vh; min-height: 23rem; }
-  .pedigree-zoom-value { width: 100%; margin-left: 0; }
-  .sidebar.right { display: block !important; }
-  .sidebar.right > * { margin-bottom: 0.8rem !important; }
-}
-
-/* Korrigering v4: mer plats för huvudkolumnen. */
-@media (min-width: 1200px) {
-  .page > #quartz-body {
-    grid-template-columns: 250px minmax(0, 1fr) 270px !important;
-    column-gap: 1.25rem !important;
-  }
-  .page > #quartz-body .sidebar {
-    padding-left: 1.25rem;
-    padding-right: 1.25rem;
-  }
-  .page > #quartz-body .center,
-  .page > #quartz-body .page-header,
-  .page > #quartz-body footer {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-/* Korrekta, klickbara stamtavletabeller. */
-article table.pedigree-data-table {
-  table-layout: fixed;
-  border-collapse: collapse;
-}
+article table.pedigree-data-table { table-layout: fixed; }
 article table.pedigree-data-table th,
-article table.pedigree-data-table td {
-  overflow-wrap: anywhere;
-  vertical-align: middle;
-}
+article table.pedigree-data-table td { overflow-wrap: anywhere; vertical-align: middle; }
 article table.pedigree-data-table th:nth-child(1),
 article table.pedigree-data-table td:nth-child(1) { width: 32%; }
 article table.pedigree-data-table th:nth-child(2),
@@ -263,29 +489,46 @@ article table.pedigree-data-table td:nth-child(2) { width: 26%; }
 article table.pedigree-data-table th:nth-child(3),
 article table.pedigree-data-table td:nth-child(3) { width: 26%; }
 article table.pedigree-data-table th:nth-child(4),
-article table.pedigree-data-table td:nth-child(4) {
-  width: 16%;
-  text-align: center;
-}
-article table.pedigree-data-table a.internal {
-  display: inline;
-  padding: 0;
-  border: 0;
-  background: transparent !important;
-  color: var(--secondary) !important;
-  white-space: normal;
+article table.pedigree-data-table td:nth-child(4) { width: 16%; text-align: center; }
+
+@media (min-width: 1321px) {
+  .page > #quartz-body {
+    grid-template-columns: 280px minmax(0, 1fr) 210px !important;
+    column-gap: 2.5rem !important;
+  }
+  .page > #quartz-body .sidebar { padding-inline: 1rem; }
+  .page > #quartz-body .center,
+  .page > #quartz-body .page-header,
+  .page > #quartz-body footer { width: min(100%, 760px); }
 }
 
-/* Högerpanelens kort får mindre visuell tyngd. */
-@media (min-width: 1200px) {
-  .sidebar.right {
-    padding-top: 4.5rem !important;
+@media (min-width: 801px) and (max-width: 1320px) {
+  .page > #quartz-body {
+    grid-template-columns: 248px minmax(0, 1fr) !important;
+    column-gap: 1.5rem !important;
   }
-  .sidebar.right > *,
-  .sidebar.right > .right-panel-card {
-    padding: 0.85rem !important;
+  .sidebar.left { padding-inline: 0.8rem !important; }
+  .page > #quartz-body .center,
+  .page > #quartz-body .page-header,
+  .page > #quartz-body footer { padding-right: 1.5rem; box-sizing: border-box; }
+  .sidebar.right { display: none !important; }
+}
+
+@media (max-width: 800px) {
+  .page > #quartz-body { padding-inline: 1.1rem !important; }
+  .sidebar.left {
+    gap: 0.45rem !important;
+    padding-top: 1rem !important;
+    border: 0;
+    background: transparent;
   }
-  .sidebar.right .graph {
-    min-height: 14rem;
-  }
+  .sidebar.left .page-title { padding: 0; }
+  .page-header { margin-top: 2rem !important; }
+  .article-title { font-size: 2rem; }
+  .content-meta { margin-bottom: 1.5rem; }
+  .sidebar.right { display: none !important; }
+  article { font-size: 0.97rem; }
+  article table { display: block; overflow-x: auto; border-radius: 5px; }
+  .pedigree-viewport { height: 60vh; min-height: 23rem; }
+  .pedigree-zoom-value { width: 100%; margin-left: 0; }
 }
