@@ -1,14 +1,14 @@
 ---
-horse_id: "H-0003"
-name: "Namnlös"
+horse_id: "H-0004"
+name: "Hästägg · Rank A"
 owner: "LOWAb"
 breeder: "LOWAb"
 status: "spawned"
-born: "2026-07-17T07:25:54.733713253Z"
-genetic_rank: B
-genetic_score: 0.777361
-color: "Vit"
-marking: "Vita strumpor"
+born: "2026-07-17T08:16:43.311409656Z"
+genetic_rank: A
+genetic_score: 0.850325
+color: "Brun"
+marking: "Vita prickar"
 inbreeding: 0.000000
 tags:
   - hästprofil
@@ -17,8 +17,8 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-17 *10:20*
-**Info in-game:** `/h paper H-0003`
-# H-0003 Namnlös
+**Info in-game:** `/h paper H-0004`
+# H-0004 Hästägg · Rank A
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
@@ -27,14 +27,14 @@ tags:
 > **Född:** 2026-07-17
 
 > [!info] Stats
-> **Hälsa:** 26,0
-> **Hopp:** 4,9 block
-> **Snabbhet:** 11,2 b/s
+> **Hälsa:** 27,4
+> **Hopp:** 4,7 block
+> **Snabbhet:** 12,7 b/s
 
 > [!info] Egenskaper
-> **Färg:** [[03. Lexikon/03.1 Färger/Vit|Vit]]
-> **Teckning:** [[03. Lexikon/03.2 Teckningar/Vita strumpor|Vita strumpor]]
-> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Vit & Vita strumpor|Vit & Vita strumpor]]
+> **Färg:** [[03. Lexikon/03.1 Färger/Brun|Brun]]
+> **Teckning:** [[03. Lexikon/03.2 Teckningar/Vita prickar|Vita prickar]]
+> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Brun & Vita prickar|Brun & Vita prickar]]
 
 ## Genetik
 
@@ -43,7 +43,7 @@ tags:
 > **Mor:** Okänd
 > **Avkommor:** -
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Fristående hästar|Öppna släktens stamtavla]]
-> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/B|B]]
+> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/A|A]]
 
 > [!warning] Varning
 > Relationen är 0/100, vilket är under 30.
@@ -68,4 +68,4 @@ tags:
 
 
 ---
-Genetisk poäng: **77.7 %** · Hälsa 73.3 % · Hopp 91.9 % · Snabbhet 67.9 %
+Genetisk poäng: **85.0 %** · Hälsa 82.7 % · Hopp 89.0 % · Snabbhet 83.4 %
