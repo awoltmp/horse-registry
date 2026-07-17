@@ -16,7 +16,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *02:30*
+**Senast uppdaterad:** 2026-07-17 *02:40*
 **Info in-game:** `/h paper H-0007`
 # H-0007 Jude
 
