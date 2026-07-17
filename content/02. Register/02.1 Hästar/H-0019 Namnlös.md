@@ -1,15 +1,15 @@
 ---
-horse_id: "H-0010"
-name: "Judessonsonson"
+horse_id: "H-0019"
+name: "Namnlös"
 owner: "Satm4ra"
 breeder: "Satm4ra"
-status: "stored"
-born: "2026-07-16T22:54:03.220125092Z"
-genetic_rank: E
-genetic_score: 0.388408
-color: "Krämvit"
+status: "spawned"
+born: "2026-07-17T00:48:48.016857613Z"
+genetic_rank: B
+genetic_score: 0.795892
+color: "Brun"
 marking: "Ingen teckning"
-inbreeding: 0.125000
+inbreeding: 0.023438
 tags:
   - hästprofil
 ---
@@ -17,36 +17,37 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-17 *02:50*
-**Info in-game:** `/h paper H-0010`
-# H-0010 Judessonsonson
+**Info in-game:** `/h paper H-0019`
+# H-0019 Namnlös
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
-> **Status:** Förvarad
+> **Status:** I världen
 > **Född:** 2026-07-17
 
 > [!info] Stats
-> **Hälsa:** 18,6
-> **Hopp:** 2,6 block
-> **Snabbhet:** 9,4 b/s
+> **Hälsa:** 26,2
+> **Hopp:** 4,3 block
+> **Snabbhet:** 12,7 b/s
 
 > [!info] Egenskaper
-> **Färg:** [[03. Lexikon/03.1 Färger/Krämvit|Krämvit]]
+> **Färg:** [[03. Lexikon/03.1 Färger/Brun|Brun]]
 > **Teckning:** [[03. Lexikon/03.2 Teckningar/Ingen teckning|Ingen teckning]]
-> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Krämvit & Ingen teckning|Krämvit & Ingen teckning]]
+> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Brun & Ingen teckning|Brun & Ingen teckning]]
 
 ## Genetik
 
 > [!info] Genetik
-> **Far:** [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]]
-> **Mor:** [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]]
+> **Far:** [[02. Register/02.1 Hästar/H-0018 Sailor V|H-0018 Sailor V]]
+> **Mor:** [[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]]
 > **Avkommor:** -
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0002|Öppna släktens stamtavla]]
-> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/E|E]]
+> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/B|B]]
 
 > [!fail] Icke godkänd
-> Inavelskoefficienten är 12,50 %.
+> Negativa mutationer: Ledsvaghet.
+> Inavelskoefficienten är 2,34 %.
 > Relationen är 1/100, vilket är under 30.
 
 ## Meriter
@@ -65,11 +66,11 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
-- Namn ändrat till Judessonsonson av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
+- Far: [[02. Register/02.1 Hästar/H-0018 Sailor V|H-0018 Sailor V]], Mor: [[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]]
 
-- Far: [[02. Register/02.1 Hästar/H-0009 Judessonson|H-0009 Judessonson]], Mor: [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]]
+- Ärftliga anlag: LEDSVAGHET
 
-- Inavelsgrad: 12,5%
+- Inavelsgrad: 2,3%
 
 - Född och registrerad av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 
@@ -78,4 +79,4 @@ tags:
 
 
 ---
-Genetisk poäng: **38.8 %** · Hälsa 24.2 % · Hopp 43.7 % · Snabbhet 48.6 %
+Genetisk poäng: **79.6 %** · Hälsa 74.9 % · Hopp 80.1 % · Snabbhet 83.7 %

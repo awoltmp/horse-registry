@@ -1,10 +1,10 @@
 #hästregister
 
-**Senast uppdaterad:** 2026-07-17 *02:40*
+**Senast uppdaterad:** 2026-07-17 *02:50*
 
 # Hästregistret
 
-**Antal hästar:** 18
+**Antal hästar:** 19
 
 [[02. Register/02.3 Stamtavlor|Öppna stamtavlorna]]
 
@@ -28,6 +28,7 @@
 - [[02. Register/02.1 Hästar/H-0016 Namnlös|H-0016 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · Förvarad
 - [[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]] · Ägare: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/B|B]] · Förvarad
 - [[02. Register/02.1 Hästar/H-0018 Sailor V|H-0018 Sailor V]] · Ägare: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/C|C]] · Förvarad
+- [[02. Register/02.1 Hästar/H-0019 Namnlös|H-0019 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/B|B]] · I världen
 
 ## Spelare
 

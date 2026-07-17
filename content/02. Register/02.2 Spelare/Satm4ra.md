@@ -1,19 +1,19 @@
 #spelarprofil
 
-**Senast uppdaterad:** 2026-07-17 *02:40*
+**Senast uppdaterad:** 2026-07-17 *02:50*
 **Info in-game:** `/h player Satm4ra`
 
 ---
 # Satm4ra
 
 > [!abstract] **Info**
-> **Antal ägda hästar:** 11
-> **Antal uppfödda hästar:** 11
+> **Antal ägda hästar:** 12
+> **Antal uppfödda hästar:** 12
 >
-> **Rank:** C (55.7 %)
-> **Bästa häst:** [[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]]
+> **Rank:** C (57.7 %)
+> **Bästa häst:** [[02. Register/02.1 Hästar/H-0019 Namnlös|H-0019 Namnlös]]
 > **Första häst:** [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]] (2026-07-17)
-> **Senaste häst:** [[02. Register/02.1 Hästar/H-0018 Sailor V|H-0018 Sailor V]] (2026-07-17)
+> **Senaste häst:** [[02. Register/02.1 Hästar/H-0019 Namnlös|H-0019 Namnlös]] (2026-07-17)
 
 ---
 ## Hästar
@@ -30,6 +30,7 @@
 [[02. Register/02.1 Hästar/H-0016 Namnlös|H-0016 Namnlös]]
 [[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]]
 [[02. Register/02.1 Hästar/H-0018 Sailor V|H-0018 Sailor V]]
+[[02. Register/02.1 Hästar/H-0019 Namnlös|H-0019 Namnlös]]
 
 #### Uppfödda hästar
 [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]]
@@ -43,6 +44,7 @@
 [[02. Register/02.1 Hästar/H-0016 Namnlös|H-0016 Namnlös]]
 [[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]]
 [[02. Register/02.1 Hästar/H-0018 Sailor V|H-0018 Sailor V]]
+[[02. Register/02.1 Hästar/H-0019 Namnlös|H-0019 Namnlös]]
 
 #### Medryttarhästar
 [[02. Register/02.1 Hästar/H-0001 Test Test|H-0001 Test Test]]
@@ -54,6 +56,8 @@
 ## Historik
 
 ==**2026-07-17**==
+- Född och registrerad av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0019 Namnlös|H-0019 Namnlös]]
+
 - Namn ändrat till Sailor V av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0018 Sailor V|H-0018 Sailor V]]
 
 - Född och registrerad av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0018 Sailor V|H-0018 Sailor V]]
