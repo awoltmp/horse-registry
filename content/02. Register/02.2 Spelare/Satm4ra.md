@@ -1,19 +1,19 @@
 #spelarprofil
 
-**Senast uppdaterad:** 2026-07-17 *03:10*
+**Senast uppdaterad:** 2026-07-17 *03:20*
 **Info in-game:** `/h player Satm4ra`
 
 ---
 # Satm4ra
 
 > [!abstract] **Info**
-> **Antal ägda hästar:** 12
-> **Antal uppfödda hästar:** 12
+> **Antal ägda hästar:** 13
+> **Antal uppfödda hästar:** 13
 >
-> **Rank:** C (57.7 %)
-> **Bästa häst:** [[02. Register/02.1 Hästar/H-0019 soju|H-0019 soju]]
+> **Rank:** C (60.4 %)
+> **Bästa häst:** [[02. Register/02.1 Hästar/H-0020 Vittra|H-0020 Vittra]]
 > **Första häst:** [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]] (2026-07-17)
-> **Senaste häst:** [[02. Register/02.1 Hästar/H-0019 soju|H-0019 soju]] (2026-07-17)
+> **Senaste häst:** [[02. Register/02.1 Hästar/H-0020 Vittra|H-0020 Vittra]] (2026-07-17)
 
 ---
 ## Hästar
@@ -31,6 +31,7 @@
 [[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]]
 [[02. Register/02.1 Hästar/H-0018 Sailor V|H-0018 Sailor V]]
 [[02. Register/02.1 Hästar/H-0019 soju|H-0019 soju]]
+[[02. Register/02.1 Hästar/H-0020 Vittra|H-0020 Vittra]]
 
 #### Uppfödda hästar
 [[02. Register/02.1 Hästar/H-0007 Jude|H-0007 Jude]]
@@ -45,6 +46,7 @@
 [[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]]
 [[02. Register/02.1 Hästar/H-0018 Sailor V|H-0018 Sailor V]]
 [[02. Register/02.1 Hästar/H-0019 soju|H-0019 soju]]
+[[02. Register/02.1 Hästar/H-0020 Vittra|H-0020 Vittra]]
 
 #### Medryttarhästar
 [[02. Register/02.1 Hästar/H-0001 Test Test|H-0001 Test Test]]
@@ -56,6 +58,10 @@
 ## Historik
 
 ==**2026-07-17**==
+- Namn ändrat till Vittra av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0020 Vittra|H-0020 Vittra]]
+
+- Född och registrerad av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0020 Vittra|H-0020 Vittra]]
+
 - Namn ändrat till soju av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0019 soju|H-0019 soju]]
 
 - Född och registrerad av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]] — [[02. Register/02.1 Hästar/H-0019 soju|H-0019 soju]]

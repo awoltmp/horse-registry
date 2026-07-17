@@ -16,7 +16,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *03:10*
+**Senast uppdaterad:** 2026-07-17 *03:20*
 **Info in-game:** `/h paper H-0019`
 # H-0019 soju
 
@@ -41,7 +41,7 @@ tags:
 > [!info] Genetik
 > **Far:** [[02. Register/02.1 Hästar/H-0018 Sailor V|H-0018 Sailor V]]
 > **Mor:** [[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]]
-> **Avkommor:** -
+> **Avkommor:** [[02. Register/02.1 Hästar/H-0020 Vittra|H-0020 Vittra]]
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0002|Öppna släktens stamtavla]]
 > **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/B|B]]
 
@@ -66,6 +66,8 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
+- Fick avkomman [[02. Register/02.1 Hästar/H-0020 Vittra|H-0020 Vittra]]
+
 - Namn ändrat till soju av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 
 - Far: [[02. Register/02.1 Hästar/H-0018 Sailor V|H-0018 Sailor V]], Mor: [[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]]
