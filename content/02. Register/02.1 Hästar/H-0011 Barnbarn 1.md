@@ -17,7 +17,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *21:40*
+**Senast uppdaterad:** 2026-07-17 *21:46*
 **Info in-game:** `/h paper H-0011`
 # H-0011 Barnbarn 1
 

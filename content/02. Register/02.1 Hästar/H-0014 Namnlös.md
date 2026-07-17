@@ -1,13 +1,13 @@
 ---
-horse_id: "H-0006"
-name: "Far 1"
+horse_id: "H-0014"
+name: "Namnlös"
 owner: "LOWAb"
 breeder: "LOWAb"
-gender: "Hingst"
+gender: "Sto"
 status: "spawned"
-born: "2026-07-17T16:31:00.43825621Z"
-genetic_rank: C
-genetic_score: 0.602155
+born: "2026-07-17T19:43:59.744449954Z"
+genetic_rank: D
+genetic_score: 0.495246
 color: "Vit"
 marking: "Svarta prickar"
 inbreeding: 0.000000
@@ -18,20 +18,20 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-17 *21:46*
-**Info in-game:** `/h paper H-0006`
-# H-0006 Far 1
+**Info in-game:** `/h paper H-0014`
+# H-0014 Namnlös
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-> **Kön:** Hingst
+> **Kön:** Sto
 > **Status:** I världen
 > **Född:** 2026-07-17
 
 > [!info] Stats
-> **Hälsa:** 29,0
-> **Hopp:** 1,8 block
-> **Snabbhet:** 11,0 b/s
+> **Hälsa:** 21,4
+> **Hopp:** 2,2 block
+> **Snabbhet:** 11,8 b/s
 
 > [!info] Egenskaper
 > **Färg:** [[03. Lexikon/03.1 Färger/Vit|Vit]]
@@ -41,11 +41,11 @@ tags:
 ## Genetik
 
 > [!info] Genetik
-> **Far:** Okänd
-> **Mor:** Okänd
-> **Avkommor:** [[02. Register/02.1 Hästar/H-0007 Föl 1|H-0007 Föl 1]], [[02. Register/02.1 Hästar/H-0013 Namnlös|H-0013 Namnlös]]
+> **Far:** [[02. Register/02.1 Hästar/H-0010 Föl 2|H-0010 Föl 2]]
+> **Mor:** [[02. Register/02.1 Hästar/H-0007 Föl 1|H-0007 Föl 1]]
+> **Avkommor:** -
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0005|Öppna släktens stamtavla]]
-> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]]
+> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/D|D]]
 
 > [!warning] Varning
 > Relationen är 0/100, vilket är under 30.
@@ -66,14 +66,10 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
-- Fick avkomman [[02. Register/02.1 Hästar/H-0013 Namnlös|H-0013 Namnlös]]
+- Far: [[02. Register/02.1 Hästar/H-0010 Föl 2|H-0010 Föl 2]], Mor: [[02. Register/02.1 Hästar/H-0007 Föl 1|H-0007 Föl 1]]
 
-- Namn ändrat till Far 1 av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-
-- Fick avkomman [[02. Register/02.1 Hästar/H-0007 Föl 1|H-0007 Föl 1]]
-
-- Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+- Född och registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 
 ---
-Genetisk poäng: **60.2 %** · Hälsa 93.3 % · Hopp 20.8 % · Snabbhet 66.5 %
+Genetisk poäng: **49.5 %** · Hälsa 42.7 % · Hopp 31.9 % · Snabbhet 74.0 %
