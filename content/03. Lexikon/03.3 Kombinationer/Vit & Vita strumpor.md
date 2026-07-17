@@ -1,3 +1,3 @@
 # Vit & Vita strumpor
 
-**Senast uppdaterad:** 2026-07-18 *01:20*
+**Senast uppdaterad:** 2026-07-18 *01:30*
