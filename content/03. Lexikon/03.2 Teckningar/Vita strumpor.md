@@ -1,3 +1,3 @@
 # Vita strumpor
 
-**Senast uppdaterad:** 2026-07-17 *08:40*
+**Senast uppdaterad:** 2026-07-17 *08:46*

@@ -1,10 +1,10 @@
 ---
-horse_id: "H-0003"
+horse_id: "H-0001"
 name: "Robert"
 owner: "LOWAb"
 breeder: "LOWAb"
-status: "stored"
-born: "2026-07-16T20:29:58.401659204Z"
+status: "spawned"
+born: "2026-07-17T06:42:45.592428468Z"
 genetic_rank: E
 genetic_score: 0.405820
 color: "Krämvit"
@@ -16,15 +16,15 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *08:40*
-**Info in-game:** `/h paper H-0003`
-# H-0003 Robert
+**Senast uppdaterad:** 2026-07-17 *08:46*
+**Info in-game:** `/h paper H-0001`
+# H-0001 Robert
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-> **Status:** Förvarad
-> **Född:** 2026-07-16
+> **Status:** I världen
+> **Född:** 2026-07-17
 
 > [!info] Stats
 > **Hälsa:** 18,0
@@ -41,8 +41,8 @@ tags:
 > [!info] Genetik
 > **Far:** Okänd
 > **Mor:** Okänd
-> **Avkommor:** [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]]
-> **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0002|Öppna släktens stamtavla]]
+> **Avkommor:** -
+> **Stamtavla:** [[02. Register/02.3 Stamtavlor/Fristående hästar|Öppna släktens stamtavla]]
 > **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/E|E]]
 
 > [!warning] Varning
@@ -64,21 +64,7 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
-- Medryttare borttagen: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
-
-- Medryttare tillagd: [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
-
-- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-
-==**2026-07-16**==
-- Namn ändrat till Robert av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-
-- Fick avkomman [[02. Register/02.1 Hästar/H-0004 Bob|H-0004 Bob]]
-
 - Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-
-==**2026-07-15**==
-- Avliden
 
 
 ---

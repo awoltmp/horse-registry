@@ -1,10 +1,10 @@
 ---
-horse_id: "H-0021"
+horse_id: "H-0002"
 name: "Namnlös"
 owner: "LOWAb"
 breeder: "LOWAb"
-status: "stored"
-born: "2026-07-17T06:13:08.465072585Z"
+status: "spawned"
+born: "2026-07-17T06:43:33.632280383Z"
 genetic_rank: C
 genetic_score: 0.563060
 color: "Mörkbrun"
@@ -16,14 +16,14 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *08:40*
-**Info in-game:** `/h paper H-0021`
-# H-0021 Namnlös
+**Senast uppdaterad:** 2026-07-17 *08:46*
+**Info in-game:** `/h paper H-0002`
+# H-0002 Namnlös
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-> **Status:** Förvarad
+> **Status:** I världen
 > **Född:** 2026-07-17
 
 > [!info] Stats
