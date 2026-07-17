@@ -5,7 +5,7 @@ cssclasses:
 
 #stamtavla
 
-**Senast uppdaterad:** 2026-07-17 *03:00*
+**Senast uppdaterad:** 2026-07-17 *03:10*
 
 # Stamtavla H-0002
 
@@ -40,7 +40,7 @@ flowchart TB
     h14["H-0016 Namnlös"]
     h15["H-0017 Sailor moon"]
     h16["H-0018 Sailor V"]
-    h17["H-0019 Namnlös"]
+    h17["H-0019 soju"]
     h0 -->|Far| h2
     h1 -->|Mor| h2
     h2 -->|Far| h4
@@ -91,4 +91,4 @@ flowchart TB
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0016%20Namnl%C3%B6s">H-0016 Namnlös</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/D">D</a> |
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0017%20Sailor%20moon">H-0017 Sailor moon</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/B">B</a> |
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0018%20Sailor%20V">H-0018 Sailor V</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/C">C</a> |
-| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0019%20Namnl%C3%B6s">H-0019 Namnlös</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/B">B</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0019%20soju">H-0019 soju</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Satm4ra">Satm4ra</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/B">B</a> |

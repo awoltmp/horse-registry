@@ -16,7 +16,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *03:00*
+**Senast uppdaterad:** 2026-07-17 *03:10*
 **Info in-game:** `/h paper H-0018`
 # H-0018 Sailor V
 
@@ -42,7 +42,7 @@ tags:
 > [!info] Genetik
 > **Far:** [[02. Register/02.1 Hästar/H-0013 Lundgrens|H-0013 Lundgrens]]
 > **Mor:** [[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]]
-> **Avkommor:** [[02. Register/02.1 Hästar/H-0019 Namnlös|H-0019 Namnlös]]
+> **Avkommor:** [[02. Register/02.1 Hästar/H-0019 soju|H-0019 soju]]
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0002|Öppna släktens stamtavla]]
 > **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]]
 
@@ -67,7 +67,7 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
-- Fick avkomman [[02. Register/02.1 Hästar/H-0019 Namnlös|H-0019 Namnlös]]
+- Fick avkomman [[02. Register/02.1 Hästar/H-0019 soju|H-0019 soju]]
 
 - Namn ändrat till Sailor V av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
 

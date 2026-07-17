@@ -1,6 +1,6 @@
 ---
 horse_id: "H-0019"
-name: "Namnlös"
+name: "soju"
 owner: "Satm4ra"
 breeder: "Satm4ra"
 status: "stored"
@@ -16,9 +16,9 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-17 *03:00*
+**Senast uppdaterad:** 2026-07-17 *03:10*
 **Info in-game:** `/h paper H-0019`
-# H-0019 Namnlös
+# H-0019 soju
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
@@ -66,6 +66,8 @@ tags:
 ## Historik
 
 ==**2026-07-17**==
+- Namn ändrat till soju av [[02. Register/02.2 Spelare/Satm4ra|Satm4ra]]
+
 - Far: [[02. Register/02.1 Hästar/H-0018 Sailor V|H-0018 Sailor V]], Mor: [[02. Register/02.1 Hästar/H-0017 Sailor moon|H-0017 Sailor moon]]
 
 - Ärftliga anlag: LEDSVAGHET
