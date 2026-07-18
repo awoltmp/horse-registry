@@ -17,7 +17,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-18 *15:00*
+**Senast uppdaterad:** 2026-07-18 *15:30*
 **Info in-game:** `/h paper H-0016`
 # H-0016 Havre
 
