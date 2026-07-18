@@ -17,7 +17,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-18 *21:00*
+**Senast uppdaterad:** 2026-07-18 *21:30*
 **Info in-game:** `/h paper H-0018`
 # H-0018 Stanley
 
