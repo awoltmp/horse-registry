@@ -1,6 +1,6 @@
 #hästregister
 
-**Senast uppdaterad:** 2026-07-18 *17:00*
+**Senast uppdaterad:** 2026-07-18 *17:30*
 
 # Hästregistret
 
@@ -27,7 +27,7 @@
 - [[02. Register/02.1 Hästar/H-0015 Namnlös|H-0015 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · I världen
 - [[02. Register/02.1 Hästar/H-0016 Havre|H-0016 Havre]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/C|C]] · I världen
 - [[02. Register/02.1 Hästar/H-0017 Namnlös|H-0017 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · I världen
-- [[02. Register/02.1 Hästar/H-0018 Stanley|H-0018 Stanley]] · Ägare: [[02. Register/02.2 Spelare/Starmooni|Starmooni]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/B|B]] · I världen
+- [[02. Register/02.1 Hästar/H-0018 Stanley|H-0018 Stanley]] · Ägare: [[02. Register/02.2 Spelare/Starmooni|Starmooni]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/B|B]] · Förvarad
 
 ## Spelare
 

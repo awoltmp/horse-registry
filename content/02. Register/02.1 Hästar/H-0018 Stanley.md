@@ -4,7 +4,7 @@ name: "Stanley"
 owner: "Starmooni"
 breeder: "Starmooni"
 gender: "Sto"
-status: "spawned"
+status: "stored"
 born: "2026-07-18T14:55:18.303870072Z"
 genetic_rank: B
 genetic_score: 0.771244
@@ -17,7 +17,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-18 *17:00*
+**Senast uppdaterad:** 2026-07-18 *17:30*
 **Info in-game:** `/h paper H-0018`
 # H-0018 Stanley
 
@@ -25,7 +25,7 @@ tags:
 > **Ägare:** [[02. Register/02.2 Spelare/Starmooni|Starmooni]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/Starmooni|Starmooni]]
 > **Kön:** Sto
-> **Status:** I världen
+> **Status:** Förvarad
 > **Född:** 2026-07-18
 
 > [!info] Stats
@@ -48,7 +48,7 @@ tags:
 > **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/B|B]]
 
 > [!warning] Varning
-> Relationen är 0/100, vilket är under 30.
+> Relationen är 1/100, vilket är under 30.
 
 ## Meriter
 
@@ -56,7 +56,7 @@ tags:
 > **Hälsa:** 0/100
 > **Hopp:** 0/100
 > **Snabbhet:** 0/100
-> **Relation:** 0/100
+> **Relation:** 1/100
 
 > [!info] Vinster
 > **[[04. Tävlingar/Sommarhoppet|Sommarhoppet]]:** 0
