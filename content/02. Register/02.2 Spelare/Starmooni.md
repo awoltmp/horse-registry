@@ -1,6 +1,6 @@
 #spelarprofil
 
-**Senast uppdaterad:** 2026-07-18 *22:00*
+**Senast uppdaterad:** 2026-07-18 *22:30*
 **Info in-game:** `/h player Starmooni`
 
 ---
