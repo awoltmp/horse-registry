@@ -1,14 +1,14 @@
 ---
-horse_id: "H-0002"
+horse_id: "H-0019"
 name: "Namnlös"
 owner: "LOWAb"
 breeder: "LOWAb"
-gender: "Sto"
-status: "dead"
-born: "2026-07-17T06:43:33.632280383Z"
-genetic_rank: C
-genetic_score: 0.563060
-color: "Mörkbrun"
+gender: "Hingst"
+status: "spawned"
+born: "2026-07-18T16:58:03.388213213Z"
+genetic_rank: D
+genetic_score: 0.481145
+color: "Vit"
 marking: "Vita strumpor"
 inbreeding: 0.000000
 tags:
@@ -18,25 +18,25 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-18 *19:00*
-**Info in-game:** `/h paper H-0002`
-# H-0002 Namnlös
+**Info in-game:** `/h paper H-0019`
+# H-0019 Namnlös
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-> **Kön:** Sto
-> **Status:** Avliden
-> **Född:** 2026-07-17
+> **Kön:** Hingst
+> **Status:** I världen
+> **Född:** 2026-07-18
 
 > [!info] Stats
-> **Hälsa:** 30,0
-> **Hopp:** 2,0 block
-> **Snabbhet:** 8,6 b/s
+> **Hälsa:** 21,0
+> **Hopp:** 2,7 block
+> **Snabbhet:** 10,3 b/s
 
 > [!info] Egenskaper
-> **Färg:** [[03. Lexikon/03.1 Färger/Mörkbrun|Mörkbrun]]
+> **Färg:** [[03. Lexikon/03.1 Färger/Vit|Vit]]
 > **Teckning:** [[03. Lexikon/03.2 Teckningar/Vita strumpor|Vita strumpor]]
-> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Mörkbrun & Vita strumpor|Mörkbrun & Vita strumpor]]
+> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Vit & Vita strumpor|Vit & Vita strumpor]]
 
 ## Genetik
 
@@ -45,7 +45,7 @@ tags:
 > **Mor:** Okänd
 > **Avkommor:** -
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Fristående hästar|Öppna släktens stamtavla]]
-> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]]
+> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/D|D]]
 
 > [!warning] Varning
 > Relationen är 0/100, vilket är under 30.
@@ -65,13 +65,9 @@ tags:
 
 ## Historik
 
-==**2026-07-17**==
-- Avliden
-
-- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-
+==**2026-07-18**==
 - Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 
 ---
-Genetisk poäng: **56.3 %** · Hälsa 100.0 % · Hopp 28.3 % · Snabbhet 40.6 %
+Genetisk poäng: **48.1 %** · Hälsa 40.0 % · Hopp 45.8 % · Snabbhet 58.6 %

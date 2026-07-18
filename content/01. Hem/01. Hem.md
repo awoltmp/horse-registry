@@ -1,10 +1,10 @@
 #hästregister
 
-**Senast uppdaterad:** 2026-07-18 *18:30*
+**Senast uppdaterad:** 2026-07-18 *19:00*
 
 # Hästregistret
 
-**Antal hästar:** 18
+**Antal hästar:** 19
 
 [[02. Register/02.3 Stamtavlor|Öppna stamtavlorna]]
 
@@ -28,6 +28,7 @@
 - [[02. Register/02.1 Hästar/H-0016 Havre|H-0016 Havre]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/C|C]] · I världen
 - [[02. Register/02.1 Hästar/H-0017 Namnlös|H-0017 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · I världen
 - [[02. Register/02.1 Hästar/H-0018 Stanley|H-0018 Stanley]] · Ägare: [[02. Register/02.2 Spelare/Starmooni|Starmooni]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/B|B]] · Förvarad
+- [[02. Register/02.1 Hästar/H-0019 Namnlös|H-0019 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · I världen
 
 ## Spelare
 
