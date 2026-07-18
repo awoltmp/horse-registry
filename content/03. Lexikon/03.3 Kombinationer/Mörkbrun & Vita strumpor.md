@@ -1,3 +1,3 @@
 # Mörkbrun & Vita strumpor
 
-**Senast uppdaterad:** 2026-07-18 *12:00*
+**Senast uppdaterad:** 2026-07-18 *12:30*
