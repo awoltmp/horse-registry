@@ -1,15 +1,15 @@
 ---
-horse_id: "H-0002"
+horse_id: "H-0004"
 name: "Namnlös"
-owner: "mmlx"
-breeder: "mmlx"
+owner: "Grisimon"
+breeder: "Grisimon"
 gender: "Sto"
 status: "stored"
-born: "2026-07-21T16:47:31.99833867Z"
-genetic_rank: F
-genetic_score: 0.206203
-color: "Vit"
-marking: "Svarta prickar"
+born: "2026-07-21T20:52:25.552210862Z"
+genetic_rank: D
+genetic_score: 0.499668
+color: "Okänd"
+marking: "Okänd"
 inbreeding: 0.000000
 tags:
   - hästprofil
@@ -18,25 +18,25 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-21 *22:54*
-**Info in-game:** `/h paper H-0002`
-# H-0002 Namnlös
+**Info in-game:** `/h paper H-0004`
+# H-0004 Namnlös
 
 > [!abstract] Info
-> **Ägare:** [[02. Register/02.2 Spelare/mmlx|mmlx]]
-> **Uppfödare:** [[02. Register/02.2 Spelare/mmlx|mmlx]]
+> **Ägare:** [[02. Register/02.2 Spelare/Grisimon|Grisimon]]
+> **Uppfödare:** [[02. Register/02.2 Spelare/Grisimon|Grisimon]]
 > **Kön:** Sto
 > **Status:** Förvarad
 > **Född:** 2026-07-21
 
 > [!info] Stats
-> **Hälsa:** 17,7
-> **Hopp:** 1,5 block
-> **Snabbhet:** 7,6 b/s
+> **Hälsa:** 25,0
+> **Hopp:** 2,2 block
+> **Snabbhet:** 9,5 b/s
 
 > [!info] Egenskaper
-> **Färg:** [[03. Lexikon/03.1 Färger/Vit|Vit]]
-> **Teckning:** [[03. Lexikon/03.2 Teckningar/Svarta prickar|Svarta prickar]]
-> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Vit & Svarta prickar|Vit & Svarta prickar]]
+> **Färg:** [[03. Lexikon/03.1 Färger/Okänd|Okänd]]
+> **Teckning:** [[03. Lexikon/03.2 Teckningar/Okänd|Okänd]]
+> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Okänd & Okänd|Okänd & Okänd]]
 
 ## Genetik
 
@@ -45,7 +45,7 @@ tags:
 > **Mor:** Okänd
 > **Avkommor:** -
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Fristående hästar|Öppna släktens stamtavla]]
-> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/F|F]]
+> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/D|D]]
 
 > [!warning] Varning
 > Relationen är 0/100, vilket är under 30.
@@ -66,8 +66,8 @@ tags:
 ## Historik
 
 ==**2026-07-21**==
-- Registrerad av [[02. Register/02.2 Spelare/mmlx|mmlx]]
+- Registrerad av [[02. Register/02.2 Spelare/Grisimon|Grisimon]]
 
 
 ---
-Genetisk poäng: **20.6 %** · Hälsa 17.7 % · Hopp 14.2 % · Snabbhet 29.9 %
+Genetisk poäng: **50.0 %** · Hälsa 66.7 % · Hopp 33.5 % · Snabbhet 49.7 %
