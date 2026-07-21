@@ -1,6 +1,6 @@
 ---
 horse_id: "H-0004"
-name: "Namnlös"
+name: "Adfer, MR. Marmite"
 owner: "Grisimon"
 breeder: "Grisimon"
 gender: "Sto"
@@ -8,8 +8,8 @@ status: "stored"
 born: "2026-07-21T20:52:25.552210862Z"
 genetic_rank: D
 genetic_score: 0.499668
-color: "Okänd"
-marking: "Okänd"
+color: "Grå"
+marking: "Ingen teckning"
 inbreeding: 0.000000
 tags:
   - hästprofil
@@ -17,9 +17,9 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-21 *22:54*
+**Senast uppdaterad:** 2026-07-21 *23:25*
 **Info in-game:** `/h paper H-0004`
-# H-0004 Namnlös
+# H-0004 Adfer, MR. Marmite
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/Grisimon|Grisimon]]
@@ -34,9 +34,9 @@ tags:
 > **Snabbhet:** 9,5 b/s
 
 > [!info] Egenskaper
-> **Färg:** [[03. Lexikon/03.1 Färger/Okänd|Okänd]]
-> **Teckning:** [[03. Lexikon/03.2 Teckningar/Okänd|Okänd]]
-> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Okänd & Okänd|Okänd & Okänd]]
+> **Färg:** [[03. Lexikon/03.1 Färger/Grå|Grå]]
+> **Teckning:** [[03. Lexikon/03.2 Teckningar/Ingen teckning|Ingen teckning]]
+> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Grå & Ingen teckning|Grå & Ingen teckning]]
 
 ## Genetik
 
@@ -66,6 +66,8 @@ tags:
 ## Historik
 
 ==**2026-07-21**==
+- Ny handling utskriven av [[02. Register/02.2 Spelare/Grisimon|Grisimon]]
+
 - Registrerad av [[02. Register/02.2 Spelare/Grisimon|Grisimon]]
 
 

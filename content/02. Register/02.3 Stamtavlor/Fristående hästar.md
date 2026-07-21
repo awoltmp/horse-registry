@@ -5,7 +5,7 @@ cssclasses:
 
 #stamtavla
 
-**Senast uppdaterad:** 2026-07-21 *22:54*
+**Senast uppdaterad:** 2026-07-21 *23:25*
 
 # Fristående hästar
 
@@ -29,7 +29,7 @@ flowchart TB
     h0["H-0001 Namnlös"]
     h1["H-0002 Namnlös"]
     h2["H-0003 Robert"]
-    h3["H-0004 Namnlös"]
+    h3["H-0004 Adfer, MR. Marmite"]
     class h0,h1,h2,h3 internal-link;
 ```
 
@@ -44,4 +44,4 @@ Inga kända genetiska riskanlag finns registrerade i stamtavlan.
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0001%20Namnl%C3%B6s">H-0001 Namnlös</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/KlussiAreCool">KlussiAreCool</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/KlussiAreCool">KlussiAreCool</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/F">F</a> |
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0002%20Namnl%C3%B6s">H-0002 Namnlös</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/mmlx">mmlx</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/mmlx">mmlx</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/F">F</a> |
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0003%20Robert">H-0003 Robert</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/F">F</a> |
-| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0004%20Namnl%C3%B6s">H-0004 Namnlös</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Grisimon">Grisimon</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Grisimon">Grisimon</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/D">D</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0004%20Adfer%2C%20MR.%20Marmite">H-0004 Adfer, MR. Marmite</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Grisimon">Grisimon</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Grisimon">Grisimon</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/D">D</a> |
