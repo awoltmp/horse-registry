@@ -1,15 +1,15 @@
 ---
-horse_id: "H-0001"
+horse_id: "H-0002"
 name: "Namnlös"
-owner: "KlussiAreCool"
-breeder: "KlussiAreCool"
-gender: "Hingst"
+owner: "mmlx"
+breeder: "mmlx"
+gender: "Sto"
 status: "stored"
-born: "2026-07-21T16:42:07.127731043Z"
+born: "2026-07-21T16:47:31.99833867Z"
 genetic_rank: F
-genetic_score: 0.179788
+genetic_score: 0.206203
 color: "Vit"
-marking: "Ingen teckning"
+marking: "Svarta prickar"
 inbreeding: 0.000000
 tags:
   - hästprofil
@@ -18,25 +18,25 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-21 *18:48*
-**Info in-game:** `/h paper H-0001`
-# H-0001 Namnlös
+**Info in-game:** `/h paper H-0002`
+# H-0002 Namnlös
 
 > [!abstract] Info
-> **Ägare:** [[02. Register/02.2 Spelare/KlussiAreCool|KlussiAreCool]]
-> **Uppfödare:** [[02. Register/02.2 Spelare/KlussiAreCool|KlussiAreCool]]
-> **Kön:** Hingst
+> **Ägare:** [[02. Register/02.2 Spelare/mmlx|mmlx]]
+> **Uppfödare:** [[02. Register/02.2 Spelare/mmlx|mmlx]]
+> **Kön:** Sto
 > **Status:** Förvarad
 > **Född:** 2026-07-21
 
 > [!info] Stats
-> **Hälsa:** 15,2
-> **Hopp:** 2,7 block
-> **Snabbhet:** 5,4 b/s
+> **Hälsa:** 17,7
+> **Hopp:** 1,5 block
+> **Snabbhet:** 7,6 b/s
 
 > [!info] Egenskaper
 > **Färg:** [[03. Lexikon/03.1 Färger/Vit|Vit]]
-> **Teckning:** [[03. Lexikon/03.2 Teckningar/Ingen teckning|Ingen teckning]]
-> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Vit & Ingen teckning|Vit & Ingen teckning]]
+> **Teckning:** [[03. Lexikon/03.2 Teckningar/Svarta prickar|Svarta prickar]]
+> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Vit & Svarta prickar|Vit & Svarta prickar]]
 
 ## Genetik
 
@@ -66,8 +66,8 @@ tags:
 ## Historik
 
 ==**2026-07-21**==
-- Registrerad av [[02. Register/02.2 Spelare/KlussiAreCool|KlussiAreCool]]
+- Registrerad av [[02. Register/02.2 Spelare/mmlx|mmlx]]
 
 
 ---
-Genetisk poäng: **18.0 %** · Hälsa 1.5 % · Hopp 46.0 % · Snabbhet 6.5 %
+Genetisk poäng: **20.6 %** · Hälsa 17.7 % · Hopp 14.2 % · Snabbhet 29.9 %

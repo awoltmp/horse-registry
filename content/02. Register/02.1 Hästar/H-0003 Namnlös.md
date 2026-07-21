@@ -1,13 +1,13 @@
 ---
-horse_id: "H-0001"
+horse_id: "H-0003"
 name: "Namnlös"
-owner: "KlussiAreCool"
-breeder: "KlussiAreCool"
-gender: "Hingst"
+owner: "LOWAb"
+breeder: "LOWAb"
+gender: "Sto"
 status: "stored"
-born: "2026-07-21T16:42:07.127731043Z"
+born: "2026-07-21T16:47:50.697766853Z"
 genetic_rank: F
-genetic_score: 0.179788
+genetic_score: 0.112291
 color: "Vit"
 marking: "Ingen teckning"
 inbreeding: 0.000000
@@ -18,20 +18,20 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-21 *18:48*
-**Info in-game:** `/h paper H-0001`
-# H-0001 Namnlös
+**Info in-game:** `/h paper H-0003`
+# H-0003 Namnlös
 
 > [!abstract] Info
-> **Ägare:** [[02. Register/02.2 Spelare/KlussiAreCool|KlussiAreCool]]
-> **Uppfödare:** [[02. Register/02.2 Spelare/KlussiAreCool|KlussiAreCool]]
-> **Kön:** Hingst
+> **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+> **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+> **Kön:** Sto
 > **Status:** Förvarad
 > **Född:** 2026-07-21
 
 > [!info] Stats
-> **Hälsa:** 15,2
-> **Hopp:** 2,7 block
-> **Snabbhet:** 5,4 b/s
+> **Hälsa:** 15,0
+> **Hopp:** 1,7 block
+> **Snabbhet:** 6,2 b/s
 
 > [!info] Egenskaper
 > **Färg:** [[03. Lexikon/03.1 Färger/Vit|Vit]]
@@ -66,8 +66,8 @@ tags:
 ## Historik
 
 ==**2026-07-21**==
-- Registrerad av [[02. Register/02.2 Spelare/KlussiAreCool|KlussiAreCool]]
+- Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 
 ---
-Genetisk poäng: **18.0 %** · Hälsa 1.5 % · Hopp 46.0 % · Snabbhet 6.5 %
+Genetisk poäng: **11.2 %** · Hälsa 0.3 % · Hopp 18.1 % · Snabbhet 15.3 %

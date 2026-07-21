@@ -5,21 +5,21 @@ cssclasses:
 
 #stamtavla
 
-**Senast uppdaterad:** 2026-07-21 *18:43*
+**Senast uppdaterad:** 2026-07-21 *18:48*
 
 # Fristående hästar
 
 > [!abstract] Släktöversikt
 > **Placering bland stamtavlor:** Ej rangordnad
-> **Antal hästar:** 1
-> **Genomsnittlig genetisk rank:** [[03. Lexikon/03.4 Genetiska ranker/F|F]] (18.0 %)
+> **Antal hästar:** 3
+> **Genomsnittlig genetisk rank:** [[03. Lexikon/03.4 Genetiska ranker/F|F]] (16.6 %)
 > **Genomsnittlig inavelsgrad:** 0,00 %
-> **Stamtavlans genetiska anlag:** 0 förekomster · 0 typer · 0 av 1 hästar berörda
-> **Genomsnittlig hälsa:** 15,2
-> **Genomsnittligt hopp:** 2,7 block
-> **Genomsnittlig snabbhet:** 5,4 b/s
-> **Ägare:** [[02. Register/02.2 Spelare/KlussiAreCool|KlussiAreCool]]
-> **Uppfödare:** [[02. Register/02.2 Spelare/KlussiAreCool|KlussiAreCool]]
+> **Stamtavlans genetiska anlag:** 0 förekomster · 0 typer · 0 av 3 hästar berörda
+> **Genomsnittlig hälsa:** 16,0
+> **Genomsnittligt hopp:** 2,0 block
+> **Genomsnittlig snabbhet:** 6,4 b/s
+> **Ägare:** [[02. Register/02.2 Spelare/KlussiAreCool|KlussiAreCool]], [[02. Register/02.2 Spelare/LOWAb|LOWAb]], [[02. Register/02.2 Spelare/mmlx|mmlx]]
+> **Uppfödare:** [[02. Register/02.2 Spelare/KlussiAreCool|KlussiAreCool]], [[02. Register/02.2 Spelare/LOWAb|LOWAb]], [[02. Register/02.2 Spelare/mmlx|mmlx]]
 
 Hästarna på denna sida saknar registrerade släktband till andra hästar.
 
@@ -27,7 +27,9 @@ Hästarna på denna sida saknar registrerade släktband till andra hästar.
 %%{init: {"flowchart": {"nodeSpacing": 10, "rankSpacing": 18, "curve": "basis", "htmlLabels": true}, "themeVariables": {"fontSize": "10px"}}}%%
 flowchart TB
     h0["H-0001 Namnlös"]
-    class h0 internal-link;
+    h1["H-0002 Namnlös"]
+    h2["H-0003 Namnlös"]
+    class h0,h1,h2 internal-link;
 ```
 
 ## Genetiska anlag i stamtavlan
@@ -39,3 +41,5 @@ Inga kända genetiska riskanlag finns registrerade i stamtavlan.
 | Häst | Ägare | Uppfödare | Rank |
 |---|---|---|:---:|
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0001%20Namnl%C3%B6s">H-0001 Namnlös</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/KlussiAreCool">KlussiAreCool</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/KlussiAreCool">KlussiAreCool</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/F">F</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0002%20Namnl%C3%B6s">H-0002 Namnlös</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/mmlx">mmlx</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/mmlx">mmlx</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/F">F</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0003%20Namnl%C3%B6s">H-0003 Namnlös</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/F">F</a> |
