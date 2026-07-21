@@ -1,15 +1,15 @@
 ---
-horse_id: "H-0004"
-name: "Adfer, MR. Marmite"
+horse_id: "H-0006"
+name: "Hero"
 owner: "Grisimon"
 breeder: "Grisimon"
 gender: "Sto"
 status: "stored"
-born: "2026-07-21T20:52:25.552210862Z"
-genetic_rank: D
-genetic_score: 0.499668
-color: "Grå"
-marking: "Ingen teckning"
+born: "2026-07-21T21:32:57.715908855Z"
+genetic_rank: C
+genetic_score: 0.653573
+color: "Vit"
+marking: "Vita prickar"
 inbreeding: 0.000000
 tags:
   - hästprofil
@@ -18,8 +18,8 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-21 *23:37*
-**Info in-game:** `/h paper H-0004`
-# H-0004 Adfer, MR. Marmite
+**Info in-game:** `/h paper H-0006`
+# H-0006 Hero
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/Grisimon|Grisimon]]
@@ -30,13 +30,13 @@ tags:
 
 > [!info] Stats
 > **Hälsa:** 25,0
-> **Hopp:** 2,2 block
-> **Snabbhet:** 9,5 b/s
+> **Hopp:** 3,7 block
+> **Snabbhet:** 10,5 b/s
 
 > [!info] Egenskaper
-> **Färg:** [[03. Lexikon/03.1 Färger/Grå|Grå]]
-> **Teckning:** [[03. Lexikon/03.2 Teckningar/Ingen teckning|Ingen teckning]]
-> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Grå & Ingen teckning|Grå & Ingen teckning]]
+> **Färg:** [[03. Lexikon/03.1 Färger/Vit|Vit]]
+> **Teckning:** [[03. Lexikon/03.2 Teckningar/Vita prickar|Vita prickar]]
+> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Vit & Vita prickar|Vit & Vita prickar]]
 
 ## Genetik
 
@@ -45,7 +45,7 @@ tags:
 > **Mor:** Okänd
 > **Avkommor:** -
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Fristående hästar|Öppna släktens stamtavla]]
-> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/D|D]]
+> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]]
 
 > [!warning] Varning
 > Relationen är 0/100, vilket är under 30.
@@ -66,10 +66,10 @@ tags:
 ## Historik
 
 ==**2026-07-21**==
-- Ny handling utskriven av [[02. Register/02.2 Spelare/Grisimon|Grisimon]]
+- Namn ändrat till Hero av [[02. Register/02.2 Spelare/Grisimon|Grisimon]]
 
 - Registrerad av [[02. Register/02.2 Spelare/Grisimon|Grisimon]]
 
 
 ---
-Genetisk poäng: **50.0 %** · Hälsa 66.7 % · Hopp 33.5 % · Snabbhet 49.7 %
+Genetisk poäng: **65.4 %** · Hälsa 66.7 % · Hopp 68.7 % · Snabbhet 60.7 %

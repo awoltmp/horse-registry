@@ -1,15 +1,15 @@
 ---
-horse_id: "H-0003"
-name: "Robert"
+horse_id: "H-0009"
+name: "Namnlös"
 owner: "LOWAb"
 breeder: "LOWAb"
-gender: "Sto"
+gender: "Hingst"
 status: "stored"
-born: "2026-07-21T16:47:50.697766853Z"
-genetic_rank: F
-genetic_score: 0.112291
+born: "2026-07-21T21:35:21.27052302Z"
+genetic_rank: E
+genetic_score: 0.382705
 color: "Vit"
-marking: "Ingen teckning"
+marking: "Vitfält"
 inbreeding: 0.000000
 tags:
   - hästprofil
@@ -18,34 +18,34 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-21 *23:37*
-**Info in-game:** `/h paper H-0003`
-# H-0003 Robert
+**Info in-game:** `/h paper H-0009`
+# H-0009 Namnlös
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-> **Kön:** Sto
+> **Kön:** Hingst
 > **Status:** Förvarad
 > **Född:** 2026-07-21
 
 > [!info] Stats
-> **Hälsa:** 15,0
-> **Hopp:** 1,7 block
-> **Snabbhet:** 6,2 b/s
+> **Hälsa:** 17,0
+> **Hopp:** 3,4 block
+> **Snabbhet:** 8,6 b/s
 
 > [!info] Egenskaper
 > **Färg:** [[03. Lexikon/03.1 Färger/Vit|Vit]]
-> **Teckning:** [[03. Lexikon/03.2 Teckningar/Ingen teckning|Ingen teckning]]
-> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Vit & Ingen teckning|Vit & Ingen teckning]]
+> **Teckning:** [[03. Lexikon/03.2 Teckningar/Vitfält|Vitfält]]
+> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Vit & Vitfält|Vit & Vitfält]]
 
 ## Genetik
 
 > [!info] Genetik
 > **Far:** Okänd
 > **Mor:** Okänd
-> **Avkommor:** -
-> **Stamtavla:** [[02. Register/02.3 Stamtavlor/Fristående hästar|Öppna släktens stamtavla]]
-> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/F|F]]
+> **Avkommor:** [[02. Register/02.1 Hästar/H-0010 Namnlös|H-0010 Namnlös]]
+> **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0008|Öppna släktens stamtavla]]
+> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/E|E]]
 
 > [!warning] Varning
 > Relationen är 0/100, vilket är under 30.
@@ -66,12 +66,10 @@ tags:
 ## Historik
 
 ==**2026-07-21**==
-- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-
-- Namn ändrat till Robert av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+- Fick avkomman [[02. Register/02.1 Hästar/H-0010 Namnlös|H-0010 Namnlös]]
 
 - Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 
 ---
-Genetisk poäng: **11.2 %** · Hälsa 0.3 % · Hopp 18.1 % · Snabbhet 15.3 %
+Genetisk poäng: **38.3 %** · Hälsa 13.3 % · Hopp 60.7 % · Snabbhet 40.7 %

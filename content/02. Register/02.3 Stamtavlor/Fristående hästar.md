@@ -5,21 +5,21 @@ cssclasses:
 
 #stamtavla
 
-**Senast uppdaterad:** 2026-07-21 *23:25*
+**Senast uppdaterad:** 2026-07-21 *23:37*
 
 # Fristående hästar
 
 > [!abstract] Släktöversikt
 > **Placering bland stamtavlor:** Ej rangordnad
-> **Antal hästar:** 4
-> **Genomsnittlig genetisk rank:** [[03. Lexikon/03.4 Genetiska ranker/F|F]] (24.9 %)
+> **Antal hästar:** 8
+> **Genomsnittlig genetisk rank:** [[03. Lexikon/03.4 Genetiska ranker/D|D]] (42.7 %)
 > **Genomsnittlig inavelsgrad:** 0,00 %
-> **Stamtavlans genetiska anlag:** 0 förekomster · 0 typer · 0 av 4 hästar berörda
-> **Genomsnittlig hälsa:** 18,2
-> **Genomsnittligt hopp:** 2,0 block
-> **Genomsnittlig snabbhet:** 7,2 b/s
-> **Ägare:** [[02. Register/02.2 Spelare/Grisimon|Grisimon]], [[02. Register/02.2 Spelare/KlussiAreCool|KlussiAreCool]], [[02. Register/02.2 Spelare/LOWAb|LOWAb]], [[02. Register/02.2 Spelare/mmlx|mmlx]]
-> **Uppfödare:** [[02. Register/02.2 Spelare/Grisimon|Grisimon]], [[02. Register/02.2 Spelare/KlussiAreCool|KlussiAreCool]], [[02. Register/02.2 Spelare/LOWAb|LOWAb]], [[02. Register/02.2 Spelare/mmlx|mmlx]]
+> **Stamtavlans genetiska anlag:** 0 förekomster · 0 typer · 0 av 8 hästar berörda
+> **Genomsnittlig hälsa:** 21,0
+> **Genomsnittligt hopp:** 2,9 block
+> **Genomsnittlig snabbhet:** 8,6 b/s
+> **Ägare:** [[02. Register/02.2 Spelare/Grisimon|Grisimon]], [[02. Register/02.2 Spelare/KlussiAreCool|KlussiAreCool]], [[02. Register/02.2 Spelare/LOWAb|LOWAb]], [[02. Register/02.2 Spelare/mmlx|mmlx]], [[02. Register/02.2 Spelare/swedishbreadd|swedishbreadd]]
+> **Uppfödare:** [[02. Register/02.2 Spelare/Grisimon|Grisimon]], [[02. Register/02.2 Spelare/KlussiAreCool|KlussiAreCool]], [[02. Register/02.2 Spelare/LOWAb|LOWAb]], [[02. Register/02.2 Spelare/mmlx|mmlx]], [[02. Register/02.2 Spelare/swedishbreadd|swedishbreadd]]
 
 Hästarna på denna sida saknar registrerade släktband till andra hästar.
 
@@ -30,7 +30,11 @@ flowchart TB
     h1["H-0002 Namnlös"]
     h2["H-0003 Robert"]
     h3["H-0004 Adfer, MR. Marmite"]
-    class h0,h1,h2,h3 internal-link;
+    h4["H-0005 Chapell, Hill"]
+    h5["H-0006 Hero"]
+    h6["H-0007 Namnlös"]
+    h7["H-0011 LGF"]
+    class h0,h1,h2,h3,h4,h5,h6,h7 internal-link;
 ```
 
 ## Genetiska anlag i stamtavlan
@@ -45,3 +49,7 @@ Inga kända genetiska riskanlag finns registrerade i stamtavlan.
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0002%20Namnl%C3%B6s">H-0002 Namnlös</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/mmlx">mmlx</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/mmlx">mmlx</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/F">F</a> |
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0003%20Robert">H-0003 Robert</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/F">F</a> |
 | <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0004%20Adfer%2C%20MR.%20Marmite">H-0004 Adfer, MR. Marmite</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Grisimon">Grisimon</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Grisimon">Grisimon</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/D">D</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0005%20Chapell%2C%20Hill">H-0005 Chapell, Hill</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Grisimon">Grisimon</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Grisimon">Grisimon</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/C">C</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0006%20Hero">H-0006 Hero</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Grisimon">Grisimon</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/Grisimon">Grisimon</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/C">C</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0007%20Namnl%C3%B6s">H-0007 Namnlös</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/LOWAb">LOWAb</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/B">B</a> |
+| <a class="internal" href="/02.%20Register/02.1%20H%C3%A4star/H-0011%20LGF">H-0011 LGF</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/swedishbreadd">swedishbreadd</a> | <a class="internal" href="/02.%20Register/02.2%20Spelare/swedishbreadd">swedishbreadd</a> | <a class="internal" href="/03.%20Lexikon/03.4%20Genetiska%20ranker/D">D</a> |
