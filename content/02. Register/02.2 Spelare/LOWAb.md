@@ -1,6 +1,6 @@
 #spelarprofil
 
-**Senast uppdaterad:** 2026-07-21 *18:48*
+**Senast uppdaterad:** 2026-07-21 *18:59*
 **Info in-game:** `/h player LOWAb`
 
 ---
@@ -11,18 +11,18 @@
 > **Antal uppfödda hästar:** 1
 >
 > **Rank:** F (11.2 %)
-> **Bästa häst:** [[02. Register/02.1 Hästar/H-0003 Namnlös|H-0003 Namnlös]]
-> **Första häst:** [[02. Register/02.1 Hästar/H-0003 Namnlös|H-0003 Namnlös]] (2026-07-21)
-> **Senaste häst:** [[02. Register/02.1 Hästar/H-0003 Namnlös|H-0003 Namnlös]] (2026-07-21)
+> **Bästa häst:** [[02. Register/02.1 Hästar/H-0003 Robert|H-0003 Robert]]
+> **Första häst:** [[02. Register/02.1 Hästar/H-0003 Robert|H-0003 Robert]] (2026-07-21)
+> **Senaste häst:** [[02. Register/02.1 Hästar/H-0003 Robert|H-0003 Robert]] (2026-07-21)
 
 ---
 ## Hästar
 
 #### Ägda hästar
-[[02. Register/02.1 Hästar/H-0003 Namnlös|H-0003 Namnlös]]
+[[02. Register/02.1 Hästar/H-0003 Robert|H-0003 Robert]]
 
 #### Uppfödda hästar
-[[02. Register/02.1 Hästar/H-0003 Namnlös|H-0003 Namnlös]]
+[[02. Register/02.1 Hästar/H-0003 Robert|H-0003 Robert]]
 
 #### Medryttarhästar
 -
@@ -30,4 +30,6 @@
 ## Historik
 
 ==**2026-07-21**==
-- Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0003 Namnlös|H-0003 Namnlös]]
+- Namn ändrat till Robert av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0003 Robert|H-0003 Robert]]
+
+- Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]] — [[02. Register/02.1 Hästar/H-0003 Robert|H-0003 Robert]]

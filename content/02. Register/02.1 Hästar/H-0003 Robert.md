@@ -1,6 +1,6 @@
 ---
 horse_id: "H-0003"
-name: "Namnlös"
+name: "Robert"
 owner: "LOWAb"
 breeder: "LOWAb"
 gender: "Sto"
@@ -17,9 +17,9 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-21 *18:48*
+**Senast uppdaterad:** 2026-07-21 *18:59*
 **Info in-game:** `/h paper H-0003`
-# H-0003 Namnlös
+# H-0003 Robert
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
@@ -66,6 +66,8 @@ tags:
 ## Historik
 
 ==**2026-07-21**==
+- Namn ändrat till Robert av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+
 - Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 
