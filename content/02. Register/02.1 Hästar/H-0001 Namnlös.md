@@ -1,13 +1,13 @@
 ---
-horse_id: "H-0015"
+horse_id: "H-0001"
 name: "Namnlös"
-owner: "LOWAb"
-breeder: "LOWAb"
-gender: "Sto"
-status: "spawned"
-born: "2026-07-17T21:10:15.467932971Z"
-genetic_rank: D
-genetic_score: 0.423960
+owner: "KlussiAreCool"
+breeder: "KlussiAreCool"
+gender: "Hingst"
+status: "stored"
+born: "2026-07-21T16:42:07.127731043Z"
+genetic_rank: F
+genetic_score: 0.179788
 color: "Vit"
 marking: "Ingen teckning"
 inbreeding: 0.000000
@@ -17,21 +17,21 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-18 *23:30*
-**Info in-game:** `/h paper H-0015`
-# H-0015 Namnlös
+**Senast uppdaterad:** 2026-07-21 *18:43*
+**Info in-game:** `/h paper H-0001`
+# H-0001 Namnlös
 
 > [!abstract] Info
-> **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-> **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
-> **Kön:** Sto
-> **Status:** I världen
-> **Född:** 2026-07-17
+> **Ägare:** [[02. Register/02.2 Spelare/KlussiAreCool|KlussiAreCool]]
+> **Uppfödare:** [[02. Register/02.2 Spelare/KlussiAreCool|KlussiAreCool]]
+> **Kön:** Hingst
+> **Status:** Förvarad
+> **Född:** 2026-07-21
 
 > [!info] Stats
-> **Hälsa:** 20,0
-> **Hopp:** 2,2 block
-> **Snabbhet:** 10,6 b/s
+> **Hälsa:** 15,2
+> **Hopp:** 2,7 block
+> **Snabbhet:** 5,4 b/s
 
 > [!info] Egenskaper
 > **Färg:** [[03. Lexikon/03.1 Färger/Vit|Vit]]
@@ -45,7 +45,7 @@ tags:
 > **Mor:** Okänd
 > **Avkommor:** -
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Fristående hästar|Öppna släktens stamtavla]]
-> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/D|D]]
+> **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/F|F]]
 
 > [!warning] Varning
 > Relationen är 0/100, vilket är under 30.
@@ -65,9 +65,9 @@ tags:
 
 ## Historik
 
-==**2026-07-17**==
-- Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+==**2026-07-21**==
+- Registrerad av [[02. Register/02.2 Spelare/KlussiAreCool|KlussiAreCool]]
 
 
 ---
-Genetisk poäng: **42.4 %** · Hälsa 33.3 % · Hopp 32.5 % · Snabbhet 61.3 %
+Genetisk poäng: **18.0 %** · Hälsa 1.5 % · Hopp 46.0 % · Snabbhet 6.5 %
