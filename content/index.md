@@ -1,16 +1,16 @@
 #hästregister
 
-**Senast uppdaterad:** 2026-07-22 *19:40*
+**Senast uppdaterad:** 2026-07-23 *00:00*
 
 # Hästregistret
 
-**Antal hästar:** 11
+**Antal hästar:** 12
 
 [[02. Register/02.3 Stamtavlor|Öppna stamtavlorna]]
 
 ## Hästar
 
-- [[02. Register/02.1 Hästar/H-0001 Namnlös|H-0001 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/KlussiAreCool|KlussiAreCool]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/F|F]] · Förvarad
+- [[02. Register/02.1 Hästar/H-0001 Namnlös|H-0001 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/KlussiAreCool|KlussiAreCool]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/F|F]] · Avliden
 - [[02. Register/02.1 Hästar/H-0002 Namnlös|H-0002 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/mmlx|mmlx]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/F|F]] · Förvarad
 - [[02. Register/02.1 Hästar/H-0003 Robert|H-0003 Robert]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/F|F]] · Förvarad
 - [[02. Register/02.1 Hästar/H-0004 Adfer, MR. Marmite|H-0004 Adfer, MR. Marmite]] · Ägare: [[02. Register/02.2 Spelare/Grisimon|Grisimon]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · Förvarad
@@ -21,6 +21,7 @@
 - [[02. Register/02.1 Hästar/H-0009 Namnlös|H-0009 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/E|E]] · Förvarad
 - [[02. Register/02.1 Hästar/H-0010 Namnlös|H-0010 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/C|C]] · I världen
 - [[02. Register/02.1 Hästar/H-0011 LGF|H-0011 LGF]] · Ägare: [[02. Register/02.2 Spelare/swedishbreadd|swedishbreadd]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · Förvarad
+- [[02. Register/02.1 Hästar/H-0012 Epona|H-0012 Epona]] · Ägare: [[02. Register/02.2 Spelare/KlussiAreCool|KlussiAreCool]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/F|F]] · Förvarad
 
 ## Spelare
 
