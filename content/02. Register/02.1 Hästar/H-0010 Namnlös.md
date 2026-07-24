@@ -17,7 +17,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-24 *00:00*
+**Senast uppdaterad:** 2026-07-25 *00:00*
 **Info in-game:** `/h paper H-0010`
 # H-0010 Namnlös
 
@@ -44,7 +44,7 @@ tags:
 > **Far:** [[02. Register/02.1 Hästar/H-0009 Namnlös|H-0009 Namnlös]]
 > **Mor:** [[02. Register/02.1 Hästar/H-0008 Namnlös|H-0008 Namnlös]]
 > **Avkommor:** -
-> **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0008|Öppna släktens stamtavla]]
+> **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0007|Öppna släktens stamtavla]]
 > **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]]
 
 > [!warning] Varning

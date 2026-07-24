@@ -1,14 +1,14 @@
 ---
-horse_id: "H-0008"
+horse_id: "H-0013"
 name: "Namnlös"
 owner: "LOWAb"
 breeder: "LOWAb"
 gender: "Sto"
-status: "stored"
-born: "2026-07-21T21:34:48.262765073Z"
+status: "spawned"
+born: "2026-07-24T23:41:24.049477714+02:00"
 genetic_rank: C
-genetic_score: 0.628385
-color: "Svart"
+genetic_score: 0.562098
+color: "Vit"
 marking: "Vitfält"
 inbreeding: 0.000000
 tags:
@@ -18,32 +18,32 @@ tags:
 #hästprofil
 
 **Senast uppdaterad:** 2026-07-25 *00:00*
-**Info in-game:** `/h paper H-0008`
-# H-0008 Namnlös
+**Info in-game:** `/h paper H-0013`
+# H-0013 Namnlös
 
 > [!abstract] Info
 > **Ägare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Uppfödare:** [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 > **Kön:** Sto
-> **Status:** Förvarad
-> **Född:** 2026-07-21
+> **Status:** I världen
+> **Född:** 2026-07-24
 
 > [!info] Stats
-> **Hälsa:** 29,0
-> **Hopp:** 3,2 block
-> **Snabbhet:** 8,4 b/s
+> **Hälsa:** 21,0
+> **Hopp:** 3,7 block
+> **Snabbhet:** 10,5 b/s
 
 > [!info] Egenskaper
-> **Färg:** [[03. Lexikon/03.1 Färger/Svart|Svart]]
+> **Färg:** [[03. Lexikon/03.1 Färger/Vit|Vit]]
 > **Teckning:** [[03. Lexikon/03.2 Teckningar/Vitfält|Vitfält]]
-> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Svart & Vitfält|Svart & Vitfält]]
+> **Kombinerad:** [[03. Lexikon/03.3 Kombinationer/Vit & Vitfält|Vit & Vitfält]]
 
 ## Genetik
 
 > [!info] Genetik
-> **Far:** Okänd
-> **Mor:** Okänd
-> **Avkommor:** [[02. Register/02.1 Hästar/H-0010 Namnlös|H-0010 Namnlös]]
+> **Far:** [[02. Register/02.1 Hästar/H-0009 Namnlös|H-0009 Namnlös]]
+> **Mor:** [[02. Register/02.1 Hästar/H-0007 Namnlös|H-0007 Namnlös]]
+> **Avkommor:** -
 > **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0007|Öppna släktens stamtavla]]
 > **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/C|C]]
 
@@ -65,11 +65,11 @@ tags:
 
 ## Historik
 
-==**2026-07-21**==
-- Fick avkomman [[02. Register/02.1 Hästar/H-0010 Namnlös|H-0010 Namnlös]]
+==**2026-07-24**==
+- Far: [[02. Register/02.1 Hästar/H-0009 Namnlös|H-0009 Namnlös]], Mor: [[02. Register/02.1 Hästar/H-0007 Namnlös|H-0007 Namnlös]]
 
-- Registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
+- Född och registrerad av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 
 ---
-Genetisk poäng: **62.8 %** · Hälsa 93.3 % · Hopp 57.1 % · Snabbhet 38.0 %
+Genetisk poäng: **56.2 %** · Hälsa 39.7 % · Hopp 68.5 % · Snabbhet 60.4 %

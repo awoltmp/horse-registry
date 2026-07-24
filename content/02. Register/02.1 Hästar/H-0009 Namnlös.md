@@ -17,7 +17,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-24 *00:00*
+**Senast uppdaterad:** 2026-07-25 *00:00*
 **Info in-game:** `/h paper H-0009`
 # H-0009 Namnlös
 
@@ -43,8 +43,8 @@ tags:
 > [!info] Genetik
 > **Far:** Okänd
 > **Mor:** Okänd
-> **Avkommor:** [[02. Register/02.1 Hästar/H-0010 Namnlös|H-0010 Namnlös]]
-> **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0008|Öppna släktens stamtavla]]
+> **Avkommor:** [[02. Register/02.1 Hästar/H-0010 Namnlös|H-0010 Namnlös]], [[02. Register/02.1 Hästar/H-0013 Namnlös|H-0013 Namnlös]]
+> **Stamtavla:** [[02. Register/02.3 Stamtavlor/Stamtavla H-0007|Öppna släktens stamtavla]]
 > **Genetisk Rank:** [[03. Lexikon/03.4 Genetiska ranker/E|E]]
 
 > [!warning] Varning
@@ -64,6 +64,11 @@ tags:
 > **[[04. Tävlingar/Dressyrcupen|Dressyrcupen]]:** 0
 
 ## Historik
+
+==**2026-07-24**==
+- Fick avkomman [[02. Register/02.1 Hästar/H-0013 Namnlös|H-0013 Namnlös]]
+
+- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 ==**2026-07-21**==
 - Fick avkomman [[02. Register/02.1 Hästar/H-0010 Namnlös|H-0010 Namnlös]]

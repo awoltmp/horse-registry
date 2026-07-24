@@ -1,10 +1,10 @@
 #hästregister
 
-**Senast uppdaterad:** 2026-07-24 *00:00*
+**Senast uppdaterad:** 2026-07-25 *00:00*
 
 # Hästregistret
 
-**Antal hästar:** 12
+**Antal hästar:** 13
 
 [[02. Register/02.3 Stamtavlor|Öppna stamtavlorna]]
 
@@ -22,6 +22,7 @@
 - [[02. Register/02.1 Hästar/H-0010 Namnlös|H-0010 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/C|C]] · I världen
 - [[02. Register/02.1 Hästar/H-0011 LGF|H-0011 LGF]] · Ägare: [[02. Register/02.2 Spelare/swedishbreadd|swedishbreadd]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/D|D]] · Förvarad
 - [[02. Register/02.1 Hästar/H-0012 Epona|H-0012 Epona]] · Ägare: [[02. Register/02.2 Spelare/KlussiAreCool|KlussiAreCool]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/F|F]] · Förvarad
+- [[02. Register/02.1 Hästar/H-0013 Namnlös|H-0013 Namnlös]] · Ägare: [[02. Register/02.2 Spelare/LOWAb|LOWAb]] · Rank: [[03. Lexikon/03.4 Genetiska ranker/C|C]] · I världen
 
 ## Spelare
 
