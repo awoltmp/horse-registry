@@ -17,7 +17,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-26 *00:00*
+**Senast uppdaterad:** 2026-07-26 *01:00*
 **Info in-game:** `/h paper H-0003`
 # H-0003 Robert
 
@@ -64,6 +64,9 @@ tags:
 > **[[04. Tävlingar/Dressyrcupen|Dressyrcupen]]:** 0
 
 ## Historik
+
+==**2026-07-26**==
+- Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
 
 ==**2026-07-21**==
 - Ny handling utskriven av [[02. Register/02.2 Spelare/LOWAb|LOWAb]]
