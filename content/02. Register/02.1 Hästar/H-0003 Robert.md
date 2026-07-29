@@ -17,7 +17,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-29 *16:00*
+**Senast uppdaterad:** 2026-07-29 *18:00*
 **Info in-game:** `/h paper H-0003`
 # H-0003 Robert
 
