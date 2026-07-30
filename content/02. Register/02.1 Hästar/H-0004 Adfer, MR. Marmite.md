@@ -17,7 +17,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-07-30 *18:00*
+**Senast uppdaterad:** 2026-07-30 *20:00*
 **Info in-game:** `/h paper H-0004`
 # H-0004 Adfer, MR. Marmite
 
