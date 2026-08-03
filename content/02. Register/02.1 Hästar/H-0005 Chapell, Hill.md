@@ -17,7 +17,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-08-03 *10:00*
+**Senast uppdaterad:** 2026-08-03 *11:00*
 **Info in-game:** `/h paper H-0005`
 # H-0005 Chapell, Hill
 
