@@ -5,7 +5,7 @@ cssclasses:
 
 #stamtavla
 
-**Senast uppdaterad:** 2026-08-10 *11:00*
+**Senast uppdaterad:** 2026-08-10 *16:00*
 
 # Fristående hästar
 
