@@ -1,3 +1,3 @@
 # Vit & Svarta prickar
 
-**Senast uppdaterad:** 2026-08-10 *18:00*
+**Senast uppdaterad:** 2026-08-10 *20:00*
