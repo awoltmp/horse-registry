@@ -1,6 +1,6 @@
 #spelarprofil
 
-**Senast uppdaterad:** 2026-08-11 *16:00*
+**Senast uppdaterad:** 2026-08-11 *18:00*
 **Info in-game:** `/h player LOWAb`
 
 ---
