@@ -1,6 +1,6 @@
 #spelarprofil
 
-**Senast uppdaterad:** 2026-08-15 *21:00*
+**Senast uppdaterad:** 2026-08-15 *22:00*
 **Info in-game:** `/h player Grisimon`
 
 ---
