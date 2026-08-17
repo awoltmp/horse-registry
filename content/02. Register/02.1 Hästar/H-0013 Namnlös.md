@@ -17,7 +17,7 @@ tags:
 
 #hästprofil
 
-**Senast uppdaterad:** 2026-08-17 *22:00*
+**Senast uppdaterad:** 2026-08-17 *23:00*
 **Info in-game:** `/h paper H-0013`
 # H-0013 Namnlös
 
