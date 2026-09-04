@@ -1,3 +1,3 @@
 # Grå
 
-**Senast uppdaterad:** 2026-09-05 *00:00*
+**Senast uppdaterad:** 2026-09-05 *01:00*
