@@ -1,6 +1,6 @@
 #spelarprofil
 
-**Senast uppdaterad:** 2026-09-13 *22:00*
+**Senast uppdaterad:** 2026-09-13 *23:00*
 **Info in-game:** `/h player swedishbreadd`
 
 ---
