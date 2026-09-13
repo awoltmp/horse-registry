@@ -1,3 +1,3 @@
 # Svarta prickar
 
-**Senast uppdaterad:** 2026-09-13 *23:00*
+**Senast uppdaterad:** 2026-09-14 *00:00*
