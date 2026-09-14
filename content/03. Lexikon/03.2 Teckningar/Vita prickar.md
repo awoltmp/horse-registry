@@ -1,3 +1,3 @@
 # Vita prickar
 
-**Senast uppdaterad:** 2026-09-14 *23:00*
+**Senast uppdaterad:** 2026-09-15 *00:00*
