@@ -5,7 +5,7 @@ cssclasses:
 
 #stamtavla
 
-**Senast uppdaterad:** 2026-09-17 *16:00*
+**Senast uppdaterad:** 2026-09-17 *18:00*
 
 # Stamtavla H-0007
 
