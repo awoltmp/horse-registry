@@ -1,5 +1,5 @@
 # Sommarhoppet
 
-**Senast uppdaterad:** 2026-09-17 *23:00*
+**Senast uppdaterad:** 2026-09-18 *00:00*
 
 **Gren:** Hoppning
