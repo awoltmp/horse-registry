@@ -1,6 +1,6 @@
 #spelarprofil
 
-**Senast uppdaterad:** 2026-09-19 *23:00*
+**Senast uppdaterad:** 2026-09-20 *00:00*
 **Info in-game:** `/h player mmlx`
 
 ---
