@@ -1,5 +1,5 @@
 # Dressyrcupen
 
-**Senast uppdaterad:** 2026-09-23 *11:00*
+**Senast uppdaterad:** 2026-09-23 *16:00*
 
 **Gren:** Dressyr
