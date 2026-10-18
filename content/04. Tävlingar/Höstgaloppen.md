@@ -1,5 +1,5 @@
 # Höstgaloppen
 
-**Senast uppdaterad:** 2026-10-18 *23:00*
+**Senast uppdaterad:** 2026-10-19 *00:00*
 
 **Gren:** Kapplöpning
