@@ -1,6 +1,6 @@
 #hästregister
 
-**Senast uppdaterad:** 2026-10-21 *18:00*
+**Senast uppdaterad:** 2026-10-21 *20:00*
 
 # Hästregistret
 
