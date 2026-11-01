@@ -1,6 +1,6 @@
 #spelarprofil
 
-**Senast uppdaterad:** 2026-11-01 *23:00*
+**Senast uppdaterad:** 2026-11-02 *00:00*
 **Info in-game:** `/h player KlussiAreCool`
 
 ---
