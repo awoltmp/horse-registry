@@ -1,3 +1,3 @@
 # Svart
 
-**Senast uppdaterad:** 2026-11-07 *20:00*
+**Senast uppdaterad:** 2026-11-07 *21:00*
