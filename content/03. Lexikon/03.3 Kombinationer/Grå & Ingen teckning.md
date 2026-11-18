@@ -1,3 +1,3 @@
 # Grå & Ingen teckning
 
-**Senast uppdaterad:** 2026-11-18 *00:00*
+**Senast uppdaterad:** 2026-11-18 *01:00*
