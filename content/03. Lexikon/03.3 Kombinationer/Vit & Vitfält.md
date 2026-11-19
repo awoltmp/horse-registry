@@ -1,3 +1,3 @@
 # Vit & Vitfält
 
-**Senast uppdaterad:** 2026-11-19 *18:00*
+**Senast uppdaterad:** 2026-11-19 *20:00*
