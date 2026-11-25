@@ -1,3 +1,3 @@
 # Svart & Vitfält
 
-**Senast uppdaterad:** 2026-11-25 *16:00*
+**Senast uppdaterad:** 2026-11-25 *18:00*
